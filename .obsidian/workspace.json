@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "bd413007ced7b9f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b90393f75e9dd72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c31d52b6fbb3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash 01 syntax_follow_along"
+            }
+          }
+        ]
+      },
+      {
+        "id": "613f7b72a4dcbbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125dedbfc0b491aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24b6aaa674c88d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "575be77edf7c221c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4235ebf137547e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "670632fe299aeadc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7709e8774081c40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa22f7cbe315a6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fb2a3c7922a352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55961c3d6f0c74d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bash 01 syntax_follow_along"
+            }
+          },
+          {
+            "id": "31bd10f58d1bd48d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bash 01 syntax_follow_along"
+            }
+          },
+          {
+            "id": "4d9a4ea7994321c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43463223e29a4950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bash 01 syntax_follow_along"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "125dedbfc0b491aa",
+  "lastOpenFiles": [
+    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+    "home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash/hello.sh.md",
+    "01-Linux/Bash/Bash piping.md",
+    "home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash",
+    "home/Xilian/brain/computer_science/Computer_science/01-Linux",
+    "home/Xilian/brain/computer_science/Computer_science",
+    "home/Xilian/brain/computer_science",
+    "home/Xilian/brain",
+    "home/Xilian",
+    "home",
+    "01-Linux/Bash/Bash.md",
+    "01-Linux/Bash/Bash commands for the interview..md",
+    "hello.sh.md",
+    "01-Linux/Bash/mansplain.sh",
+    "01-Linux/GNU.md",
+    "01-Linux/Linux.md",
+    "00 - Organization and motivation.md",
+    "01-Linux/SystemD/SystemD.md",
+    "Neovim-Lua/API",
+    "Python/core",
+    "Welcome.md"
+  ]
+}

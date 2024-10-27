@@ -1,0 +1,1 @@
+It's a mass collaboration project to give computer users the freedom and control in their use of computers and computing devices. So all the programs under the GNU General Public License can be used completely for free for any purposes.

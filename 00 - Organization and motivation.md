@@ -1,0 +1,1 @@
+The idea of this vault is to order and leave a register of many advancements in studying the area of computation, involving [[Linux]], [[Bash]], [[nvim]] and more. There will be a folder with examples for each case, and structured summaries of different videos showcasing commands for easy access. 
