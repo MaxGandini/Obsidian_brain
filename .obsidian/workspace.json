@@ -11,10 +11,14 @@
             "id": "125dedbfc0b491aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-Linux/Bash/mansplain.sh",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mansplain"
             }
           }
         ]
@@ -135,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md"
+                "file": "01-Linux/Bash/mansplain.sh"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bash 01 syntax_follow_along"
+              "title": "Outline of mansplain"
             }
           }
         ]
@@ -162,27 +166,27 @@
   },
   "active": "125dedbfc0b491aa",
   "lastOpenFiles": [
+    "01-Linux/Bash/hello.sh",
+    "01-Linux/Bash/Bash piping.md",
+    "01-Linux/Bash/obsidian_runner.sh",
+    "01-Linux/Bash/mansplain.sh",
+    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+    "home/Xilian/brain/computer_science/Computer_science/01-Linux/hello.sh.md",
     "01-Linux/Bash/Bash.md",
     "2024-10-27.md",
     "Python/function.py",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash/hello.sh.md",
-    "home/Xilian/brain/computer_science/Computer_science/01-Linux/hello.sh.md",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux/hello.sh 1.md",
-    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
     "01-Linux/Bash/Bash commands for the interview..md",
     "notes/dailies",
     "notes",
     "Git/obsidian_vault.git.md",
     "Git/Git.md",
-    "01-Linux/Bash/Bash piping.md",
     "Untitled.md",
     "Git",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux",
     "home/Xilian/brain/computer_science/Computer_science",
-    "home/Xilian/brain/computer_science",
-    "home/Xilian/brain",
-    "home/Xilian",
     "hello.sh.md",
     "01-Linux/GNU.md",
     "01-Linux/Linux.md",

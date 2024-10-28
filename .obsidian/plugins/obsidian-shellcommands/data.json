@@ -24,13 +24,49 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "qtuoazz2iw",
+      "id": "nntrb2wnfi",
       "platform_specific_commands": {
-        "default": "/usr/bin/nvim \"$filepath\""
+        "default": "/home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash/obsidian_runner.sh {{file_path}}\n"
       },
       "shells": {},
-      "alias": "Onvim",
-      "icon": "terminal-square",
+      "alias": "nvim",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_handlers": {
+        "stdout": {
+          "handler": "ignore",
+          "convert_ansi_code": true
+        },
+        "stderr": {
+          "handler": "notification",
+          "convert_ansi_code": true
+        }
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "execution_notification_mode": null,
+      "events": {},
+      "debounce": null,
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "k87bbkt20y",
+      "platform_specific_commands": {
+        "default": "nvim {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "runvim\\",
+      "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
