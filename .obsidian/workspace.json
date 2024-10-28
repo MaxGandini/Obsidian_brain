@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5b90393f75e9dd72",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08c31d52b6fbb3ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash 01 syntax_follow_along"
-            }
-          }
-        ]
-      },
-      {
         "id": "613f7b72a4dcbbb8",
         "type": "tabs",
         "children": [
@@ -170,6 +150,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,26 +162,32 @@
   },
   "active": "125dedbfc0b491aa",
   "lastOpenFiles": [
-    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+    "01-Linux/Bash/Bash.md",
+    "2024-10-27.md",
+    "Python/function.py",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash/hello.sh.md",
+    "home/Xilian/brain/computer_science/Computer_science/01-Linux/hello.sh.md",
+    "home/Xilian/brain/computer_science/Computer_science/01-Linux/hello.sh 1.md",
+    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+    "01-Linux/Bash/Bash commands for the interview..md",
+    "notes/dailies",
+    "notes",
+    "Git/obsidian_vault.git.md",
+    "Git/Git.md",
     "01-Linux/Bash/Bash piping.md",
+    "Untitled.md",
+    "Git",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux",
     "home/Xilian/brain/computer_science/Computer_science",
     "home/Xilian/brain/computer_science",
     "home/Xilian/brain",
     "home/Xilian",
-    "home",
-    "01-Linux/Bash/Bash.md",
-    "01-Linux/Bash/Bash commands for the interview..md",
     "hello.sh.md",
-    "01-Linux/Bash/mansplain.sh",
     "01-Linux/GNU.md",
     "01-Linux/Linux.md",
     "00 - Organization and motivation.md",
     "01-Linux/SystemD/SystemD.md",
-    "Neovim-Lua/API",
-    "Python/core",
     "Welcome.md"
   ]
 }
