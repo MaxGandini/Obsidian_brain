@@ -5,7 +5,9 @@
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
   "working_directory": "",
-  "default_shells": {},
+  "default_shells": {
+    "linux": "/bin/bash"
+  },
   "environment_variable_path_augmentations": {},
   "show_installation_warnings": true,
   "error_message_duration": 20,
@@ -24,12 +26,14 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "nntrb2wnfi",
+      "id": "12thjurqtt",
       "platform_specific_commands": {
-        "default": "/home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash/obsidian_runner.sh {{file_path}}\n"
+        "default": "/home/Xilian/brain/computer_science/Computer_science/01-Linux/Bash/obsidian_runner.sh \"{{file_path:absolute}}\""
       },
-      "shells": {},
-      "alias": "nvim",
+      "shells": {
+        "linux": "/bin/bash"
+      },
+      "alias": "nvim_",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -38,7 +42,7 @@
       },
       "output_handlers": {
         "stdout": {
-          "handler": "ignore",
+          "handler": "open-files",
           "convert_ansi_code": true
         },
         "stderr": {
@@ -56,43 +60,13 @@
       "events": {},
       "debounce": null,
       "command_palette_availability": "enabled",
-      "preactions": [],
-      "variable_default_values": {}
-    },
-    {
-      "id": "k87bbkt20y",
-      "platform_specific_commands": {
-        "default": "nvim {{file_path:absolute}}"
-      },
-      "shells": {},
-      "alias": "runvim\\",
-      "icon": null,
-      "confirm_execution": false,
-      "ignore_error_codes": [],
-      "input_contents": {
-        "stdin": null
-      },
-      "output_handlers": {
-        "stdout": {
-          "handler": "ignore",
-          "convert_ansi_code": true
-        },
-        "stderr": {
-          "handler": "notification",
-          "convert_ansi_code": true
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": ""
         }
-      },
-      "output_wrappers": {
-        "stdout": null,
-        "stderr": null
-      },
-      "output_channel_order": "stdout-first",
-      "output_handling_mode": "buffered",
-      "execution_notification_mode": null,
-      "events": {},
-      "debounce": null,
-      "command_palette_availability": "enabled",
-      "preactions": [],
+      ],
       "variable_default_values": {}
     }
   ],
@@ -103,6 +77,24 @@
     "obsidian_uri": true,
     "output_assignment": true
   },
-  "custom_shells": [],
+  "custom_shells": [
+    {
+      "id": "6qey6ctq0t",
+      "name": "",
+      "description": "",
+      "binary_path": "/bin/bash",
+      "shell_arguments": [
+        "-c",
+        "{{!shell_command_content}}"
+      ],
+      "host_platform": "linux",
+      "host_platform_configurations": {},
+      "shell_platform": null,
+      "escaper": "UnixShell",
+      "path_translator": null,
+      "shell_command_wrapper": null,
+      "shell_command_test": "echo \"command\""
+    }
+  ],
   "output_wrappers": []
 }

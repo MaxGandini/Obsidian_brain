@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Linux/Bash/mansplain.sh",
+                "file": "01-Linux/Bash/hello.sh",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mansplain"
+              "title": "hello"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/mansplain.sh"
+                "file": "01-Linux/Bash/hello.sh"
               },
               "icon": "lucide-list",
-              "title": "Outline of mansplain"
+              "title": "Outline of hello"
             }
           }
         ]
@@ -166,10 +166,10 @@
   },
   "active": "125dedbfc0b491aa",
   "lastOpenFiles": [
-    "01-Linux/Bash/hello.sh",
-    "01-Linux/Bash/Bash piping.md",
-    "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/mansplain.sh",
+    "01-Linux/Bash/obsidian_runner.sh",
+    "01-Linux/Bash/Bash piping.md",
+    "01-Linux/Bash/hello.sh",
     "01-Linux/Bash/Bash 01 syntax_follow_along.md",
     "home/Xilian/brain/computer_science/Computer_science/01-Linux/hello.sh.md",
     "01-Linux/Bash/Bash.md",

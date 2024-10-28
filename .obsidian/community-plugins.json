@@ -1,6 +1,6 @@
 [
-  "obsidian-shellcommands",
   "obsidian-git",
   "obsidian-icon-folder",
-  "obsidian-custom-file-extensions-plugin"
+  "obsidian-custom-file-extensions-plugin",
+  "obsidian-shellcommands"
 ]
