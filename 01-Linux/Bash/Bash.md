@@ -1,7 +1,8 @@
 ---
 id: Bash
-aliases: []
-tags: []
+aliases: 
+tags: 
+weight: "100"
 ---
 
 Bash is a shell program and command language. 

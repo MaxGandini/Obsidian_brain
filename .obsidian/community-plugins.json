@@ -3,5 +3,9 @@
   "obsidian-icon-folder",
   "obsidian-custom-file-extensions-plugin",
   "obsidian-shellcommands",
-  "vimium"
+  "vimium",
+  "calendar",
+  "ink",
+  "obsidian-latex-suite",
+  "custom-node-size"
 ]

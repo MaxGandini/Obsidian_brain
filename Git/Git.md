@@ -1,4 +1,4 @@
-[[00 - Organization and motivation]]
+[[01-Organization and motivation]]
 Github is a cloud-based platform to store share and work with others to write code.
 You can showcase or share, track and manage, let other review the code and collaborate on a shared project without worrying that you changes will impact you collaborators.
 
