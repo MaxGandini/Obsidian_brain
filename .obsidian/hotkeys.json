@@ -1,0 +1,18 @@
+{
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "O"
+    }
+  ],
+  "vimium:show-markers": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}
