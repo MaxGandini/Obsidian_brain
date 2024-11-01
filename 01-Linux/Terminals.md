@@ -1,0 +1,2 @@
+Terminals are a text input and output environment, specifically they are programs that allow to run a [[Shell]] .
+Terminal emulators, such a wezterm or alacritty are text only windows that emulate a console in a graphical user interface.

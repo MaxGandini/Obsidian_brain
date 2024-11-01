@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/k-means.py",
+                "file": "01-Linux/Tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "k-means"
+              "title": "Tmux"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/k-means.py"
+                "file": "01-Linux/Tmux.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of k-means"
+              "title": "Outline of Tmux"
             }
           },
           {
@@ -187,10 +187,28 @@
   },
   "active": "125dedbfc0b491aa",
   "lastOpenFiles": [
-    "AI/Machine_Learning/k-means.py~",
-    "AI/Machine_Learning/k-means-example.md",
+    "01-Linux/Tmux.md",
+    "01-Linux/Linux.md",
+    "z_Attachments/linux.png.download",
+    "01-Linux/Bash/hello.sh",
+    "z_Attachments/linux.md",
+    "z_Attachments/linux",
+    "z_Attachments/linux.png",
+    "z_Attachments/linux.download",
+    "z_Attachments/tmux-working-diagram-4174023875.jpg",
+    "z_Attachments/tmux-working-diagram-4174023875.jpg.download",
+    "01-Linux/Kernel.md",
+    "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",
+    "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png.download",
+    "01-Linux/Terminals.md",
+    "01-Linux/Shell.md",
+    "01-Linux/Console.md",
+    "01-Linux/Bash/Untitled.md",
+    "01-Linux/Bash/Bash.md",
     "AI/Machine_Learning/K-Means clustering.md",
     "AI/Machine_Learning/k-means.py",
+    "AI/Machine_Learning/k-means.py~",
+    "AI/Machine_Learning/k-means-example.md",
     "AI/AI - Important.md",
     "Python/Python.md",
     "Git/obsidian_vault.git.md",
@@ -208,30 +226,11 @@
     "z_Attachments/cluster_flip.png",
     "Ink/Machine-Learning/k-means-example.md",
     "Ink/Machine-Learning/K-Means clustering.md",
-    "Ink/Machine-Learning/k_means_clustering.py",
     "z_Attachments/Flow-chartflow_chart.jpg",
-    "_Attachments/cluster_flip",
-    "_Attachments/cluster_flip.download",
-    "_Attachments/clusters_flip.html",
     "z_Attachments/cluster_ini.png",
-    "_Attachments/cluster_ini",
-    "_Attachments/cluster_ini.download",
     "_Attachments/clustering_non.jpg",
     "z_Attachments/clustering_success.png",
     "_Attachments/clustering_non.png",
-    "_Attachments/clustering_success",
-    "Ink/Machine-Learning/Machine Learning.md",
-    "01-Linux/Bash/Bash.md",
-    "Ink/Machine-Learning/Unsupervised-Learning.md",
-    "z_Attachments/PCA_visual.png",
-    "_Attachments/Flow-chart-of-K-means-clustering-algorithm-2426226877.jpg",
-    "z_Attachments/Cluster_graph.png",
-    "_Attachments/clustering_diag.png",
-    "Ink/Machine-Learning/Sci-kit Learn.md",
-    "_Attachments/clustering_diag.md",
-    "Ink/Machine-Learning/Supervised-Unsupervised learning.md",
-    "Ink/Machine-Learning/Supervised-Learning.md",
-    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
-    "01-Linux/Bash/Bash piping.md"
+    "z_Attachments/PCA_visual.png"
   ]
 }

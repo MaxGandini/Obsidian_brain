@@ -1,4 +1,5 @@
-Example of [[Unsupervised-Learning]] . It takes *K* as a hyper parameter.
+Example of [[Unsupervised-Learning]] . It takes *K* as a hyperft tmux
+parameter.
 
 Optimization P: Minimization of the sum of square distances with respect to a group center.
 ![[Flow-chartflow_chart.jpg]]

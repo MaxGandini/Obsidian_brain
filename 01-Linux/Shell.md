@@ -1,0 +1,2 @@
+The shell is the command-line interpreter. It's a program that processes commands and outputs the results.
+A good way to remember this, is that it's name comes from it being the "outer-most" part of the Kernel.
