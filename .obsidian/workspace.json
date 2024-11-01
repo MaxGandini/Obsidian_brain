@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Linux/Tmux.md",
+                "file": "AI/Machine_Learning/k-means.py",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tmux"
+              "title": "k-means"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Tmux.md"
+                "file": "AI/Machine_Learning/k-means.py"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tmux"
+              "title": "Outline of k-means"
             }
           },
           {
@@ -187,6 +187,13 @@
   },
   "active": "125dedbfc0b491aa",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Unsupervised-Learning.md",
+    "AI/Machine_Learning/Supervised-Learning.md",
+    "AI/Machine_Learning/Supervised-Unsupervised Learning.md",
+    "AI/Machine_Learning/Machine Learning.md",
+    "AI/Machine_Learning/k-means++.md",
+    "AI/Machine_Learning/k-means-example.md",
+    "AI/Machine_Learning/K-Means clustering.md",
     "01-Linux/Tmux.md",
     "01-Linux/Linux.md",
     "z_Attachments/linux.png.download",
@@ -205,23 +212,16 @@
     "01-Linux/Console.md",
     "01-Linux/Bash/Untitled.md",
     "01-Linux/Bash/Bash.md",
-    "AI/Machine_Learning/K-Means clustering.md",
     "AI/Machine_Learning/k-means.py",
     "AI/Machine_Learning/k-means.py~",
-    "AI/Machine_Learning/k-means-example.md",
     "AI/AI - Important.md",
     "Python/Python.md",
     "Git/obsidian_vault.git.md",
     "01-Organization and motivation.md",
-    "AI/Machine_Learning/Machine Learning.md",
     "AI/AI.md",
     "AI",
     "Machine Learning/AI.md",
-    "AI/Machine_Learning/Unsupervised-Learning.md",
-    "AI/Machine_Learning/Supervised-Learning.md",
     "AI/Machine_Learning/Sci-Kit Learn.md",
-    "AI/Machine_Learning/k-means++.md",
-    "AI/Machine_Learning/Supervised-Unsupervised Learning.md",
     "AI/Machine_Learning",
     "z_Attachments/cluster_flip.png",
     "Ink/Machine-Learning/k-means-example.md",

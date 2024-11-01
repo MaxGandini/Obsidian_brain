@@ -6,7 +6,7 @@ It is important to use techniques which normalize our data, some machine learnin
 
 - Dimensional reduction:
 
-Principle component analysis (PCA) is the best linear technique (a basis-change) to reduce the number of components. 
+Principle component analysis (PCA) is the best *linear* technique (a basis-change) to reduce the number of components. 
 
 ![[PCA_visual.png]]
 
