@@ -45,6 +45,6 @@ df = df.join(
         y="y_cluster",
         label="Centro del cluster",
     )
+    .show()
 )
-plt.scatter(df['x'],df['y'])
 plt.show()
