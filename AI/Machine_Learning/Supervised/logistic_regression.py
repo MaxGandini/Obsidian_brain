@@ -1,10 +1,9 @@
-from sklearn.linear_model import LogisticRegression
 import numpy as np
 import pandas as pd
-import seaborn.objects as so 
 
+from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import OrdinalEncoder
-
+from sklearn.preprocessing import MinMaxScaler
 #Very simple model for classifying fruits
 df = pd.DataFrame(
     {
@@ -17,44 +16,41 @@ df = pd.DataFrame(
 from sklearn.compose import ColumnTransformer
 
 X = df.drop('fruit',axis=1)
-
+y = df['fruit']
 transformer = ColumnTransformer(
     [
         (
             "category",  # nombre (prefijo)
             OrdinalEncoder(),  # transformación
             ["core"],  # columnas
+        ),
+        (
+            "number",
+            MinMaxScaler(),
+            ["weight"],
         )
     ],
     remainder="passthrough",
     #verbose_feature_names_out=True,
 )
 
-X_transformed = transformer.fit_transform(X)  # Fit and transform the data
-X_transformed_df = pd.DataFrame(X_transformed, df.columns)
+data_= pd.DataFrame(transformer.fit_transform(X), columns=transformer.get_feature_names_out())
+apple_ = pd.DataFrame(np.array([[140,1,"yes"]]),columns=['weight','color','core']) 
+apple =pd.DataFrame(transformer.fit_transform(apple_), columns=transformer.get_feature_names_out()) 
 
-# data = pd.concat([X_transformed_df,X.drop('core')],ignore_index=True)
-y = df['fruit']
-logreg = LogisticRegression()
-trained_logreg = logreg.fit(X_transformed_df,y)
+model = LogisticRegression()
+model_fit = model.fit(data_,y)
+data = pd.concat([data_, apple], ignore_index=True)
+data['predictions'] = np.concatenate((model_fit.predict(data_), model_fit.predict(apple)))
 
-apple = np.array([[140,1,"yes"]]) # Adjust based on what 'medium' should represent
-new_df = pd.DataFrame(apple, df.columns)
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-# Transform the new data using the same ColumnTransformer
-new_df_transformed = transformer.transform(new_df)
-
-# Make predictions
-predicted_logreg = trained_logreg.predict(X_transformed_df)
-predicted_apple = trained_logreg.predict(new_df_transformed)
-
-data = pd.concat([X,new_df],ignore_index=True)
-data['predictions'] = np.concatenate((predicted_apple,predicted_logreg))
-print(data)
-(
-   so.Plot(data, x="weight")
-    .add(so.Line(), y="predictions", label="predictions")
-    .add(so.Dot(), y="color", label="color")
-    .label(y="fruit")
-    .show()
-)
+plt.figure(figsize=(10, 6))
+sns.scatterplot(data=data, x="number__weight", y="predictions", label="Predictions")
+sns.lineplot(data=data, x="number__weight", y="category__core", label="Category Core")
+plt.title("Logistic Regression Predictions")
+plt.xlabel("Weight")
+plt.ylabel("Predictions")
+plt.legend()
+plt.show()

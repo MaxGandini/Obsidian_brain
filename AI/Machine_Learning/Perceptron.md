@@ -1,0 +1,3 @@
+A perceptron is a [[Supervised-Learning]] algorithm. It works as a binary classifier, taking [[Tensors]] as inputs and deciding through the calculation of a number if the object represented by the input belongs to some specific class.
+
+In the context of neural nets, the perceptron is an artificial neuron([[Nodes]]) using the heaviside step function as the activation function. The [[Universal approximation theorem]] can be use to show that using a [[logistic function]] as an approximation will also work.

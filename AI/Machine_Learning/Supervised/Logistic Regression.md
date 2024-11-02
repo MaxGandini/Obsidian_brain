@@ -8,3 +8,7 @@ $$\log \left( \frac{P(y = 1 | X)}{1 - P(y = 1 | X)} \right) = \beta_0 + \beta_1 
 
 The expression for the probability is easily obtainable and with respect to a variable X, it look like the image above.
 In machine learning this is a useful way of training a model to predict a boolean variable with a certain probability given some features X. 
+
+![[logreg_result.png]]
+
+This is the result of the simplistic model above. For this, we used an instance of [[Preprocessor]] in [[Sci-Kit Learn]] . 

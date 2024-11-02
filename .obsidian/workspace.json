@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine_Learning/Neural Network.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Neural Network"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Tensors.md"
+                "file": "AI/Machine_Learning/Neural Network.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tensors"
+              "title": "Outline of Neural Network"
             }
           },
           {
@@ -212,14 +216,39 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ef96f3b6dd3a03a6",
   "lastOpenFiles": [
-    "z_Attachments/tensor.png",
+    "AI/Machine_Learning/Machine Learning.md",
+    "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "Mathematics/logistic function.md",
+    "Pipeline.md",
+    "AI/Machine_Learning/Supervised/logistic_regression.py",
+    "AI/Machine_Learning/Supervised/Logistic Regression.md",
+    "AI/Machine_Learning/Activation function.md",
+    "AI/Machine_Learning/Neural Network.md",
+    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
+    "z_Attachments/logreg_result.png",
+    "AI/Machine_Learning/Supervised/4913",
+    "AI/Machine_Learning/Supervised/logistic_regression.py~",
+    "AI/Sci-Kit Learn/pipeline.py",
+    "AI/Machine_Learning/Supervised/linear_regression.py",
+    "Mathematics/Universal approximation theorem.md",
+    "Mathematics/ReLU.md",
+    "z_Attachments/relu.png",
+    "z_Attachments/relu.png.download",
+    "Mathematics/_Index_of_Mathematics.md",
+    "AI/Machine_Learning/Perceptron.md",
     "Mathematics/Tensors.md",
+    "z_Attachments/neural.png.download",
+    "z_Attachments/neural.png",
+    "AI/Machine_Learning/Nodes.md",
+    "AI/AI.md",
+    "z_Attachments/tensor.png",
     "z_Attachments/tensor.md",
     "z_Attachments/_Index_of_z_Attachments.md",
     "z_Attachments/tensor.download",
-    "Mathematics/_Index_of_Mathematics.md",
     "01-Linux/Shell.md",
     "Mathematics",
     "01-Linux/Bash/Conditions and loops.md",
@@ -227,37 +256,13 @@
     "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",
     "Git/obsidian_vault.git.md",
     "Git/Git.md",
-    "AI/Machine_Learning/Supervised/Regression.md",
-    "AI/Machine_Learning/Supervised/logistic_regression.py",
     "01-Linux/_Index_of_01-Linux.md",
     "01-Linux/Bash/_Index_of_Bash.md",
-    "01-Linux/Bash/hello.sh",
-    "01-Linux/Bash/while-example.sh",
-    "01-Linux/Bash/hello.sh~",
-    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "z_Attachments/logistc.png",
-    "AI/Machine_Learning/Supervised/Logistic Regression.md",
-    "AI/Machine_Learning/Supervised/4913",
-    "AI/Machine_Learning/Supervised/logistic_regression.py~",
     "AI/Sci-Kit Learn/Preprocessor.md",
-    "AI/Sci-Kit Learn/Model Evaluation and Selection.md",
-    "AI/Machine_Learning/Supervised/Evaluation methods.md",
-    "AI/Machine_Learning/Machine Learning.md",
-    "AI/Machine_Learning/Supervised-Unsupervised Learning.md",
-    "AI/Machine_Learning/Untitled.md",
-    "AI/Machine_Learning/k-means.py",
-    "AI/Machine_Learning/Preprocessing.md",
-    "AI/Sci-Kit Learn/_Index_of_Sci-Kit Learn.md",
-    "AI/Machine_Learning/_Index_of_Machine_Learning.md",
-    "AI/Machine_Learning/Supervised/Linear Regression.md",
-    "AI/Machine_Learning/Supervised/Classification.md",
     "z_Attachments/pipe.png",
     "z_Attachments/conf.png",
     "z_Attachments/linear_reg.png",
-    "z_Attachments/logistic.png",
-    "z_Attachments/Supervised-Machine-Learning-Process-1536x864-1009220488.png",
-    "z_Attachments/linux.png",
-    "z_Attachments/tmux-working-diagram-4174023875.jpg"
+    "z_Attachments/logistic.png"
   ]
 }
