@@ -4,6 +4,7 @@
  [[AI/_Index_of_AI|_Index_of_AI]]
  [[Git/_Index_of_Git|_Index_of_Git]]
  [[home/_Index_of_home|_Index_of_home]]
+ [[Mathematics/_Index_of_Mathematics|_Index_of_Mathematics]]
  [[Neovim-Lua/_Index_of_Neovim-Lua|_Index_of_Neovim-Lua]]
  [[notes/_Index_of_notes|_Index_of_notes]]
  [[Pipeline|Pipeline]]

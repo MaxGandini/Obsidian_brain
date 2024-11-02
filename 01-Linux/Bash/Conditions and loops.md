@@ -1,4 +1,4 @@
-To do a while loop, you can use the syntax:
+To do a while loop, you can use:
 ```
 x=1
 while [ $x -le 5]
