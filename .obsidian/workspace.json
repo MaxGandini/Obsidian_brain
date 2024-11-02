@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/Logistic Regression.md"
+                "file": "AI/Sci-Kit Learn/Scikit-Pipeline.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Logistic Regression"
+              "title": "Outline of Scikit-Pipeline"
             }
           },
           {
@@ -194,14 +194,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "z_Attachments/logistc.png",
+    "Git/obsidian_vault.git.md",
+    "Git/Git.md",
     "AI/Machine_Learning/Supervised/Logistic Regression.md",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/logistic_regression.py~",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "AI/Sci-Kit Learn/Preprocessor.md",
     "AI/Sci-Kit Learn/Model Evaluation and Selection.md",
     "AI/Machine_Learning/Supervised/Evaluation methods.md",
-    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "AI/Machine_Learning/Supervised/logistic_regression.py",
     "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Supervised-Unsupervised Learning.md",
@@ -221,20 +224,17 @@
     "z_Attachments/pipe.png",
     "z_Attachments/pipe.png.download",
     "AI/Pipeline.md",
-    "README.md.md",
+    "README.md",
     "AI/_Index_of_AI.md",
     "z_Attachments/conf.png.download",
     "z_Attachments/conf.png",
     "z_Attachments/linear_reg.png",
     "z_Attachments/linear_reg.download",
     "AI/Machine_Learning/Supervised/_Index_of_Supervised.md",
-    "z_Attachments/logistc.png",
     "z_Attachments/logistic.png",
     "z_Attachments/Supervised-Machine-Learning-Process-1536x864-1009220488.png",
     "01-Linux/Linux.md",
     "Clasification.md",
-    "_Index_of_Computer_science.md",
-    "AI/Machine_Learning/Unsupervised.md",
     "z_Attachments/linux.png",
     "z_Attachments/tmux-working-diagram-4174023875.jpg",
     "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",

@@ -14,7 +14,7 @@
   "updateSubmodules": true,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "/home/Xilian/brain/computer_science/Computer_science",
