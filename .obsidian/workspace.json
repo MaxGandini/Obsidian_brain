@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Machine_Learning/Neural Network.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Neural Network"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/Machine_Learning/Neural Network.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Neural Network"
+              "title": "Outline"
             }
           },
           {
@@ -200,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +211,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ef96f3b6dd3a03a6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Neural Network.md",
     "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
@@ -227,7 +223,6 @@
     "AI/Machine_Learning/Supervised/logistic_regression.py",
     "AI/Machine_Learning/Supervised/Logistic Regression.md",
     "AI/Machine_Learning/Activation function.md",
-    "AI/Machine_Learning/Neural Network.md",
     "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "z_Attachments/logreg_result.png",
     "AI/Machine_Learning/Supervised/4913",
