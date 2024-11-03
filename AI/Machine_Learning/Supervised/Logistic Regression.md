@@ -1,5 +1,6 @@
-A logistic model is a statistical model that takes into account the logarithmic probabilities of an event as a linear combination of one or more independent variables. 
-Simplistic example for logreg: [[logistic_regression.py]]
+A logistic model is a statistical model that takes into account the logarithmic probabilities of an event as a linear combination of one or more independent variables. It is based on the [[logistic function]].
+
+Simplistic example for logreg: [[logistic_regression.py]] using [[Column]]
 
 ![[logistc.png]]
 The formula for the probability of the linear combination of events is given by: 

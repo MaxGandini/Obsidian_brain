@@ -20,9 +20,9 @@ y = df['fruit']
 transformer = ColumnTransformer(
     [
         (
-            "category",  # nombre (prefijo)
-            OrdinalEncoder(),  # transformación
-            ["core"],  # columnas
+            "category", 
+            OrdinalEncoder(),
+            ["core"],  
         ),
         (
             "number",
@@ -37,18 +37,18 @@ transformer = ColumnTransformer(
 data_= pd.DataFrame(transformer.fit_transform(X), columns=transformer.get_feature_names_out())
 apple_ = pd.DataFrame(np.array([[140,1,"yes"]]),columns=['weight','color','core']) 
 apple =pd.DataFrame(transformer.fit_transform(apple_), columns=transformer.get_feature_names_out()) 
-
+#Things are getting pretty verbose
 model = LogisticRegression()
 model_fit = model.fit(data_,y)
 data = pd.concat([data_, apple], ignore_index=True)
 data['predictions'] = np.concatenate((model_fit.predict(data_), model_fit.predict(apple)))
-
+data['target'] = y
 import seaborn as sns
 import matplotlib.pyplot as plt
 
 plt.figure(figsize=(10, 6))
-sns.scatterplot(data=data, x="number__weight", y="predictions", label="Predictions")
-sns.lineplot(data=data, x="number__weight", y="category__core", label="Category Core")
+sns.scatterplot(data=data, x="number__weight", y="target", label="target")
+sns.lineplot(data=data, x="number__weight", y="predictions", label="model")
 plt.title("Logistic Regression Predictions")
 plt.xlabel("Weight")
 plt.ylabel("Predictions")

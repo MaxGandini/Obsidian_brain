@@ -1,3 +1,4 @@
+![[_Attachments/Diagram.svg]]
 $$
 P(Y=1 | X) = \sigma(z) = \frac{1}{1 + e^{ k(z - z_0)}}
 $$

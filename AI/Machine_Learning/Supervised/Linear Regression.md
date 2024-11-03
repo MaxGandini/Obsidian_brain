@@ -17,3 +17,6 @@ X = \begin{bmatrix}
 \quad
 \beta = \begin{bmatrix} \beta_0 \\ \beta_1 \\ \beta_2 \\ \vdots \\ \beta_n \end{bmatrix}
 $$
+
+A more intricate example can be seen at [[linear_regression1.py]].
+Using [[Pipeline]] [[Column transformer]] ...
