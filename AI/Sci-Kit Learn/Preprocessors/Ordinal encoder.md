@@ -1,3 +1,6 @@
+Examples:
+- [[logistic_regression.py]]
+
 It's a [[Preprocessor]] used to transform categories into numeric values.
 
 ```

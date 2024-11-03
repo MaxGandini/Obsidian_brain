@@ -1,3 +1,6 @@
+Examples:
+- [[logistic_regression.py]]
+
 Used to normalize numeric variables in a Dataframe. Most ML models need some sort of scaler for their inputs, because the model itself will prioritize variables with big values. 
 $$x_{\text{scaled}} = \frac{x - x_{\text{min}}}{x_{\text{max}} - x_{\text{min}}} \cdot (b - a) + a$$
 with $a$ and $b$ , 0 and 1 respectively for standart minmax scaling.

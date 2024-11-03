@@ -1,4 +1,7 @@
 A pipeline is a concept in programming that systematizes the application of different operations to a certain input data.
+examples:
+- [[pipeline.py]]
+- [[linear_regression1.py]]
 
 ![[pipe.png]]
 
