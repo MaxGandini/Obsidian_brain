@@ -11,7 +11,8 @@ import urllib.request
 
 def download(url: str, destination_folder: Path) -> Path:
     """
-
+    Downloads a file from an URL and returns a path to the new file.
+    It also checks if the file already exists and doesn't do anything if there is no file
     """
     destination_folder.mkdir(parents=True, exist_ok=True)
 

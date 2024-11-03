@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Python/Type hinting system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type hinting system"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Python/Type hinting system.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Type hinting system"
             }
           },
           {
@@ -213,6 +219,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Supervised/4913",
+    "Python/download_dataset.py~",
+    "AI/Machine_Learning/Supervised/linear_regression1.py~",
+    "Python/download_dataset.py",
+    "AI/Machine_Learning/Activation function.md",
+    "Mathematics/ReLU.md",
+    "Mathematics/Universal approximation theorem.md",
+    "Python/Type hinting system.md",
+    "Python/function.py",
+    "Python/_Index_of_Python.md",
+    "Python/Python.md",
     "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "AI/Sci-Kit Learn/Preprocessors/Binarizer.md",
     "AI/Sci-Kit Learn/pipeline.md",
@@ -238,19 +255,9 @@
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "AI/Sci-Kit Learn/_Index_of_Sci-Kit Learn.md",
     "AI/_Index_of_AI.md",
-    "_Index_of_Computer_science.md",
-    "README.md",
-    "01-Linux/_Index_of_01-Linux.md",
-    "AI/Machine_Learning/Neural Network.md",
-    "AI/Machine_Learning/Machine Learning.md",
-    "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/logistic_regression.py",
     "z_Attachments/logreg_result.png",
-    "AI/Machine_Learning/Supervised/4913",
-    "AI/Machine_Learning/Supervised/logistic_regression.py~",
-    "AI/Machine_Learning/Supervised/linear_regression.py",
     "z_Attachments/relu.png",
-    "z_Attachments/relu.png.download",
     "z_Attachments/neural.png",
     "z_Attachments/tensor.png",
     "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",
