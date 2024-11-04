@@ -1,24 +1,8 @@
 import urllib.request
 from pathlib import Path
 
-import pandas as pd
-import seaborn.objects as so
-import sklearn
+import kaggle
 
-sklearn.set_config(transform_output="pandas")
-from pathlib import Path
-import urllib.request
+kaggle.api.authenticate()
 
-def download(url: str, destination_folder: Path) -> Path:
-    """
-
-    """
-    destination_folder.mkdir(parents=True, exist_ok=True)
-
-    filename = Path(url).name
-    path = destination_folder / filename
-
-    if not path.exists():
-        urllib.request.urlretrieve(url, path)
-
-    return path
+kaggle.api.dataset_download_files('housing_data', path='https://www.kaggle.com/datasets/camnugent/california-housing-prices/download?datasetVersionNumber=1', unzip=True)
