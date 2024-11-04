@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Type hinting system.md",
+                "file": "_Index_of_Computer_science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type hinting system"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Type hinting system.md"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Type hinting system"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -213,12 +213,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "juggl:Juggl global graph": false,
-      "tldraw:Create new tldrawing": false
+      "juggl:Juggl global graph": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Python/Type hinting system.md",
     "AI/Machine_Learning/Supervised/4913",
     "Python/download_dataset.py~",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
@@ -226,7 +226,6 @@
     "AI/Machine_Learning/Activation function.md",
     "Mathematics/ReLU.md",
     "Mathematics/Universal approximation theorem.md",
-    "Python/Type hinting system.md",
     "Python/function.py",
     "Python/_Index_of_Python.md",
     "Python/Python.md",
@@ -255,7 +254,6 @@
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "AI/Sci-Kit Learn/_Index_of_Sci-Kit Learn.md",
     "AI/_Index_of_AI.md",
-    "AI/Machine_Learning/Supervised/logistic_regression.py",
     "z_Attachments/logreg_result.png",
     "z_Attachments/relu.png",
     "z_Attachments/neural.png",
