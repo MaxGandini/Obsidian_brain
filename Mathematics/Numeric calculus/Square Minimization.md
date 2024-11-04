@@ -14,7 +14,7 @@ $=||y-v||^2 -2<y-v,s>+ ||s||^2$
 
 2) => 1) :
 
-if $y-v \perpendicular s$ then $\forall s \in S$ :
+if $y-v \perp s$ then $\forall s \in S$ :
 
 y-v perpendicular to v-s
 

@@ -1,5 +1,8 @@
-There are a couple of proofs for polinomial interpolation. We are going to use the one with the *Vandermonde* matrix:
 
+![[polinomial_interp.png]]
+
+There are a couple of proofs for polinomial interpolation. We are going to use the one with the *Vandermonde* matrix:
+``
 $$
 p(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \cdots + a_{2}x^{2} + a_{1}x + a_{0}. \tag{1}
 $$
@@ -60,3 +63,32 @@ We look that it satisfies the conditions:
 - $p'(0) = f'(0)$
 - $p'(1) = f'(1)$
 
+this defines de vandermonde matrix, which we have to invert.
+
+To calculate the error:[[Error in Polinomial interpolation]]
+
+$f(x) - p(x) = \frac{f^{5}(\theta)}{5!} (x+1) x^2 (x-1)^2$ $\forall x \in [-1,1]$ 
+
+Example 2: 
+
+
+$$
+S(x) =
+\begin{cases}
+S_a = a_0 + a_1 (x+1 )+ a_2 (x+1)^2+ a_3 (x+1)^3& \text{if } x \in [-1,0)  \\
+S_b = b_0 + b_1 x + b_2 x^2 + b_3 x^3 & \text{if } x \in [-0,1) \\
+S_c = c_0 + c_1 (x-1) + c_2 (x-1)^2 + c_3 (x-1)^3 & \text{if } x \in [1,2] 
+\end{cases}
+$$
+
+Then, we get the equation set:
+
+$$
+\begin{cases}
+S_a (-1) = -6\\
+S_a (0) = -5\\
+S_a (1) = -5\\
+S_a (2) = -6\\
+ 
+\end{cases}
+$$
