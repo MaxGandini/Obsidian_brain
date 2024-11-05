@@ -81,7 +81,7 @@ S_c = c_0 + c_1 (x-1) + c_2 (x-1)^2 + c_3 (x-1)^3 & \text{if } x \in [1,2]
 \end{cases}
 $$
 
-Then, we get the equation set:
+Then, we get the equation set: (WIP)
 
 $$
 \begin{cases}
