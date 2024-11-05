@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Index_of_Computer_science.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Bash 01 syntax_follow_along"
+              "title": "Outline"
             }
           },
           {
@@ -218,6 +212,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/_Index_of_Mathematics.md",
+    "AI/Machine_Learning/Supervised/Classification.md",
+    "_Index_of_Computer_science.md",
     "01-Linux/Bash/Bash 01 syntax_follow_along.md",
     "01-Linux/Bash/Bash piping.md",
     "01-Linux/Bash/Conditions and loops.md",
@@ -226,7 +223,6 @@
     "01-Linux/Bash/while-example.sh",
     "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/Bash commands for the interview..md",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
@@ -255,8 +251,6 @@
     "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "AI/Sci-Kit Learn/Preprocessors/Binarizer.md",
     "AI/Sci-Kit Learn/pipeline.md",
-    "Pipeline.md",
-    "AI/Sci-Kit Learn/Preprocessors/MinMaxScaler.md",
     "_Attachments/Diagram.svg",
     "z_Attachments/logreg_result.png",
     "z_Attachments/relu.png",
