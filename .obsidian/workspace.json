@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Index_of_Computer_science.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/Supervised-Learning.md"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Supervised-Learning"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -214,6 +218,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "Mathematics/Numeric calculus/Polinomial interpolation.md",
@@ -235,7 +240,6 @@
     "AI/Machine_Learning/Supervised/Linear Regression.md",
     "z_Attachments/least_sq.png",
     "z_Attachments/least_sq.png.download",
-    "_Index_of_Computer_science.md",
     "Mathematics/Numeric calculus",
     "Python/Type hinting system.md",
     "Python/download_dataset.py~",
