@@ -1,8 +1,14 @@
-import urllib.request
-from pathlib import Path
+import kagglehub
 
-import kaggle
+# Download latest version
+try:
+    path = kagglehub.dataset_download("yasserh/housing-prices-dataset")
+except:
+    pass
 
-kaggle.api.authenticate()
+print("Path to dataset files:", path)
+import pandas as pd 
 
-kaggle.api.dataset_download_files('housing_data', path='https://www.kaggle.com/datasets/camnugent/california-housing-prices/download?datasetVersionNumber=1', unzip=True)
+data = pd.read_csv('/home/Xilian/.cache/kagglehub/datasets/yasserh/housing-prices-dataset/versions/1/Housing.csv')
+
+

@@ -144,9 +144,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Mathematics/Numeric calculus/Non-square Matrix Inversion.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Non-square Matrix Inversion"
             }
           },
           {
@@ -212,22 +214,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Machine_Learning/Supervised/linear_regression1.py",
+    "Mathematics/Numeric calculus/Non-square Matrix Inversion.md",
+    "Mathematics/Numeric calculus/Newton interpolation.md",
+    "Mathematics/Numeric calculus/Polinomial interpolation.md",
+    "Mathematics/Numeric calculus/QR.md",
+    "Mathematics/Numeric calculus/Least Squares.md",
     "_Index_of_Computer_science.md",
+    "AI/Machine_Learning/Supervised/linear_regression1.py",
     "Mathematics/_Index_of_Mathematics.md",
     "AI/Machine_Learning/Supervised/Classification.md",
     "01-Linux/Bash/Bash 01 syntax_follow_along.md",
     "01-Linux/Bash/Bash piping.md",
     "01-Linux/Bash/Conditions and loops.md",
-    "Mathematics/Numeric calculus/Polinomial interpolation.md",
-    "Mathematics/Numeric calculus/Square Minimization.md",
     "01-Linux/Bash/while-example.sh",
     "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/Bash commands for the interview..md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
-    "Mathematics/Numeric calculus/Newton interpolation.md",
     "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
     "Mathematics/Numeric calculus/_Index_of_Numeric calculus.md",
     "z_Attachments/newton_raphson.png",
@@ -249,7 +253,6 @@
     "Python/_Index_of_Python.md",
     "Python/Python.md",
     "AI/Sci-Kit Learn/Scikit-Pipeline.md",
-    "AI/Sci-Kit Learn/Preprocessors/Binarizer.md",
     "_Attachments/Diagram.svg",
     "z_Attachments/logreg_result.png",
     "z_Attachments/relu.png",
