@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Model Validation/Train_test_split.md",
+                "file": "AI/AlixPartners talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Train_test_split"
+              "title": "AlixPartners talk"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Model Validation/Train_test_split.md"
+                "file": "AI/AlixPartners talk.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Train_test_split"
+              "title": "Outline of AlixPartners talk"
             }
           },
           {
@@ -232,8 +232,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/_Index_of_AI.md",
+    "AI/Machine_Learning/Supervised/Evaluation methods.md",
+    "AI/Machine_Learning/Unsupervised/K-Means clustering.md",
+    "AI/Machine_Learning/Neural Network.md",
+    "AI/Machine_Learning/Model Validation/KFold.md",
+    "AI/Machine_Learning/Model Validation/Cross Validation.md",
+    "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
+    "AI/AlixPartners talk.md",
     "AI/Machine_Learning/Model Validation/Train_test_split.md",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
     "AI/Machine_Learning/Model Validation/model_validation.py",
     "AI/Machine_Learning/Model Validation/model_validation",
     "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
@@ -241,7 +249,6 @@
     "AI/Machine_Learning/Perceptron.md",
     "Mathematics/Universal approximation theorem.md",
     "AI/Machine_Learning/Activation function.md",
-    "AI/Machine_Learning/Neural Network.md",
     "Neural Networks.md",
     "Mathematics/Tensors.md",
     "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
@@ -253,20 +260,13 @@
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "train score.md",
-    "AI/Machine_Learning/Model Validation/Cross Validation.md",
     "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
     "z_Attachments/ttsl.png",
     "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
-    "AI/Machine_Learning/Model Validation/KFold.md",
-    "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
-    "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Model Validation",
-    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "z_Attachments/Hyper_val.png",
-    "AI/Machine_Learning/Unsupervised/k-means++.md",
     "z_Attachments/KFold_etc.png",
-    "Mathematics/logistic function.md",
     "01-Linux/Bash/while-example.sh",
     "01-Linux/Bash/obsidian_runner.sh",
     "z_Attachments/newton_raphson.png",
