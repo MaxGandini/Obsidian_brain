@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Cross Validation.md",
-                "mode": "preview",
+                "file": "AI/Machine_Learning/Model Validation/Train_test_split.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Validation"
+              "title": "Train_test_split"
+            }
+          },
+          {
+            "id": "dd56f44b6a108f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine_Learning/Model Validation/Model Validation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Model Validation"
             }
           }
         ]
@@ -149,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Cross Validation.md"
+                "file": "AI/Machine_Learning/Model Validation/Train_test_split.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cross Validation"
+              "title": "Outline of Train_test_split"
             }
           },
           {
@@ -218,50 +232,51 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Machine_Learning/KFold.md",
-    "AI/Machine_Learning/Cross Validation.md",
-    "AI/Machine_Learning/Hyper-parameter optimization.md",
-    "AI/Machine_Learning/Model Validation.md",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Machine_Learning/Model Validation/Train_test_split.md",
+    "AI/Machine_Learning/Model Validation/model_validation.py",
+    "AI/Machine_Learning/Model Validation/model_validation",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
+    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
+    "AI/Machine_Learning/Perceptron.md",
+    "Mathematics/Universal approximation theorem.md",
+    "AI/Machine_Learning/Activation function.md",
+    "AI/Machine_Learning/Neural Network.md",
+    "Neural Networks.md",
+    "Mathematics/Tensors.md",
+    "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
+    "AI/Machine_Learning/Supervised/linear_regression1.py",
+    "Pipeline.md",
+    "_Index_of_Computer_science.md",
+    "AI/Machine_Learning/Supervised/linear_regression.py",
+    "AI/Machine_Learning/Supervised/Linear Regression.md",
     "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "train score.md",
+    "AI/Machine_Learning/Model Validation/Cross Validation.md",
+    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
+    "z_Attachments/ttsl.png",
+    "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
+    "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
+    "AI/Machine_Learning/Model Validation/KFold.md",
+    "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
+    "AI/Machine_Learning/Machine Learning.md",
+    "AI/Machine_Learning/Model Validation",
     "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "z_Attachments/Hyper_val.png",
     "AI/Machine_Learning/Unsupervised/k-means++.md",
     "z_Attachments/KFold_etc.png",
-    "AI/Machine_Learning/Machine Learning.md",
-    "AI/Machine_Learning/Neural Network.md",
-    "AI/Machine_Learning/Perceptron.md",
     "Mathematics/logistic function.md",
-    "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
-    "Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
-    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
-    "Python/Iterators.md",
-    "AI/Machine_Learning/Supervised/Classification.md",
-    "AI/Machine_Learning/Supervised/Linear Regression.md",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "01-Linux/Bash/_Index_of_Bash.md",
-    "_Index_of_Computer_science.md",
-    "Mathematics/Numeric calculus/Non-square Matrix Inversion.md",
-    "Mathematics/Numeric calculus/Newton interpolation.md",
-    "Mathematics/Numeric calculus/Polinomial interpolation.md",
-    "Mathematics/Numeric calculus/QR.md",
-    "Mathematics/Numeric calculus/Least Squares.md",
-    "AI/Machine_Learning/Supervised/linear_regression1.py",
     "01-Linux/Bash/while-example.sh",
     "01-Linux/Bash/obsidian_runner.sh",
     "z_Attachments/newton_raphson.png",
     "z_Attachments/newton_raphson.png.download",
     "z_Attachments/polinomial_interp.png",
     "z_Attachments/polinomial_interp.png.download",
-    "Mathematics/Numeric calculus/Non-linear approximations",
-    "z_Attachments/sist_no_lineales.pdf",
-    "z_Attachments/sist_no_lineales.pdf.download",
-    "AI/Machine_Learning/Supervised/4913",
     "z_Attachments/least_sq.png",
-    "z_Attachments/least_sq.png.download",
     "_Attachments/Diagram.svg",
     "z_Attachments/logreg_result.png",
     "z_Attachments/relu.png",
-    "z_Attachments/neural.png",
-    "z_Attachments/tensor.png"
+    "z_Attachments/neural.png"
   ]
 }
