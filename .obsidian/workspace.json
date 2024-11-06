@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine_Learning/Cross Validation.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cross Validation"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Numeric calculus/Non-square Matrix Inversion.md"
+                "file": "AI/Machine_Learning/Cross Validation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Non-square Matrix Inversion"
+              "title": "Outline of Cross Validation"
             }
           },
           {
@@ -214,51 +218,50 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/KFold.md",
+    "AI/Machine_Learning/Cross Validation.md",
+    "AI/Machine_Learning/Hyper-parameter optimization.md",
+    "AI/Machine_Learning/Model Validation.md",
+    "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
+    "z_Attachments/Hyper_val.png",
+    "AI/Machine_Learning/Unsupervised/k-means++.md",
+    "z_Attachments/KFold_etc.png",
+    "AI/Machine_Learning/Machine Learning.md",
+    "AI/Machine_Learning/Neural Network.md",
+    "AI/Machine_Learning/Perceptron.md",
+    "Mathematics/logistic function.md",
+    "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
+    "Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
+    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
+    "Python/Iterators.md",
+    "AI/Machine_Learning/Supervised/Classification.md",
+    "AI/Machine_Learning/Supervised/Linear Regression.md",
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "01-Linux/Bash/_Index_of_Bash.md",
+    "_Index_of_Computer_science.md",
     "Mathematics/Numeric calculus/Non-square Matrix Inversion.md",
     "Mathematics/Numeric calculus/Newton interpolation.md",
     "Mathematics/Numeric calculus/Polinomial interpolation.md",
     "Mathematics/Numeric calculus/QR.md",
     "Mathematics/Numeric calculus/Least Squares.md",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/linear_regression1.py",
-    "Mathematics/_Index_of_Mathematics.md",
-    "AI/Machine_Learning/Supervised/Classification.md",
-    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
-    "01-Linux/Bash/Bash piping.md",
-    "01-Linux/Bash/Conditions and loops.md",
     "01-Linux/Bash/while-example.sh",
     "01-Linux/Bash/obsidian_runner.sh",
-    "01-Linux/Bash/Bash commands for the interview..md",
-    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
-    "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
-    "Mathematics/Numeric calculus/_Index_of_Numeric calculus.md",
     "z_Attachments/newton_raphson.png",
     "z_Attachments/newton_raphson.png.download",
     "z_Attachments/polinomial_interp.png",
     "z_Attachments/polinomial_interp.png.download",
-    "Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
     "Mathematics/Numeric calculus/Non-linear approximations",
     "z_Attachments/sist_no_lineales.pdf",
     "z_Attachments/sist_no_lineales.pdf.download",
     "AI/Machine_Learning/Supervised/4913",
-    "AI/Machine_Learning/Supervised/Linear Regression.md",
     "z_Attachments/least_sq.png",
     "z_Attachments/least_sq.png.download",
-    "Python/Type hinting system.md",
-    "AI/Machine_Learning/Activation function.md",
-    "Mathematics/ReLU.md",
-    "Mathematics/Universal approximation theorem.md",
-    "Python/_Index_of_Python.md",
-    "Python/Python.md",
-    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
     "_Attachments/Diagram.svg",
     "z_Attachments/logreg_result.png",
     "z_Attachments/relu.png",
     "z_Attachments/neural.png",
-    "z_Attachments/tensor.png",
-    "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",
-    "z_Attachments/logistc.png"
+    "z_Attachments/tensor.png"
   ]
 }
