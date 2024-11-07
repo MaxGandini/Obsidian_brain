@@ -17,11 +17,15 @@ sklearn.set_config(transform_output="pandas")
 target = "price"  
 
 X = data.drop(target,axis=1)
-y = data[target]
+y_ = data[[target]]
 
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.preprocessing import MinMaxScaler
+
+scaler = MinMaxScaler()
+scaler.fit(y_)
+y = scaler.transform(y_)
 
 transformer = ColumnTransformer(
     [
@@ -45,16 +49,21 @@ data_= pd.DataFrame(transformer.fit_transform(X), columns=transformer.get_featur
 
 from sklearn.linear_model import LinearRegression
 
-X_train, y_train, X_test, y_test = test_train_split()
+from sklearn.model_selection import train_test_split
+
+X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
+
 model = LinearRegression()
-model.fit(data_, y)
-df["predicted"] = model.predict(data_)
+model_fit = model.fit(X_train,y_train)
+
+data_test = pd.concat([X_test, y_test], ignore_index=True)
+data_test['predicted'] = model.predict(X_test)
 
 (
-    so.Plot(df, x="Study Hours")
+    so.Plot(data_test, x="number__area")
     .add(so.Line(), y="predicted", label="predicted")
-    .add(so.Dot(), y="Grade", label="Grade")
-    .label(y="Grade")
+    .add(so.Dot(), y="target", label="target")
+    .label(y="target")
     .show()
 )
-display(df)
+display(data_)
