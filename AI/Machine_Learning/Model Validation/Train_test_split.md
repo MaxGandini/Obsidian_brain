@@ -1,6 +1,9 @@
 It's a method that automatically splits the dataset into train test splits. It takes the features and the target variable, it can also take random states, shuffle the splits ([[ShuffleSplit]]) and stratify it.
 An example of usage can be found in [[Model Validation]].
 
+IE:
+[[linear_regression1.py]]
+
 ```
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.33, random_state=42)

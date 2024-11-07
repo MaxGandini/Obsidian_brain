@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Computer_science.md",
+                "file": "AI/Machine_Learning/Model Validation/Model Validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "Model Validation"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Computer_science.md"
+                "file": "AI/Machine_Learning/Model Validation/Model Validation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
+              "title": "Outline of Model Validation"
             }
           },
           {
@@ -218,11 +218,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Model Validation/model_validation.py",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Machine_Learning/Model Validation/Train_test_split.md",
+    "AI/Machine_Learning/Unsupervised/k-means-example.md",
+    "AI/Machine_Learning/Unsupervised/k-means.py",
     "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
-    "AI/Machine_Learning/Model Validation/model_validation.py",
     "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
     "AI/Machine_Learning/Model Validation/Cross Validation.md",
     "Untitled.canvas",
@@ -232,7 +235,6 @@
     "AI/AI - Important.md",
     "AI/_Index_of_AI.md",
     "AI/Sci-Kit Learn/Preprocessors/MinMaxScaler.md",
-    "AI/Machine_Learning/Model Validation/Train_test_split.md",
     "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
     "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
@@ -250,14 +252,12 @@
     "Mathematics/Universal approximation theorem.md",
     "AI/Machine_Learning/Activation function.md",
     "Neural Networks.md",
-    "Mathematics/Tensors.md",
     "AI/Machine_Learning/Supervised/linear_regression1.py",
     "z_Attachments/ttsl.png",
     "AI/Machine_Learning/Model Validation",
     "z_Attachments/Hyper_val.png",
     "z_Attachments/KFold_etc.png",
     "01-Linux/Bash/while-example.sh",
-    "01-Linux/Bash/obsidian_runner.sh",
     "z_Attachments/newton_raphson.png",
     "z_Attachments/polinomial_interp.png",
     "z_Attachments/least_sq.png",

@@ -55,9 +55,11 @@ X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
 
 model = LinearRegression()
 model_fit = model.fit(X_train,y_train)
+prediction = model.predict(X_test)
+data_test = X_test
+data_test['target'] = y_test
 
-data_test = pd.concat([X_test, y_test], ignore_index=True)
-data_test['predicted'] = model.predict(X_test)
+data_test['predicted'] = prediction
 
 (
     so.Plot(data_test, x="number__area")
