@@ -1,3 +1,4 @@
+Cross validation is a method that addresses the many problems which could arise by random chance, when splitting a dataset mindlessly. 
 
 ![[KFold_etc.png]]
 

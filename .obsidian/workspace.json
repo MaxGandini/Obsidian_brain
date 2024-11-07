@@ -11,10 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -144,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/AlixPartners talk.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of AlixPartners talk"
+              "title": "Outline"
             }
           },
           {
@@ -214,19 +212,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/_Index_of_Machine_Learning.md",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
+    "AI/Machine_Learning/Model Validation/Cross Validation.md",
+    "AI/Machine_Learning/Model Validation/KFold.md",
+    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
+    "AI/Machine_Learning/Supervised/linear_regression.py",
+    "z_Attachments/relu.png",
+    "AI/Machine_Learning/Model Validation/Train_test_split.md",
+    "_Index_of_Computer_science.md",
     "AI/AlixPartners talk.md",
     "AI/_Index_of_AI.md",
     "AI/Machine_Learning/Supervised/Evaluation methods.md",
     "AI/Machine_Learning/Unsupervised/K-Means clustering.md",
     "AI/Machine_Learning/Neural Network.md",
-    "AI/Machine_Learning/Model Validation/KFold.md",
-    "AI/Machine_Learning/Model Validation/Cross Validation.md",
-    "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
-    "AI/Machine_Learning/Model Validation/Train_test_split.md",
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
     "AI/Machine_Learning/Model Validation/model_validation.py",
     "AI/Machine_Learning/Model Validation/model_validation",
-    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Machine_Learning/Perceptron.md",
     "Mathematics/Universal approximation theorem.md",
@@ -236,16 +239,12 @@
     "Mathematics/Numeric calculus/Non-linear approximations/Newton-Raphson.md",
     "AI/Machine_Learning/Supervised/linear_regression1.py",
     "Pipeline.md",
-    "_Index_of_Computer_science.md",
-    "AI/Machine_Learning/Supervised/linear_regression.py",
     "AI/Machine_Learning/Supervised/Linear Regression.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "train score.md",
-    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
     "z_Attachments/ttsl.png",
     "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
-    "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
     "AI/Machine_Learning/Model Validation",
     "z_Attachments/Hyper_val.png",
     "z_Attachments/KFold_etc.png",
@@ -258,7 +257,6 @@
     "z_Attachments/least_sq.png",
     "_Attachments/Diagram.svg",
     "z_Attachments/logreg_result.png",
-    "z_Attachments/relu.png",
     "z_Attachments/neural.png"
   ]
 }

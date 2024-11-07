@@ -2,10 +2,10 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Python  ",
@@ -46,6 +46,6 @@
   "repelStrength": 12.6041666666667,
   "linkStrength": 1,
   "linkDistance": 204,
-  "scale": 1.4999999999999987,
+  "scale": 0.29629629629629584,
   "close": true
 }

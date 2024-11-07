@@ -1,3 +1,4 @@
+[[KFold]] refers to an integer $k$ which is used to divide a dataframe with a certain criterium. Below are some examples of those different divisions and a diagram can be found in [[Cross Validation]].
 
 ```
 Fold

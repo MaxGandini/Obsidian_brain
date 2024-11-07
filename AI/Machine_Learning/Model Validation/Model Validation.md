@@ -7,5 +7,8 @@ There's a fundamental distinction between the score calculated with the test_dat
 - [[Cross Validation]]
 - [[Hyper-parameter optimization]] 
 
-An example can be found in [[model_validation_overfit.py]] [[model_validation.py]] . 
+Self-made examples:
+- [[model_validation_overfit.py]] 
+- [[model_validation.py]] 
+- 
 Where I use [[Scikit-Pipeline]] and [[Cross Validation]]
