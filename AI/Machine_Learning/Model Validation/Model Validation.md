@@ -11,5 +11,5 @@ There's a fundamental distinction between the score calculated with the test_dat
 Self-made examples:
 - [[model_validation_overfit.py]] 
 - [[model_validation.py]] 
-- 
+
 Where I use [[Scikit-Pipeline]] and [[Cross Validation]]

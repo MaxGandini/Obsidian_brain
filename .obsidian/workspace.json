@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Model Validation/Model Validation.md",
+                "file": "AI/Machine_Learning/Supervised/linear_regression1.py",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model Validation"
+              "title": "linear_regression1"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Model Validation/Model Validation.md"
+                "file": "AI/Machine_Learning/Supervised/linear_regression1.py"
               },
               "icon": "lucide-list",
-              "title": "Outline of Model Validation"
+              "title": "Outline of linear_regression1"
             }
           },
           {
@@ -218,9 +218,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Machine_Learning/Model Validation/model_validation.py",
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Sci-Kit Learn/Preprocessors/Column transformer.md",
+    "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/Train_test_split.md",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Machine_Learning/Model Validation/model_validation.py",
     "AI/Machine_Learning/Unsupervised/k-means-example.md",
     "AI/Machine_Learning/Unsupervised/k-means.py",
     "_Index_of_Computer_science.md",
@@ -236,7 +238,6 @@
     "AI/_Index_of_AI.md",
     "AI/Sci-Kit Learn/Preprocessors/MinMaxScaler.md",
     "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
-    "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
     "AI/Machine_Learning/_Index_of_Machine_Learning.md",
     "AI/Machine_Learning/Model Validation/KFold.md",

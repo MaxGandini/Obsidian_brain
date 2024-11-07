@@ -1,4 +1,7 @@
 From the [[Sci-Kit Learn]] API: 
+IE:
+- [[linear_regression1.py]]
+
 ```class sklearn.compose.ColumnTransformer(transformers, *, remainder='drop', sparse_threshold=0.3, n_jobs=None, transformer_weights=None, verbose=False, verbose_feature_names_out=True, force_int_remainder_cols=True)[source]
 Applies transformers to columns of an array or pandas DataFrame.
 
