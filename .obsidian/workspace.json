@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Model Validation/Cross Validation.md"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cross Validation"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Model Validation/Cross Validation.md",
     "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
     "AI/Machine_Learning/_Index_of_Machine_Learning.md",
@@ -228,7 +229,6 @@
     "AI/Machine_Learning/Supervised/linear_regression.py",
     "z_Attachments/relu.png",
     "AI/Machine_Learning/Model Validation/Train_test_split.md",
-    "_Index_of_Computer_science.md",
     "AI/AlixPartners talk.md",
     "AI/_Index_of_AI.md",
     "AI/Machine_Learning/Supervised/Evaluation methods.md",
