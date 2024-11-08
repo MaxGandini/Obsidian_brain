@@ -1,3 +1,5 @@
+Given a set of n points, polynomial interpolation is a method that 
+finds the polynomial of the lowest grade so that it passes through every point in the set.
 
 ![[polinomial_interp.png]]
 
@@ -49,7 +51,7 @@ A = X^{-1} \cdot Y; \text{ that is, } p(x) \text{ exists and is unique.}$$
 Example:
 Given $f(x) = \sqrt(5 x^2 + 4)$
 
-Find the polinomial with the minimal order of the function with 5 restrictions. => $gr(p)$ <= $4$
+Find the polynomial with the minimal order of the function with 5 restrictions. => $gr(p)$ <= $4$
 
 We propose that:
 
@@ -63,7 +65,7 @@ We look that it satisfies the conditions:
 - $p'(0) = f'(0)$
 - $p'(1) = f'(1)$
 
-this defines de vandermonde matrix, which we have to invert.
+this defines the vandermonde matrix, which we have to invert.
 
 To calculate the error:[[Error in Polinomial interpolation]]
 

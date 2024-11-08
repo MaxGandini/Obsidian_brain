@@ -2,7 +2,7 @@
  [[AI/Machine_Learning/Activation function|Activation function]]
  [[AI/Machine_Learning/Machine Learning|Machine Learning]]
  [[AI/Machine_Learning/Model Validation/_Index_of_Model Validation|_Index_of_Model Validation]]
- [[AI/Machine_Learning/Neural Network|Neural Network]]
+ [[AI/Machine_Learning/Neural Networks|Neural Networks]]
  [[AI/Machine_Learning/Nodes|Nodes]]
  [[AI/Machine_Learning/Perceptron|Perceptron]]
  [[AI/Machine_Learning/Supervised-Unsupervised Learning|Supervised-Unsupervised Learning]]

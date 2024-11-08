@@ -1,4 +1,7 @@
+Qualitative graph of how the logistic function looks:
+
 ![[_Attachments/Diagram.svg]]
+
 $$
 P(Y=1 | X) = \sigma(z) = \frac{1}{1 + e^{ k(z - z_0)}}
 $$

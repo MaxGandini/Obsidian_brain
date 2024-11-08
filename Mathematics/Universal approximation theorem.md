@@ -9,6 +9,6 @@ Let $C(X, \mathbb{R}^m)$ denote the set of continuous functions from a subset $X
 Then $\sigma$ is not a polynomial function if and only if, for every $n \in \mathbb{N}$, $m \in \mathbb{N}$, compact $K \subseteq \mathbb{R}^n$, $f \in C(K, \mathbb{R}^m)$, and $\varepsilon > 0$, there exist $k \in \mathbb{N}$, $A \in \mathbb{R}^{k \times n}$, $b \in \mathbb{R}^k$, and $C \in \mathbb{R}^{m \times k}$ such that:
 
 $$ \sup_{x \in K} \|f(x) - g(x)\| < \varepsilon $$ where $$ g(x) = C \cdot (\sigma \circ (A \cdot x + b)). $$
-This example is particularly important because is the foundational theory for a [[Perceptron]] . These, generally use sigmoid(step) functions or functions such as the [[logistic function]] .
+This example is particularly important because it is the foundational theory for a [[Perceptron]] . These, generally use sigmoid(step) functions or functions such as the [[logistic function]] .
 
 Also a very important example is the [[ReLU]] or rectified linear unit activation function.

@@ -3,7 +3,7 @@ Tensors are a fundamental concept in physics. They allow the description of a st
 
 ![[tensor.png]]
 
-IE: A vector is a rank 1 tensor. The rank is defined by amount of indices you need to describe the mathematical object. A matrix, can be a rank 2 tensor, as long as it follows the rules of tensor transformation.
+IE: A vector "is a rank 1 tensor". The rank is defined by amount of indices you need to describe the mathematical object. A matrix, can be a rank 2 tensor, as long as it follows the rules of tensor transformation.
 
 As seen in the image, the tensor is not exactly the vector representation, it is a set of numbers that, given a set of basis vectors, can be used yo reconstruct some coordinate. (4,5,0)
 Also, a vector can represent a unit of area perpendicular to it, bearing this in mind, one can interpret the second index of every triplet of vectors in the image as a force acting on a direction to the unit area of the faces of the cube.

@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/linear_regression1.py"
+                "file": "AI/Machine_Learning/Supervised/Logistic Regression.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of linear_regression1"
+              "title": "Outline of Logistic Regression"
             }
           },
           {
@@ -159,16 +159,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "ef96f3b6dd3a03a6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -192,11 +182,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 524.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,41 +204,42 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Supervised/Logistic Regression.md",
     "AI/Machine_Learning/Supervised/linear_regression1.py",
+    "01-Linux/Kernel.md",
+    "AI/Machine_Learning/Perceptron.md",
+    "AI/Machine_Learning/Activation function.md",
+    "AI/Machine_Learning/Neural Networks.md",
+    "01-Organization and motivation.md",
+    "Pipeline.md",
+    "Mathematics/Tensors.md",
+    "Untitled.canvas",
+    "train score.md",
+    "Neural Networks.md",
+    "Mathematics/Universal approximation theorem.md",
+    "AI/AlixPartners talk.md",
+    "AI/Machine_Learning/Nodes.md",
+    "Mathematics/ReLU.md",
+    "Mathematics/logistic function.md",
+    "Mathematics/Numeric calculus/Polynomial interpolation.md",
+    "Mathematics/Numeric calculus/QR.md",
+    "Mathematics/Numeric calculus/Least Squares.md",
+    "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
+    "AI/Machine_Learning/Model Validation/model_validation.py",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
+    "_Index_of_Computer_science.md",
     "AI/Sci-Kit Learn/Preprocessors/Column transformer.md",
     "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/Train_test_split.md",
     "AI/Machine_Learning/Model Validation/Model Validation.md",
-    "AI/Machine_Learning/Model Validation/model_validation.py",
     "AI/Machine_Learning/Unsupervised/k-means-example.md",
     "AI/Machine_Learning/Unsupervised/k-means.py",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
-    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
     "AI/Machine_Learning/Model Validation/Cross Validation.md",
-    "Untitled.canvas",
-    "AI/Machine_Learning/Supervised/Regression.md",
-    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "AI/AI - Important.md",
-    "AI/_Index_of_AI.md",
-    "AI/Sci-Kit Learn/Preprocessors/MinMaxScaler.md",
-    "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
-    "AI/Machine_Learning/Model Validation/_Index_of_Model Validation.md",
-    "AI/Machine_Learning/_Index_of_Machine_Learning.md",
-    "AI/Machine_Learning/Model Validation/KFold.md",
-    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
     "AI/Machine_Learning/Supervised/linear_regression.py",
     "z_Attachments/relu.png",
-    "AI/AlixPartners talk.md",
-    "AI/Machine_Learning/Supervised/Evaluation methods.md",
-    "AI/Machine_Learning/Unsupervised/K-Means clustering.md",
-    "AI/Machine_Learning/Neural Network.md",
     "AI/Machine_Learning/Model Validation/model_validation",
-    "AI/Machine_Learning/Perceptron.md",
-    "Mathematics/Universal approximation theorem.md",
-    "AI/Machine_Learning/Activation function.md",
     "z_Attachments/ttsl.png",
     "AI/Machine_Learning/Model Validation",
     "z_Attachments/Hyper_val.png",
