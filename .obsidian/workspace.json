@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Machine_Learning/Supervised/linear_regression1.py",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "linear_regression1"
+              "title": "New tab"
             }
           }
         ]
@@ -218,6 +214,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Supervised/linear_regression1.py",
     "AI/Sci-Kit Learn/Preprocessors/Column transformer.md",
     "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/Train_test_split.md",
@@ -252,8 +249,6 @@
     "AI/Machine_Learning/Perceptron.md",
     "Mathematics/Universal approximation theorem.md",
     "AI/Machine_Learning/Activation function.md",
-    "Neural Networks.md",
-    "AI/Machine_Learning/Supervised/linear_regression1.py",
     "z_Attachments/ttsl.png",
     "AI/Machine_Learning/Model Validation",
     "z_Attachments/Hyper_val.png",
