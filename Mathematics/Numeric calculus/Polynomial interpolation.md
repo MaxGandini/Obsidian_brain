@@ -47,6 +47,7 @@ $$
 which is non-zero since the nodes $x_{j}$ are all distinct. This ensures that the matrix is invertible and the equation has the unique solution 
 $$
 A = X^{-1} \cdot Y; \text{ that is, } p(x) \text{ exists and is unique.}$$
+Different methods can be found in [[Polynomial interpolation-methods]].
 
 Example:
 Given $f(x) = \sqrt(5 x^2 + 4)$

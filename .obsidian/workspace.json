@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5d0dd60f95dfcae8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Polynomial interpolation-methods"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Model Validation/Model Validation.md"
+                "file": "Mathematics/Numeric calculus/Polynomial interpolation-methods.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Model Validation"
+              "title": "Outline of Polynomial interpolation-methods"
             }
           },
           {
@@ -180,13 +184,33 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "2b1d0cb61b857aff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "852f116b8ddd3de5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,14 +223,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5d0dd60f95dfcae8",
   "lastOpenFiles": [
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "_Index_of_Computer_science.md",
+    "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
+    "z_Attachments/newt_int.png",
+    "Mathematics/Numeric calculus/Polynomial interpolation.md",
+    "Mathematics/Numeric calculus/QR.md",
+    "Mathematics/Numeric calculus/_Index_of_Numeric calculus.md",
+    "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
+    "Mathematics/Numeric calculus/Non-square Matrix Inversion.md",
+    "Mathematics/Numeric calculus/Least Squares.md",
+    "Mathematics/Numeric calculus/Newton interpolation.md",
     "AI/Machine_Learning/Model Validation/Model Validation.md",
     "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Logistic Regression.md",
     "AI/Machine_Learning/Supervised/linear_regression1.py",
     "01-Linux/Kernel.md",
@@ -224,15 +259,7 @@
     "AI/Machine_Learning/Nodes.md",
     "Mathematics/ReLU.md",
     "Mathematics/logistic function.md",
-    "Mathematics/Numeric calculus/Polynomial interpolation.md",
-    "Mathematics/Numeric calculus/QR.md",
-    "Mathematics/Numeric calculus/Least Squares.md",
-    "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
     "AI/Machine_Learning/Model Validation/model_validation.py",
-    "AI/Sci-Kit Learn/Preprocessors/Column transformer.md",
-    "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
-    "AI/Machine_Learning/Model Validation/Train_test_split.md",
-    "AI/Machine_Learning/Unsupervised/k-means-example.md",
     "AI/Machine_Learning/Unsupervised/k-means.py",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
@@ -248,7 +275,6 @@
     "z_Attachments/polinomial_interp.png",
     "z_Attachments/least_sq.png",
     "_Attachments/Diagram.svg",
-    "z_Attachments/logreg_result.png",
-    "z_Attachments/neural.png"
+    "z_Attachments/logreg_result.png"
   ]
 }
