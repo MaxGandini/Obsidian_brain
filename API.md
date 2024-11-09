@@ -13,7 +13,7 @@ Some characteristics:
 	A response, is done after processing the request. The [[API]] sends a signal back typically in a standard format (JSON, XML?). It contains the requested data or an acknowledgement of the action taken.
 
 - [[Authentication and Authorization]]:
-	Many APIs require a form of identification, such as [[KEYS]], [[OAuth tokens]], or usernames/passwords. 
+	Many APIs require a form of identification, such as [[API KEYS]], [[OAuth tokens]], or usernames/passwords. 
 
 - [[Methods]]: APIs often follow standard [[HTTP]] methods:
 	GET: Retrieve data from server

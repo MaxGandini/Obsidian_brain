@@ -3,6 +3,7 @@
  [[01-Linux/_Index_of_01-Linux|_Index_of_01-Linux]]
  [[01-Organization and motivation|01-Organization and motivation]]
  [[AI/_Index_of_AI|_Index_of_AI]]
+ [[API KEYS|API KEYS]]
  [[API|API]]
  [[Checksums|Checksums]]
  [[Endpoints|Endpoints]]
