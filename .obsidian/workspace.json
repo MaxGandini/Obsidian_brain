@@ -11,13 +11,88 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python/Google Cloud Bigquery.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Google Cloud Bigquery"
+            }
+          },
+          {
+            "id": "c4ace2275537ba42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
+            }
+          },
+          {
+            "id": "2fd112124b076e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Endpoints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Endpoints"
+            }
+          },
+          {
+            "id": "7172be87205d1cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
+            }
+          },
+          {
+            "id": "833a1ca49bcb0b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
+            }
+          },
+          {
+            "id": "a90453f6f8bbef25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 339.5
   },
   "right": {
     "id": "fa22f7cbe315a6a1",
@@ -145,10 +220,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Numeric calculus/Polynomial interpolation-methods.md"
+                "file": "API.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Polynomial interpolation-methods"
+              "title": "Outline of API"
             }
           },
           {
@@ -223,12 +298,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a90453f6f8bbef25",
   "lastOpenFiles": [
+    "z_Attachments/API.png",
+    "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",
+    "API.md",
+    "z_Attachments/API.png.download",
+    "HTTP.md",
+    "TCP.md",
+    "z_Attachments/TCP.png",
+    "z_Attachments/TCP.png.download",
+    "README.md",
+    "Pipeline.md",
+    "Endpoints.md",
+    "SELECT.md",
+    "SQL/SQL.md",
+    "Requests and Responses.md",
+    "Python/Google Cloud Bigquery.md",
+    "SQL/_Index_of_SQL.md",
+    "_Index_of_Computer_science.md",
+    "SQL",
     "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
     "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "_Index_of_Computer_science.md",
     "z_Attachments/newt_int.png",
     "Mathematics/Numeric calculus/Polynomial interpolation.md",
     "Mathematics/Numeric calculus/QR.md",
@@ -242,35 +334,18 @@
     "AI/Machine_Learning/Supervised/linear_regression1.py",
     "01-Linux/Kernel.md",
     "AI/Machine_Learning/Perceptron.md",
-    "AI/Machine_Learning/Activation function.md",
-    "AI/Machine_Learning/Neural Networks.md",
-    "01-Organization and motivation.md",
-    "Pipeline.md",
-    "Mathematics/Tensors.md",
     "Untitled.canvas",
-    "train score.md",
-    "Neural Networks.md",
-    "Mathematics/Universal approximation theorem.md",
-    "AI/AlixPartners talk.md",
-    "AI/Machine_Learning/Nodes.md",
-    "Mathematics/ReLU.md",
-    "Mathematics/logistic function.md",
     "AI/Machine_Learning/Model Validation/model_validation.py",
     "AI/Machine_Learning/Unsupervised/k-means.py",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
     "AI/Machine_Learning/Supervised/linear_regression.py",
     "z_Attachments/relu.png",
-    "AI/Machine_Learning/Model Validation/model_validation",
     "z_Attachments/ttsl.png",
-    "AI/Machine_Learning/Model Validation",
     "z_Attachments/Hyper_val.png",
     "z_Attachments/KFold_etc.png",
-    "01-Linux/Bash/while-example.sh",
     "z_Attachments/newton_raphson.png",
     "z_Attachments/polinomial_interp.png",
-    "z_Attachments/least_sq.png",
-    "_Attachments/Diagram.svg",
-    "z_Attachments/logreg_result.png"
+    "z_Attachments/least_sq.png"
   ]
 }
