@@ -4,6 +4,7 @@
  [[01-Organization and motivation|01-Organization and motivation]]
  [[AI/_Index_of_AI|_Index_of_AI]]
  [[API|API]]
+ [[Checksums|Checksums]]
  [[Endpoints|Endpoints]]
  [[Git/_Index_of_Git|_Index_of_Git]]
  [[home/_Index_of_home|_Index_of_home]]
