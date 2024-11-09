@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/Logistic Regression.md"
+                "file": "AI/Machine_Learning/Model Validation/Model Validation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Logistic Regression"
+              "title": "Outline of Model Validation"
             }
           },
           {
@@ -204,6 +204,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Logistic Regression.md",
     "AI/Machine_Learning/Supervised/linear_regression1.py",
     "01-Linux/Kernel.md",
@@ -226,17 +229,13 @@
     "Mathematics/Numeric calculus/Least Squares.md",
     "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
     "AI/Machine_Learning/Model Validation/model_validation.py",
-    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
-    "_Index_of_Computer_science.md",
     "AI/Sci-Kit Learn/Preprocessors/Column transformer.md",
     "AI/Machine_Learning/Model Validation/TimeSeriesSplit.md",
     "AI/Machine_Learning/Model Validation/Train_test_split.md",
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
     "AI/Machine_Learning/Unsupervised/k-means-example.md",
     "AI/Machine_Learning/Unsupervised/k-means.py",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
-    "AI/Machine_Learning/Model Validation/Cross Validation.md",
     "AI/Machine_Learning/Supervised/linear_regression.py",
     "z_Attachments/relu.png",
     "AI/Machine_Learning/Model Validation/model_validation",
