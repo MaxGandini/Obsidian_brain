@@ -88,15 +88,18 @@ IE:
 | y   | 12  | 5   | 4   |
 
 $n = 2$ $\rightarrow P_2(x) = y_0 l_0(x) + y_1 l_1(x) + y_2 l_2(x)$
-$P_2(x) = 5 l_0 (x) + 4 l_1(x) + 9 l_2(x)$
+$P_2(x) = 12 l_0 (x) + 5 l_1(x) + 4 l_2(x)$
 
 The polynomial $l_0$ is calculated with the explicit equation above:
 
 $$l_0(x) = \frac{(x-0) (x-1)}{(-1-0)(-1-1)} = \frac{x (x-1)}{2} $$
 
+where $x_j = -1$ because we are calculating $l_0$ , then, $x_1 = 0$ and $x_2 = 1$ . The specific $x_0$ value is not taken into account in this order.
+
 The rest of the $l$ polynomials are calculated accordingly. In the end one gets:
 
 $$P_2(x)= \frac{12}{2} x(x-1) - 5 (x+1)(x-1) + 2 x(x+1) $$
+Which reduces to the previously calculated expression.
 
 |     |
 | --- |
