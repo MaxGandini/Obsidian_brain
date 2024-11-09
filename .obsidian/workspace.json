@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d0dd60f95dfcae8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Polynomial interpolation-methods"
+              "title": "New tab"
             }
           }
         ]
@@ -227,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "852f116b8ddd3de5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
     "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
+    "Mathematics/Numeric calculus/Error in Polinomial interpolation.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "_Index_of_Computer_science.md",
     "z_Attachments/newt_int.png",
