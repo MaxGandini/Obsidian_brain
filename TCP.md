@@ -16,3 +16,11 @@ TCP (Transmission Control Protocol) is one of the main protocols of the TCP/IP s
 
 - Error Checking:
 	[[TCP]] chcks for errors using [[checksums]] . If an error is found, the affected data packets are retransmitted.
+
+- Segmentation and Reassembly: 
+	[[TCP]]breaks large chunks of data into smaller segments for easier transmission over the network.
+
+![[segmentation.png]]
+
+- Duplex communication:
+	It allows for data to be sent and received simultaneously between sender and receiver.
