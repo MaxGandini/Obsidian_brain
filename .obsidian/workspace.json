@@ -11,32 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programs/API.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "API"
-            }
-          },
-          {
-            "id": "4101ad67c7c3356a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/BigQuery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BigQuery"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +223,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4101ad67c7c3356a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SQL/BigQuery.md",
     "z_Attachments/sql_struct.png",
     "z_Attachments/sql_struct.png.download",
     "SQL/UPDATE.md",
@@ -251,7 +233,6 @@
     "SQL/SELECT.md",
     "SQL/INSERT.md",
     "SQL/SQL.md",
-    "SQL/BigQuery.md",
     "Programs/Checksums.md",
     "Programs/HTTP.md",
     "Programs/Endpoints.md",
@@ -289,7 +270,6 @@
     "z_Attachments/newt_int.png",
     "Untitled.canvas",
     "z_Attachments/relu.png",
-    "z_Attachments/ttsl.png",
-    "z_Attachments/Hyper_val.png"
+    "z_Attachments/ttsl.png"
   ]
 }
