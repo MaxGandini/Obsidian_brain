@@ -4,6 +4,7 @@
  [[SQL/DELETE|DELETE]]
  [[SQL/DROP|DROP]]
  [[SQL/INSERT|INSERT]]
+ [[SQL/PostgreSQL|PostgreSQL]]
  [[SQL/SELECT|SELECT]]
  [[SQL/SQL_first.py|SQL_first.py]]
  [[SQL/SQL|SQL]]

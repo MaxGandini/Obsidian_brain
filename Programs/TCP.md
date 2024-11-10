@@ -15,7 +15,7 @@ TCP (Transmission Control Protocol) is one of the main protocols of the TCP/IP s
 	[[TCP]] controls the rate at which information is transmitted. The receiver can notify the sender to slow down or speed up based on specific characteristics.
 
 - Error Checking:
-	[[TCP]] chcks for errors using [[checksums]] . If an error is found, the affected data packets are retransmitted.
+	[[TCP]] chcks for errors using [[Checksums]] . If an error is found, the affected data packets are retransmitted.
 
 - Segmentation and Reassembly: 
 	[[TCP]]breaks large chunks of data into smaller segments for easier transmission over the network.
