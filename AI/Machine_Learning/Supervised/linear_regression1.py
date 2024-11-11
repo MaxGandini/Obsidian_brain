@@ -22,6 +22,7 @@ sklearn.set_config(transform_output="pandas")
 target = "price"  
 
 X = data.drop(target,axis=1)
+
 y_ = data[[target]]
 
 from sklearn.compose import ColumnTransformer
@@ -102,9 +103,9 @@ data_test['predicted'] = prediction
 )
 display(data_)
 
-from sklearn.metrics import mean_absolute_error
-mae = mean_absolute_error(y_test, prediction)
-print(f"Mean Absolute Error: {mae}")
+from sklearn.metrics import mean_squared_error
+mae = mean_squared_error(y_test, prediction)
+print(f"Mean squared Error: {mae}")
 
 from sklearn.metrics import r2_score
 r2 = r2_score(y_test, prediction)
