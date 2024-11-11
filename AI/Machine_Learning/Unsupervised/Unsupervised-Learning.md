@@ -1,14 +1,18 @@
-In this section we are going to define general rules and methods to develop and evaluate unsupervised-learning models.
+Unsupervised learning is a great approach to soft problems. It goes beyond the diagram below, as one has an intuitive previous understanding of the vegetable categories and knows what the output should be. In reality, one can obtain clusters or categories that correlate many different variables, and don't conform to an intuitive understanding of the problem.
 
-- Data re-scaling:
-It is important to use techniques which normalize our data, some machine learning models such as linear regression may depend on the values of the adjusted dimensions. So Log scaling, min-max, AB re-normalization, standard deviations to the mean, etc must be considered.
+![[unsupervised.png]]
+
+### Models:
+- [[K-Means clustering]] is a good approach for spherical clusters. In advance, one cannot know how the cluster will be, so it's trial-error.
+- For **non-spherical clusters**, [[DBSCAN]] and [[GMM]] are often the go-to methods.
+  - **DBSCAN** excels when you have noise and varying densities.
+  - **GMM** is great for capturing elliptical shapes.
+- **Agglomerative Hierarchical Clustering** and **Mean Shift** (pending)
+- [[Spectral Clustering]] is useful for complex, connected clusters that are not linearly separable.
+
+Each of these algorithms has its own strengths and can be chosen based on the nature of your dataset and the type of clusters you are looking for.
 
 
-- Dimensional reduction:
 
-Principle component analysis (PCA) is the best *linear* technique (a basis-change) to reduce the number of components. 
 
-![[PCA_visual.png]]
 
-It consists of analyzing the covariance of many variables and defining new dimensions as linear combinations of previous features:
-$$ cov(x,y)=\sum_{n}{( x_{n}-x_{mean}) \left( y_{n}-y_{mean} \right)}$$

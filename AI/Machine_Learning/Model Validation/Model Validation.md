@@ -74,7 +74,7 @@ We can divide the model validation again in [[Regression]] and [[Classification]
 
 #### **[[Classification]] Metrics**
 
-Another way of thinking this can be found in [[Evaluation methods]] inside [[Supervised-Learning]].
+Another way of thinking this can be found in [[Evaluation methods]] inside [[Supervised-Learning]]. As the confusion matrix cannot be used in unsupervised learning.
 
 1. **Accuracy**
    Accuracy is the proportion of correct predictions out of all predictions.

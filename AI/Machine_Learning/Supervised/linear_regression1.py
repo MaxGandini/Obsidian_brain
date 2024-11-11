@@ -2,11 +2,16 @@ import kagglehub
 
 # Download latest version
 # path = kagglehub.dataset_download("yasserh/housing-prices-dataset")
-
 # print("Path to dataset files:", path)
-import pandas as pd 
 
-data = pd.read_csv('/home/Xilian/.cache/kagglehub/datasets/yasserh/housing-prices-dataset/versions/1/Housing.csv')
+import pandas as pd 
+from pathlib import Path
+
+grandparent_dir= Path(__file__).parents[4]
+
+data_path = grandparent_dir / "datasets" / "Housing.csv"
+
+data = pd.read_csv(data_path)
 
 import pandas as pd
 import seaborn.objects as so
@@ -51,28 +56,38 @@ from sklearn.linear_model import Ridge
 
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import train_test_split
+from sklearn.model_selection import KFold
 
 param_grid = {
-    'alpha': [1,2.2,2.5,2.8,3,3.2,3.6],  # List of values to search over
+    'alpha': [1,1.01,1.03,1.0001,1.8,1.9,2.2,2.5,2.8,3,3.2,3.6],  # List of values to search over
 }
 
-X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
+# Initialize StratifiedKFold
+kf = KFold(n_splits=5, shuffle=True)
 
-model = Ridge(alpha=10)
+# Generate splits and create train/test sets
+for train_index, test_index in kf.split(X, y):
+    X_train, X_test = X.iloc[train_index], X.iloc[test_index]
+    y_train, y_test = y.iloc[train_index], y.iloc[test_index]
 
-grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=5, scoring='r2')
+    X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
 
-grid_search.fit(X_train, y_train)
+    model = Ridge(alpha=10)
 
-best_params = grid_search.best_params_
-best_score = grid_search.best_score_
+    grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=5, scoring='r2')
 
-print(f"Best Hyperparameters: {best_params}")
-print(f"Best Cross-Validation Score: {best_score}")
+    grid_search.fit(X_train, y_train)
 
-model_fit = model.fit(X_train,y_train)
+    best_params = grid_search.best_params_
+    best_score = grid_search.best_score_
 
-prediction = model.predict(X_test)
+    print(f"Best Hyperparameters: {best_params}")
+    print(f"Best Cross-Validation Score: {best_score}")
+
+best_ridge = Ridge(**best_params)
+model_fit = best_ridge.fit(X_train,y_train)
+
+prediction = best_ridge.predict(X_test)
 data_test = X_test
 data_test['target'] = y_test
 

@@ -1,7 +1,7 @@
 Example of n_clusters not being well determined.
 https://colab.research.google.com/drive/1QSfrvWAe7wKfLFyRuFTpiciBBZnfV7bt?usp=sharing
 
-Example (local):
+#### Example (local):
 [[k-means.py]]
 
 ![[cluster_ini.png]]
