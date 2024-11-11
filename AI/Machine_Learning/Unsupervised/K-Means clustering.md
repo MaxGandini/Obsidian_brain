@@ -1,4 +1,4 @@
-Example of [[Unsupervised-Learning]] . It takes *K* as a hyperft tmux
+Example of [[Unsupervised-Learning]] . It takes *K* as a hyper
 parameter.
 
 Optimization P: Minimization of the sum of square distances with respect to a group center.

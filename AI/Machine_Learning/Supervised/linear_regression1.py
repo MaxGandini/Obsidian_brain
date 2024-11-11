@@ -37,7 +37,7 @@ transformer = ColumnTransformer(
         (
             "number",
             MinMaxScaler(),
-            ["bedrooms","stories","bathrooms","area","parking"],
+            ["bedrooms","stories","bathrooms","parking"],
         )
     ],
     remainder="passthrough",
@@ -47,14 +47,31 @@ transformer = ColumnTransformer(
 
 data_= pd.DataFrame(transformer.fit_transform(X), columns=transformer.get_feature_names_out())
 
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import Ridge
 
+from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import train_test_split
+
+param_grid = {
+    'alpha': [3,4,5,6,7,8,9,10,11,12,13,14,15],  # List of values to search over
+}
 
 X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
 
-model = LinearRegression()
+model = Ridge(alpha=10)
+
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=5, scoring='r2')
+
+grid_search.fit(X_train, y_train)
+
+best_params = grid_search.best_params_
+best_score = grid_search.best_score_
+
+print(f"Best Hyperparameters: {best_params}")
+print(f"Best Cross-Validation Score: {best_score}")
+
 model_fit = model.fit(X_train,y_train)
+
 prediction = model.predict(X_test)
 data_test = X_test
 data_test['target'] = y_test
@@ -62,10 +79,18 @@ data_test['target'] = y_test
 data_test['predicted'] = prediction
 
 (
-    so.Plot(data_test, x="number__area")
+    so.Plot(data_test, x="remainder__area")
     .add(so.Line(), y="predicted", label="predicted")
     .add(so.Dot(), y="target", label="target")
     .label(y="target")
     .show()
 )
 display(data_)
+
+from sklearn.metrics import mean_absolute_error
+mae = mean_absolute_error(y_test, prediction)
+print(f"Mean Absolute Error: {mae}")
+
+from sklearn.metrics import r2_score
+r2 = r2_score(y_test, prediction)
+print(f"R-squared: {r2}")
