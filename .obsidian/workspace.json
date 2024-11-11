@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Unsupervised/k-means.py",
+                "file": "AI/Machine_Learning/Supervised/Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "k-means"
+              "title": "Linear Regression"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Unsupervised/k-means.py"
+                "file": "AI/Machine_Learning/Supervised/Linear Regression.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of k-means"
+              "title": "Outline of Linear Regression"
             }
           },
           {
@@ -229,51 +229,51 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Supervised/Evaluation methods.md",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Generative_AI/Intensive gen AI course.md",
+    "AI/Generative_AI/gen_ai.py",
+    "AI/Generative_AI/Generative AI.md",
+    "AI/Machine_Learning/Model Validation/GridSearchCV.md",
+    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
+    "z_Attachments/gridsearch.png",
+    "z_Attachments/gridsearch.png.download",
+    "AI/Machine_Learning/Model Validation/KFold.md",
+    "AI/Machine_Learning/Model Validation/Cross Validation.md",
+    "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
+    "AI/Machine_Learning/Supervised/Classification.md",
+    "AI/Machine_Learning/Supervised/Linear Regression.md",
+    "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Machine_Learning/Supervised/Logistic Regression.md",
+    "AI/Machine_Learning/Supervised/linear_regression1.py",
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "AI/Sci-Kit Learn/Scikit-Pipeline.md",
+    "AI/Sci-Kit Learn/Preprocessors/Binarizer.md",
+    "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
+    "AI/Sci-Kit Learn/Preprocessors/Ordinal Encoder.md",
+    "AI/Sci-Kit Learn/Preprocessors/Ordinal Enconder.md",
+    "AI/Sci-Kit Learn/Preprocessors/OneHotEncoder.md",
+    "Mathematics/Numeric calculus/Least Squares.md",
+    "Programs/API.md",
+    "train score.md",
+    "AI/Sci-Kit Learn/Preprocessors/Column transformer.md",
+    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning.md",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
+    "AI/Machine_Learning/Model Validation/model_validation.py",
+    "AI/Machine_Learning/Unsupervised/k-means.py",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
-    "AI/Machine_Learning/Unsupervised/k-means-example.md",
-    "AI/Machine_Learning/Unsupervised/k-means++.md",
-    "AI/Machine_Learning/Unsupervised/K-Means clustering.md",
-    "AI/Machine_Learning/Unsupervised/k-means.py",
-    "Mathematics/Statistics/Bias-Variance.md",
     "z_Attachments/bias-variance-target.png",
     "z_Attachments/bias-variance-target.png.download",
     "z_Attachments/bias-var.png",
     "z_Attachments/bias-var.png.download",
-    "Mathematics/Statistics/_Index_of_Statistics.md",
-    "_Index_of_Computer_science.md",
-    "Mathematics/Statistics",
-    "Programs/API KEYS.md",
-    "AI/Generative_AI/4913",
-    "AI/Generative_AI/_Index_of_Generative_AI.md",
-    "AI/Generative_AI/gen_ai.py",
-    "AI/Generative_AI/_Index_of_Generative AI.md",
-    "AI/Generative_AI/Intensive gen AI course.md",
-    "AI/Generative_AI/Generative AI.md",
-    "AI/Generative_AI",
-    "AI/Generative AI/gen_ai.py",
-    "Programs/API.md",
-    "AI/Generative AI/Intensive gen AI course.md",
-    "AI/Generative AI/Generative AI.md",
-    "AI/Generative AI/_Index_of_Generative AI.md",
-    "AI/Untitled.md",
-    "SQL/BigQuery.md",
     "z_Attachments/sql_struct.png",
-    "SQL/UPDATE.md",
-    "SQL/PostgreSQL.md",
-    "SQL/SELECT.md",
-    "SQL/INSERT.md",
-    "SQL/SQL.md",
-    "Programs/Checksums.md",
-    "Programs/HTTP.md",
-    "Programs/Endpoints.md",
     "z_Attachments/sql.png",
     "z_Attachments/segmentation.png",
     "z_Attachments/checksum.png",
     "z_Attachments/API.png",
     "z_Attachments/b080063dbe7f9cf817972c558ef96e78-168305858.png",
     "z_Attachments/TCP.png",
-    "z_Attachments/newt_int.png",
     "Untitled.canvas"
   ]
 }

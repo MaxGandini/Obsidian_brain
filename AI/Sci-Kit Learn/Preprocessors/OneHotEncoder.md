@@ -1,5 +1,6 @@
 A one hot encoder is a method for converting categorical variables into a binary format. The end result is similar to a [[Binarizer]] but it can take as an input strings.
 Each category in the original column is represented as a separate column where there's a 1 marking the presence of the category that's the 'hot' one and 0 on the other ones.
+
 ```
 class sklearn.preprocessing.OneHotEncoder(*, categories='auto', drop=None, sparse_output=True, dtype=<class 'numpy.float64'>, handle_unknown='error', min_frequency=None, max_categories=None, feature_name_combiner='concat')
 Encode categorical features as a one-hot numeric array.

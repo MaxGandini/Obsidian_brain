@@ -53,7 +53,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import train_test_split
 
 param_grid = {
-    'alpha': [3,4,5,6,7,8,9,10,11,12,13,14,15],  # List of values to search over
+    'alpha': [1,2.2,2.5,2.8,3,3.2,3.6],  # List of values to search over
 }
 
 X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
