@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Unsupervised/k-means1 meta.md"
+                "file": "SQL/PostgreSQL.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of k-means1 meta"
+              "title": "Outline of PostgreSQL"
             }
           },
           {
@@ -229,12 +229,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SQL/PostgreSQL.md",
+    "SQL/4913",
+    "SQL/SQL_database.py",
+    "SQL/PostgreSQL_init.py.md",
+    "Python/core/os.md",
+    "Python/core/_Index_of_core.md",
+    "Untitled.md",
+    "SQL/INSERT.md",
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Unsupervised/k-means1 meta.md",
     "AI/Machine_Learning/Unsupervised/4913",
     "AI/Machine_Learning/Unsupervised/k-means1.py~",
     "AI/Machine_Learning/Supervised/4913",
     "AI/Machine_Learning/Supervised/linear_regression1.py~",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Unsupervised/K-Means clustering.md",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
     "AI/Machine_Learning/Unsupervised/k-means-example.md",
@@ -246,7 +254,6 @@
     "AI/Machine_Learning/Model Validation/Model Validation.md",
     "AI/Machine_Learning/Supervised/Evaluation methods.md",
     "AI/Machine_Learning/Unsupervised/_Index_of_Unsupervised.md",
-    "Untitled.md",
     "AI/Machine_Learning/Unsupervised/k-means++.md",
     "AI/Machine_Learning/Unsupervised/k-means.py",
     "AI/Machine_Learning/Model Validation/KFold.md",
@@ -258,14 +265,7 @@
     "01-Linux/Bash/hello.sh",
     "AI/Machine_Learning/Supervised/_Index_of_Supervised.md",
     "AI/Machine_Learning/Supervised/Linear Regression.md",
-    "AI/Generative_AI/gen_ai.py",
-    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
     "z_Attachments/gridsearch.png",
-    "z_Attachments/gridsearch.png.download",
-    "AI/Machine_Learning/Model Validation/Cross Validation.md",
-    "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
-    "AI/Machine_Learning/Supervised/Classification.md",
-    "AI/Machine_Learning/Supervised/Regression.md",
     "z_Attachments/bias-variance-target.png",
     "z_Attachments/bias-var.png",
     "z_Attachments/sql_struct.png",

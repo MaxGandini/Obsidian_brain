@@ -34,3 +34,9 @@ cursor = connection.cursor()
 ```
 
 It's important to create a cursor object to use the query methods in it.
+
+Below is a link to a python script to initiate a table and manage typical database operations.
+
+[[SQL_database.py]]
+
+The login is obfuscated through the [[os]] library included by [[Python]]. The aliases are defined in [[Bash]] and accessed.
