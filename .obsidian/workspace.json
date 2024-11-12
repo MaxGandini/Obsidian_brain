@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/PostgreSQL.md"
+                "file": "01-Linux/Shell.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PostgreSQL"
+              "title": "Outline of Shell"
             }
           },
           {
@@ -229,6 +229,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-Linux/Shell.md",
+    "01-Linux/Terminals.md",
+    "01-Linux/GNU.md",
+    "01-Linux/Kernel.md",
+    "01-Linux/Linux.md",
+    "01-Linux/Bash/Bash.md",
+    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
+    "01-Linux/Bash/Bash commands for the interview..md",
+    "01-Linux/Bash/_Index_of_Bash.md",
+    "01-Linux/Bash/while-example.sh",
+    "01-Linux/Bash/obsidian_runner.sh",
+    "_Index_of_Computer_science.md",
     "SQL/PostgreSQL.md",
     "SQL/4913",
     "SQL/SQL_database.py",
@@ -237,7 +249,6 @@
     "Python/core/_Index_of_core.md",
     "Untitled.md",
     "SQL/INSERT.md",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Unsupervised/k-means1 meta.md",
     "AI/Machine_Learning/Unsupervised/4913",
     "AI/Machine_Learning/Unsupervised/k-means1.py~",
@@ -255,16 +266,6 @@
     "AI/Machine_Learning/Supervised/Evaluation methods.md",
     "AI/Machine_Learning/Unsupervised/_Index_of_Unsupervised.md",
     "AI/Machine_Learning/Unsupervised/k-means++.md",
-    "AI/Machine_Learning/Unsupervised/k-means.py",
-    "AI/Machine_Learning/Model Validation/KFold.md",
-    "AI/Machine_Learning/Model Validation/GridSearchCV.md",
-    "AI/Generative_AI/Generative AI.md",
-    "AI/Generative_AI/Intensive gen AI course.md",
-    "AI/Generative_AI/_Index_of_Generative_AI.md",
-    "AI/Generative_AI/_Index_of_Generative AI.md",
-    "01-Linux/Bash/hello.sh",
-    "AI/Machine_Learning/Supervised/_Index_of_Supervised.md",
-    "AI/Machine_Learning/Supervised/Linear Regression.md",
     "z_Attachments/gridsearch.png",
     "z_Attachments/bias-variance-target.png",
     "z_Attachments/bias-var.png",
