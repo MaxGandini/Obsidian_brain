@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Computer_science.md",
+                "file": "Mathematics/Statistics/Bias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "Bias"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Shell.md"
+                "file": "Mathematics/Statistics/Bias.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Shell"
+              "title": "Outline of Bias"
             }
           },
           {
@@ -229,6 +229,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Bias-Variance.md",
+    "Mathematics/Statistics/Bias.md",
+    "Mathematics/Statistics/Variance.md",
+    "Mathematics/Statistics/_Index_of_Statistics.md",
+    "_Index_of_Computer_science.md",
     "01-Linux/Shell.md",
     "01-Linux/Terminals.md",
     "01-Linux/GNU.md",
@@ -240,7 +245,6 @@
     "01-Linux/Bash/_Index_of_Bash.md",
     "01-Linux/Bash/while-example.sh",
     "01-Linux/Bash/obsidian_runner.sh",
-    "_Index_of_Computer_science.md",
     "SQL/PostgreSQL.md",
     "SQL/4913",
     "SQL/SQL_database.py",
@@ -262,10 +266,6 @@
     "z_Attachments/unsupervised.png.download",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
-    "AI/Machine_Learning/Supervised/Evaluation methods.md",
-    "AI/Machine_Learning/Unsupervised/_Index_of_Unsupervised.md",
-    "AI/Machine_Learning/Unsupervised/k-means++.md",
     "z_Attachments/gridsearch.png",
     "z_Attachments/bias-variance-target.png",
     "z_Attachments/bias-var.png",
