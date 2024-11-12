@@ -8,6 +8,7 @@
  [[Mathematics/_Index_of_Mathematics|_Index_of_Mathematics]]
  [[Neovim-Lua/_Index_of_Neovim-Lua|_Index_of_Neovim-Lua]]
  [[notes/_Index_of_notes|_Index_of_notes]]
+ [[Postgresql managing|Postgresql managing]]
  [[Programs/_Index_of_Programs|_Index_of_Programs]]
  [[Python/_Index_of_Python|_Index_of_Python]]
  [[README|README]]
