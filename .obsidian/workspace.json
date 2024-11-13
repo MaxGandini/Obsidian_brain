@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Computer_science.md",
+                "file": "SQL/SQL_database.py",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "SQL_database"
             }
           }
         ]
@@ -148,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "SQL/SQL_database.py"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SQL_database"
             }
           },
           {
@@ -208,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +229,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SQL/SQL_first.py",
+    "SQL/SQL_database.py",
+    "01-Linux/Bash/Bash piping.md",
+    "Programs/API KEYS.md",
+    "Programs/Checksums.md",
+    "Programs/API.md",
+    "Python/download_dataset.py",
+    "Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
+    "AI/Machine_Learning/Supervised/logistic_regression.py",
+    "AI/Machine_Learning/Supervised/linear_regression1.py",
+    "AI/Machine_Learning/Supervised/linear_regression.py",
+    "AI/Machine_Learning/Model Validation/GridSearchCV.md",
+    "01-Linux/Bash/hello.sh",
+    "_Index_of_Computer_science.md",
     "SQL/Postgresql managing.md",
     "SQL/_Index_of_SQL.md",
     "AI/Machine_Learning/Neural network optimization.md",
@@ -238,7 +253,6 @@
     "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Nodes.md",
     "AI/Sci-Kit Learn/Scikit-Pipeline.md",
-    "Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
     "Mathematics/Numeric calculus/Newton interpolation.md",
     "Mathematics/ReLU.md",
     "Mathematics/Statistics/Variance.md",
@@ -249,24 +263,11 @@
     "AI/Machine_Learning/Perceptron.py~",
     "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
     "AI/Machine_Learning/Unsupervised/4913",
-    "Programs/API.md",
     "SQL/SQL.md",
     "SQL/PostgreSQL.md",
     "z_Attachments/gradient.png",
-    "z_Attachments/gradient.png.download",
     "Mathematics/Numeric calculus/Polynomial interpolation.md",
     "z_Attachments/perceptron.png",
-    "z_Attachments/perceptron.png.download",
-    "AI/Neural networks.md",
-    "_Index_of_Computer_science.md",
-    "Mathematics/Numeric calculus/ClaseCN-jpnb.md",
-    "Mathematics/Numeric calculus/Non-linear integration/Trapezoidal rule.md",
-    "Mathematics/Numeric calculus/Non-linear integration/Gaussian quadrature.md",
-    "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
-    "Mathematics/Numeric calculus/Non-linear integration",
-    "AI/Machine_Learning/Supervised/4913",
-    "SQL/4913",
-    "01-Linux/Bash/while-example.sh",
     "z_Attachments/unsupervised.png",
     "z_Attachments/gridsearch.png",
     "z_Attachments/bias-variance-target.png",
