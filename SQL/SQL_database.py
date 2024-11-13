@@ -1,6 +1,6 @@
 import psycopg2
 import os
-
+import csv
 from pathlib import Path
 
 grandparent_dir= Path(__file__).parents[2]
@@ -52,16 +52,25 @@ for csv_file_path, table_name in zip(tables, names):
     # Ensure the file exists before attempting to load it
     if csv_file_path.exists():
         try:
-            cur.execute(f"""CREATE TABLE IF NOT EXISTS {table_name}""")
-
-            # Dynamically insert the table name and file path into the COPY SQL statement
-
+            with open(csv_file_path, 'r') as f:
+                reader = csv.reader(f)
+                headers = next(reader)
+            
+            # Define the table structure with inferred column names and types
+            columns = ', '.join([f"{col} TEXT" for col in headers])
+            
+            # Create the table with inferred columns
+            create_table_sql = f"""
+                CREATE TABLE IF NOT EXISTS {table_name} (
+                    {columns}
+                )
+            """
             copy_sql = f"""
                 COPY {table_name}
                 FROM '{csv_file_path}'
                 WITH CSV HEADER DELIMITER ','
             """
-
+            cur.execute(create_table_sql)
             # Open the file and execute the COPY command
             with open(csv_file_path, 'r') as f:
                 cur.copy_expert(sql=copy_sql, file=f)

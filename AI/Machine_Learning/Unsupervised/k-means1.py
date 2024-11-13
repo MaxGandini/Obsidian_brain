@@ -68,7 +68,7 @@ df = df.join(
 
 plt.figure(figsize=(10, 6))
 
-# sns.pairplot(transformed_df[['Fresh', 'Milk', 'Grocery']])  # Select columns of interest
+sns.pairplot(transformed_df[['Fresh', 'Milk', 'Grocery']])  # Select columns of interest
 sns.heatmap(df.corr(), annot=True, cmap='coolwarm', fmt='.2f', linewidths=0.5)
 
 plt.xlabel('x')
