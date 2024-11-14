@@ -3,8 +3,14 @@ import numpy as np
 
 type vector = np.array
 
-class perceptron:
+# We define a perceptron class, with it, we can make logic gates like nans and ors. These can be thought of a bias-adjusted perceptron.
 
+class perceptron:
+    '''
+    Many instances can define a perceptron in a network.
+    It is initialized by a bias, a weight and an activation function.
+    It is an abstraction of the element that constitutes a neuron in the network.
+    '''
     def __init__(self,bias:float,weight,activation_function:Callable):
         self.weight = [_ for _ in weight]
         self.bias = bias
@@ -17,6 +23,9 @@ class perceptron:
         return computation
 
 def activation_heaviside(sum:float) -> float:
+    '''
+    Heaviside/step function
+    '''
     activation = 1 if sum >= 0 else 0
     return activation
 
@@ -31,24 +40,11 @@ print(perceptron0.compute(vector_))
 or_gate = perceptron(-0.5, weights, activation_heaviside)
 
 print(or_gate.compute(vector_))
-state_0 = np.array([0,0])
+state_0 = np.array([1,0])
 
 print(or_gate.compute(state_0))
 
-# def perceptron_a(input:vector, bias:float) -> float:
-#     w = [0.5 for _ in input]
-#     weighted_sum = sum(w[i] * input[i] for i in range(len(input))) + bias
-#
-#     function = activation_heaviside(weighted_sum)
-#
-#     return function
-#
-#
-# input_vector = [1.0,0.0]  # Replace with your input values
-# or_output = perceptron_a(input_vector, -0.5)
-# and_output = perceptron_a(input_vector, -1.5)
-#
-# print(f"Output of the perceptron: {or_output}")
-# print(f"Output of the perceptron: {and_output}")
-#
-#
+## We take on the challenge of making an XOR gate. It is intuitive that we shall need two input functions. 
+## Also, an XOR gate can be thought of as an and gate and an or gate 
+
+
