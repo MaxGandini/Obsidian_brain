@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Linux/Bash/Shell magic tricks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shell magic tricks"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Perceptron.md"
+                "file": "01-Linux/Bash/Shell magic tricks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Perceptron"
+              "title": "Outline of Shell magic tricks"
             }
           },
           {
@@ -225,6 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-Linux/Bash/Bash commands for the interview..md",
+    "01-Linux/Bash/Bash piping.md",
+    "01-Linux/Bash/Shell magic tricks.md",
+    "01-Linux/Bash/Conditions and loops.md",
+    "01-Linux/Bash/hello.sh",
+    "01-Linux/Bash/Change interpreter.md",
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Perceptron.md",
     "AI/Machine_Learning/Perceptron.py~",
     "AI/Machine_Learning/4913",
@@ -233,10 +244,8 @@
     "AI/Generative_AI/gen_ai.py",
     "01-Linux/Bash/Bash.md",
     "01-Linux/Bash/Bash 01 syntax_follow_along.md",
-    "_Index_of_Computer_science.md",
     "SQL/SQL_database.py",
     "SQL/SQL_first.py",
-    "01-Linux/Bash/Bash piping.md",
     "Programs/API KEYS.md",
     "Programs/Checksums.md",
     "Programs/API.md",
@@ -246,7 +255,6 @@
     "AI/Machine_Learning/Supervised/linear_regression1.py",
     "AI/Machine_Learning/Supervised/linear_regression.py",
     "AI/Machine_Learning/Model Validation/GridSearchCV.md",
-    "01-Linux/Bash/hello.sh",
     "SQL/Postgresql managing.md",
     "SQL/_Index_of_SQL.md",
     "AI/Machine_Learning/Neural network optimization.md",
@@ -257,10 +265,7 @@
     "Mathematics/Numeric calculus/Newton interpolation.md",
     "Mathematics/ReLU.md",
     "Mathematics/Statistics/Variance.md",
-    "Python/Python.md",
-    "Python/Type hinting system.md",
     "z_Attachments/neural_gradient.png",
-    "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
     "z_Attachments/gradient.png",
     "z_Attachments/perceptron.png",
     "z_Attachments/unsupervised.png",
