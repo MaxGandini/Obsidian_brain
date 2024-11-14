@@ -52,4 +52,10 @@ If you want to replace a previous command you can :
 
 This replaces fuzzy with fzf. 
 
+A very good command for cd is :
 
+```bash
+cd -
+```
+
+It takes you to the last directory.
