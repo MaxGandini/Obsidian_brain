@@ -1,0 +1,1 @@
+This is a meta note for [[macro_rules.rs]] .
