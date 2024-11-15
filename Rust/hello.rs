@@ -1,4 +1,4 @@
-//comment ins rust
+//comment in rust
 //
 
 fn main(){

@@ -1,3 +1,5 @@
+Most of these notes will be based on 'Rust by example'.
+
 It was designed to address issues often seen in languages like C and C++ (especially around memory safety) while also providing high-level abstractions similar to languages like Python or JavaScript:
 
 ## Key Features
