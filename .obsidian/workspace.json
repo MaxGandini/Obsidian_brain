@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Linux/Bash/Shell magic tricks.md",
+                "file": "_Index_of_Computer_science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell magic tricks"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/Shell magic tricks.md"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Shell magic tricks"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -229,9 +229,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-Linux/Bash/Shell magic tricks.md",
     "01-Linux/Bash/Bash commands for the interview..md",
     "01-Linux/Bash/Bash piping.md",
-    "01-Linux/Bash/Shell magic tricks.md",
     "01-Linux/Bash/Conditions and loops.md",
     "01-Linux/Bash/hello.sh",
     "01-Linux/Bash/Change interpreter.md",
