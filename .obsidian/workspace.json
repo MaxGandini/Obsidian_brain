@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 245.5
   },
   "right": {
     "id": "fa22f7cbe315a6a1",
@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/Decision trees.md"
+                "file": "01-Linux/Bash/Bash.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Decision trees"
+              "title": "Outline of Bash"
             }
           },
           {
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,11 +226,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-Linux/Bash/Bash.md",
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Decision trees.md",
     "z_Attachments/decision_tree.png.download",
     "z_Attachments/decision_tree.png",
     "AI/Machine_Learning/Untitled.md",
-    "_Index_of_Computer_science.md",
     "Rust/macro_rules meta.md",
     "Rust/macro_rules",
     "Rust/Rust.md",
@@ -251,7 +253,6 @@
     "AI/Machine_Learning/Perceptron.md",
     "AI/Machine_Learning/Neural Networks.md",
     "AI/Generative_AI/Generative AI.md",
-    "01-Linux/Bash/Bash.md",
     "01-Linux/Bash/Bash 01 syntax_follow_along.md",
     "Programs/API KEYS.md",
     "Programs/Checksums.md",

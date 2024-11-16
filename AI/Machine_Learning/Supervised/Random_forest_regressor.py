@@ -1,5 +1,5 @@
 
-mport kagglehub
+import kagglehub
 
 # Download latest version
 # path = kagglehub.dataset_download("yasserh/housing-prices-dataset")
@@ -54,48 +54,41 @@ transformer = ColumnTransformer(
 
 data_= pd.DataFrame(transformer.fit_transform(X), columns=transformer.get_feature_names_out())
 
-from sklearn.ensemble import RandomForestRegressor
-
-from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import train_test_split
 from sklearn.model_selection import KFold
 
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import GridSearchCV, train_test_split
+from sklearn.metrics import r2_score
 
-# Initialize StratifiedKFold
+# Define hyperparameter grid
+param_grid = {
+    'n_estimators': [700,1000,2000,3000],
+    'max_depth': [1,2,3]
+              }
+
+# Split data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(data_, y_, test_size=0.2, random_state=42)
+
+# Initialize the model
 regr = RandomForestRegressor()
 
+# Perform grid search with cross-validation
+grid_search = GridSearchCV(estimator=regr, param_grid=param_grid, cv=5, scoring='r2')
+grid_search.fit(X_train, y_train)
 
-param_grid = {
-    'n_estimators': [700,800],  # List of values to search over
-    'n_jobs': [None,1],  # List of values to search over
-    'max_depth': [1,2,3]
+# Get best parameters and score
+best_params = grid_search.best_params_
+best_score = grid_search.best_score_
 
-}
+print(f"Best Hyperparameters: {best_params}")
+print(f"Best Cross-Validation Score: {best_score}")
 
-kf = KFold(n_splits=5, shuffle=True)
+# Train the final model with best parameters
+final_model = RandomForestRegressor(**best_params)
+final_model.fit(X_train, y_train)
+# Initialize StratifiedKFold
 
-# Generate splits and create train/test sets
-for train_index, test_index in kf.split(X, y):
-    X_train, X_test = X.iloc[train_index], X.iloc[test_index]
-    y_train, y_test = y.iloc[train_index], y.iloc[test_index]
-
-    X_train , X_test, y_train, y_test = train_test_split(data_,y,test_size=0.20)
-
-    regr.fit(X_train, y_train)
-
-    grid_search = GridSearchCV(estimator=regr, param_grid=param_grid, cv=5, scoring='r2')
-
-    grid_search.fit(X_train, y_train)
-
-    best_params = grid_search.best_params_
-    best_score = grid_search.best_score_
-
-    print(f"Best Hyperparameters: {best_params}")
-    print(f"Best Cross-Validation Score: {best_score}")
-
-regr.fit(**best_params)
-
-prediction = regr.predict(X_test)
+prediction = final_model.predict(X_test)
 data_test = X_test
 data_test['target'] = y_test
 
