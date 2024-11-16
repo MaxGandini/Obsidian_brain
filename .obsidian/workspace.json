@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Random Forest Regressor"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/Bash.md"
+                "file": "AI/Machine_Learning/Supervised/Random Forest Regressor.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bash"
+              "title": "Outline of Random Forest Regressor"
             }
           },
           {
@@ -206,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,9 +229,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01-Linux/Bash/Bash.md",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Decision trees.md",
+    "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
+    "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Machine_Learning/Supervised/Untitled.md",
+    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
+    "AI/Machine_Learning/Supervised/logistic_regression.py",
+    "AI/Machine_Learning/Supervised/Random_forest_regressor.py",
+    "_Index_of_Computer_science.md",
+    "01-Linux/Bash/Bash.md",
     "z_Attachments/decision_tree.png.download",
     "z_Attachments/decision_tree.png",
     "AI/Machine_Learning/Untitled.md",
@@ -242,9 +251,7 @@
     "Rust/macro_rules.8lp49i29uushmb0vvogdea6ys.rcgu.o",
     "Rust/macro_rules.rs",
     "Rust/hello.hello.6671d880ddec459d-cgu.0.rcgu.o",
-    "Rust/hello.72fny9gmhdec5egl36x9a0d5v.rcgu.o",
     "Rust/_Index_of_Rust.md",
-    "Rust",
     "01-Linux/Bash/Shell magic tricks.md",
     "01-Linux/Bash/Bash commands for the interview..md",
     "01-Linux/Bash/Bash piping.md",
@@ -259,9 +266,6 @@
     "Programs/API.md",
     "Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
     "AI/Machine_Learning/Model Validation/GridSearchCV.md",
-    "SQL/Postgresql managing.md",
-    "SQL/_Index_of_SQL.md",
-    "AI/Machine_Learning/Neural network optimization.md",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
     "z_Attachments/perceptron.png",

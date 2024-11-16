@@ -6,4 +6,4 @@ Within the regression category we have :
 - [[Logistic Regression]]
 - [[Polynomial Regression]]
 - [[Support Vector Regression]] (SVR)
-- [[Decision Tree]] and [[Random Forest]]
+- [[Decision Tree]] and [[Random Forest Regressor]]
