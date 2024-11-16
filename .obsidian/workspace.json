@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Machine_Learning/Supervised/Decision trees.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Decision trees"
+              "title": "New tab"
             }
           }
         ]
@@ -229,9 +225,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Supervised/Decision trees.md",
     "z_Attachments/decision_tree.png.download",
     "z_Attachments/decision_tree.png",
-    "AI/Machine_Learning/Supervised/Decision trees.md",
     "AI/Machine_Learning/Untitled.md",
     "_Index_of_Computer_science.md",
     "Rust/macro_rules meta.md",
@@ -251,7 +247,6 @@
     "01-Linux/Bash/Bash commands for the interview..md",
     "01-Linux/Bash/Bash piping.md",
     "01-Linux/Bash/Conditions and loops.md",
-    "01-Linux/Bash/hello.sh",
     "01-Linux/Bash/Change interpreter.md",
     "AI/Machine_Learning/Perceptron.md",
     "AI/Machine_Learning/Neural Networks.md",
