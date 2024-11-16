@@ -25,7 +25,7 @@
       "query": "path:\"AI/Machine Learning\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14873843
       }
     },
     {
@@ -33,6 +33,20 @@
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Rust  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:AI  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449459
       }
     }
   ],
