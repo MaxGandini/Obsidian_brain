@@ -2,6 +2,7 @@
  [[AI/Machine_Learning/Supervised/Classification|Classification]]
  [[AI/Machine_Learning/Supervised/Decision trees|Decision trees]]
  [[AI/Machine_Learning/Supervised/Evaluation methods|Evaluation methods]]
+ [[AI/Machine_Learning/Supervised/GBM|GBM]]
  [[AI/Machine_Learning/Supervised/Linear Regression|Linear Regression]]
  [[AI/Machine_Learning/Supervised/linear_regression.py|linear_regression.py]]
  [[AI/Machine_Learning/Supervised/linear_regression1.py|linear_regression1.py]]
