@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Machine_Learning/Supervised/GBM.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GBM"
+              "title": "New tab"
             }
           }
         ]
@@ -229,8 +225,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/XGBoost/Untitled.md",
     "AI/Machine_Learning/Supervised/GBM.md",
+    "AI/XGBoost/Untitled.md",
     "AI/XGBoost/XGBoost.md",
     "AI/XGBoost/_Index_of_XGBoost.md",
     "AI/_Index_of_AI.md",
