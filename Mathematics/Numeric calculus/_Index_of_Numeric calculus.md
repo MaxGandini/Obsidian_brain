@@ -5,6 +5,8 @@
  [[Mathematics/Numeric calculus/Non-linear approximations/_Index_of_Non-linear approximations|_Index_of_Non-linear approximations]]
  [[Mathematics/Numeric calculus/Non-linear integration/_Index_of_Non-linear integration|_Index_of_Non-linear integration]]
  [[Mathematics/Numeric calculus/Non-square Matrix Inversion|Non-square Matrix Inversion]]
+ [[Mathematics/Numeric calculus/polinomial_interpolation.py|polinomial_interpolation.py]]
+ [[Mathematics/Numeric calculus/polinomial_interpolation|polinomial_interpolation]]
  [[Mathematics/Numeric calculus/Polynomial interpolation-methods|Polynomial interpolation-methods]]
  [[Mathematics/Numeric calculus/Polynomial interpolation|Polynomial interpolation]]
  [[Mathematics/Numeric calculus/QR|QR]]

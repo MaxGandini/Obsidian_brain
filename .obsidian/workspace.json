@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Polynomial interpolation-methods"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/GBM.md"
+                "file": "Mathematics/Numeric calculus/Polynomial interpolation-methods.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of GBM"
+              "title": "Outline of Polynomial interpolation-methods"
             }
           },
           {
@@ -225,6 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Numeric calculus/4913",
+    "Mathematics/Numeric calculus/polinomial_interpolation.md",
+    "Mathematics/Numeric calculus/polinomial_interpolation.py",
+    "Mathematics/Numeric calculus/Non-linear integration/Trapezoidal rule.md",
+    "Mathematics/Numeric calculus/_Index_of_Numeric calculus.md",
+    "Mathematics/Numeric calculus/Non-linear integration/Gaussian quadrature.md",
+    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/GBM.md",
     "AI/XGBoost/Untitled.md",
     "AI/XGBoost/XGBoost.md",
@@ -234,7 +245,6 @@
     "AI/XGBoost",
     "AI/Machine_Learning/Supervised/logistic_regression.py",
     "AI/Machine_Learning/Supervised/Random_forest_regressor.py",
-    "_Index_of_Computer_science.md",
     "AI/Machine_Learning/Supervised/Decision trees.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
@@ -250,18 +260,12 @@
     "Rust/hello meta.md",
     "Rust/macro_rules.macro_rules.161ed63485816a4-cgu.0.rcgu.o",
     "Rust/macro_rules.8lp49i29uushmb0vvogdea6ys.rcgu.o",
-    "Rust/macro_rules.rs",
     "Rust/_Index_of_Rust.md",
     "01-Linux/Bash/Shell magic tricks.md",
     "01-Linux/Bash/Bash commands for the interview..md",
     "01-Linux/Bash/Bash piping.md",
     "01-Linux/Bash/Conditions and loops.md",
     "01-Linux/Bash/Change interpreter.md",
-    "AI/Machine_Learning/Perceptron.md",
-    "AI/Machine_Learning/Neural Networks.md",
-    "AI/Generative_AI/Generative AI.md",
-    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
-    "Programs/API KEYS.md",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
     "z_Attachments/perceptron.png",
