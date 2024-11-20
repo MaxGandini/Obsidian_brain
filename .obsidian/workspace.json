@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/XGBoost/XGBoost.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "XGBoost"
+              "title": "New tab"
             }
           }
         ]
@@ -149,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/XGBoost/XGBoost.md"
+                "file": "AI/Sci-Kit Learn/Preprocessors/Ordinal Encoder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of XGBoost"
+              "title": "Outline of Ordinal Encoder"
             }
           },
           {
@@ -229,6 +225,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Sci-Kit Learn/Preprocessors/Ordinal Encoder.md",
+    "AI/Sci-Kit Learn/Preprocessors/OneHotEncoder.md",
+    "AI/Sci-Kit Learn/Preprocessors/MinMaxScaler.md",
+    "AI/XGBoost/XGBoost.md",
     "Mathematics/Numeric calculus/4913",
     "AI/Machine_Learning/Supervised/GBM.md",
     "Mathematics/Numeric calculus/Polynomial interpolation-methods.md",
@@ -239,7 +239,6 @@
     "Mathematics/Numeric calculus/Non-linear integration/Gaussian quadrature.md",
     "_Index_of_Computer_science.md",
     "AI/XGBoost/Untitled.md",
-    "AI/XGBoost/XGBoost.md",
     "AI/XGBoost/_Index_of_XGBoost.md",
     "AI/_Index_of_AI.md",
     "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
@@ -263,8 +262,6 @@
     "Rust/_Index_of_Rust.md",
     "01-Linux/Bash/Shell magic tricks.md",
     "01-Linux/Bash/Bash commands for the interview..md",
-    "01-Linux/Bash/Bash piping.md",
-    "01-Linux/Bash/Conditions and loops.md",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
     "z_Attachments/perceptron.png",
