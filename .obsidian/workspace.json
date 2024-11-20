@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "AI/XGBoost/Feature Interaction.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -245,9 +245,9 @@
   "active": "0b46b50218911b5e",
   "lastOpenFiles": [
     "AI/XGBoost/Pruning.md",
+    "AI/XGBoost/Feature Interaction.md",
     "AI/XGBoost/XGBoost.md",
     "AI/XGBoost/xgboost_random_forest.py",
-    "AI/XGBoost/Feature Interaction.md",
     "AI/Machine_Learning/Activation function.md",
     "AI/Machine_Learning/Perceptron.md",
     "AI/Machine_Learning/Neural Networks.md",
