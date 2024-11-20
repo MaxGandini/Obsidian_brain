@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Sci-Kit Learn/Sci-Kit Learn.md"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sci-Kit Learn"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -229,6 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/MSE.md~",
+    "AI/Machine_Learning/Supervised/Decision_trees.md",
+    "AI/Machine_Learning/Supervised/Decision trees.md",
+    "Mathematics/Statistics/MSE.md",
+    "Mathematics/Statistics/Entropy.md",
+    "AI/XGBoost/XGBoost.md",
+    "_Index_of_Computer_science.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "AI/Sci-Kit Learn/_Index_of_Sci-Kit Learn.md",
     "AI/Sci-Kit Learn/pipeline.py",
@@ -238,7 +245,6 @@
     "Python/Type hinting system.md",
     "Mathematics/Numeric_calculus/4913",
     "Python/Python.md",
-    "_Index_of_Computer_science.md",
     "Mathematics/Numeric_calculus/polinomial_interpolation.py~",
     "Mathematics/Numeric_calculus/_Index_of_Numeric_calculus.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Newton-Raphson.md",
@@ -256,15 +262,9 @@
     "Mathematics/Numeric_calculus/Non-linear integration",
     "Mathematics/Numeric_calculus/Non-linear approximations",
     "Mathematics/Numeric_calculus/Newton interpolation.md",
-    "Mathematics/Numeric_calculus/Least Squares.md",
-    "Mathematics/Numeric_calculus/Error in Polinomial interpolation.md",
     "Mathematics/Numeric_calculus",
-    "AI/XGBoost/Feature Interaction.md",
     "AI/XGBoost/nacimientos-anio-nacion.csv",
-    "AI/XGBoost/Pruning.md",
-    "AI/XGBoost/XGBoost.md",
     "AI/XGBoost/xgboost_random_forest.py",
-    "AI/Machine_Learning/Activation function.md",
     "z_Attachments/decision_tree.png",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
