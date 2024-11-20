@@ -4,7 +4,6 @@
  [[AI/Machine_Learning/Model Validation/_Index_of_Model Validation|_Index_of_Model Validation]]
  [[AI/Machine_Learning/Neural network optimization|Neural network optimization]]
  [[AI/Machine_Learning/Neural Networks|Neural Networks]]
- [[AI/Machine_Learning/Nodes|Nodes]]
  [[AI/Machine_Learning/Perceptron.py|Perceptron.py]]
  [[AI/Machine_Learning/Perceptron|Perceptron]]
  [[AI/Machine_Learning/Supervised-Unsupervised Learning|Supervised-Unsupervised Learning]]
