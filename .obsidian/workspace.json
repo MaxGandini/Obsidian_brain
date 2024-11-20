@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 268.5
   },
   "right": {
     "id": "fa22f7cbe315a6a1",
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Computer_science.md"
+                "file": "AI/Sci-Kit Learn/Sci-Kit Learn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
+              "title": "Outline of Sci-Kit Learn"
             }
           },
           {
@@ -229,7 +229,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "AI/Sci-Kit Learn/_Index_of_Sci-Kit Learn.md",
+    "AI/Sci-Kit Learn/pipeline.py",
+    "AI/Machine_Learning/Supervised/logistic_regression.py",
+    "AI/Sci-Kit Learn/Preprocessors/Ordinal Encoder.md",
+    "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
+    "Python/Type hinting system.md",
     "Mathematics/Numeric_calculus/4913",
+    "Python/Python.md",
+    "_Index_of_Computer_science.md",
     "Mathematics/Numeric_calculus/polinomial_interpolation.py~",
     "Mathematics/Numeric_calculus/_Index_of_Numeric_calculus.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Newton-Raphson.md",
@@ -256,15 +265,6 @@
     "AI/XGBoost/XGBoost.md",
     "AI/XGBoost/xgboost_random_forest.py",
     "AI/Machine_Learning/Activation function.md",
-    "AI/Machine_Learning/Perceptron.md",
-    "AI/Machine_Learning/Neural Networks.md",
-    "AI/Machine_Learning/_Index_of_Machine_Learning.md",
-    "Mathematics/Universal approximation theorem.md",
-    "Mathematics/Tensors.md",
-    "Mathematics/Statistics/Bias-Variance.md",
-    "AI/Sci-Kit Learn/pipeline.py",
-    "AI/Machine_Learning/Perceptron.py",
-    "AI/Machine_Learning/Supervised/Random_forest_regressor.py",
     "z_Attachments/decision_tree.png",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
