@@ -7,6 +7,12 @@ from sklearn.preprocessing import MinMaxScaler
 import pandas as pd
 from pathlib import Path
 import requests
+import sklearn
+import numpy as np
+from sklearn.preprocessing import FunctionTransformer
+import xgboost
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 proyecto="nacimientos-anio-nacion.csv"
 archivo = Path(proyecto)
@@ -17,6 +23,11 @@ if not archivo.exists():
 
 nacimientos_nacion=pd.read_csv(archivo)
 target = "nacimientos_cantidad"
+
+nacimientos_nacion_new = nacimientos_nacion.drop(['provincia_id','departamento_id','tbn',],axis=1)
+nacimientos_nacion_new
+
+log_scaler = FunctionTransformer(np.log1p, validate=True)
 
 sklearn.set_config(transform_output="pandas")
 target = "nacimientos_cantidad"
@@ -126,7 +137,7 @@ sns.lineplot(
     palette='viridis'
 )
 
-
+plt.show()
 # Evaluation
 r2 = r2_score(y_val, y_pred)
 mse = mean_squared_error(y_val, y_pred)
@@ -136,7 +147,3 @@ print(f"Mean Squared Error: {mse:.3f}")
 print(model.save_config())
 attributes = model.attributes()
 
-# Convert the attributes to a pandas DataFrame
-attributes_df = pd.DataFrame(list(attributes.items()), columns=["Attribute", "Value"])
-
-attributes_df
