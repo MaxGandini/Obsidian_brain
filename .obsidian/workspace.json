@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Index_of_Computer_science.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Index_of_Computer_science.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
+              "title": "Outline"
             }
           },
           {
@@ -229,9 +223,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Neovim-Lua/_Index_of_Neovim-Lua.md",
+    "_Index_of_Computer_science.md",
     "AI/XGBoost/xgboost optimization.md",
     "AI/Machine_Learning/Supervised/Decision_trees.md",
-    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/MSE.md~",
     "AI/Machine_Learning/Supervised/Decision trees.md",
     "Mathematics/Statistics/MSE.md",
@@ -262,7 +257,6 @@
     "Mathematics/Numeric_calculus/Non-square Matrix Inversion.md",
     "Mathematics/Numeric_calculus/Non-linear integration",
     "Mathematics/Numeric_calculus/Non-linear approximations",
-    "Mathematics/Numeric_calculus/Newton interpolation.md",
     "Mathematics/Numeric_calculus",
     "AI/XGBoost/nacimientos-anio-nacion.csv",
     "z_Attachments/decision_tree.png",
