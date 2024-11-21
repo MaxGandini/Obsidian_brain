@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bba35f746e8e227",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Powerlaw"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Powerlaw"
             }
           },
           {
@@ -221,8 +227,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7bba35f746e8e227",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
+    "_Index_of_Computer_science.md",
     "Untitled.canvas",
     "AI/XGBoost/XGBoost.md",
     "AI/XGBoost/Feature Interaction.md",
@@ -238,7 +246,6 @@
     "AI/XGBoost/4913",
     "Mathematics/Statistics/_Index_of_Statistics.md",
     "Mathematics/Statistics/Entropy.md",
-    "_Index_of_Computer_science.md",
     "AI/XGBoost/Pruning.md",
     "AI/XGBoost/xgboost_random_forest1.py",
     "AI/XGBoost/xgboost optimization.md",
