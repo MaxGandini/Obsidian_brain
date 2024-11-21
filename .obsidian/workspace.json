@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/XGBoost/Pruning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pruning"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "AI/XGBoost/Pruning.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pruning"
             }
           },
           {
@@ -223,10 +229,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Neovim-Lua/_Index_of_Neovim-Lua.md",
-    "_Index_of_Computer_science.md",
+    "AI/XGBoost/4913",
+    "AI/XGBoost/xgboost_random_forest1.py~",
+    "AI/XGBoost/xgboost_random_forest1.py",
     "AI/XGBoost/xgboost optimization.md",
+    "AI/XGBoost/Pruning.md",
+    "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
     "AI/Machine_Learning/Supervised/Decision_trees.md",
+    "AI/Machine_Learning/Supervised/Evaluation methods.md",
+    "AI/Machine_Learning/Supervised/GBM.md",
+    "Decision trees.md",
+    "_Index_of_Computer_science.md",
+    "Neovim-Lua/_Index_of_Neovim-Lua.md",
     "Mathematics/Statistics/MSE.md~",
     "AI/Machine_Learning/Supervised/Decision trees.md",
     "Mathematics/Statistics/MSE.md",
@@ -249,16 +263,8 @@
     "Mathematics/Numeric_calculus/Non-linear integration/Gaussian quadrature.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/_Index_of_Non-linear approximations.md",
     "Mathematics/Numeric_calculus/polinomial_interpolation.py",
-    "Mathematics/Numeric_calculus/polinomial_interpolation.md",
-    "Mathematics/Numeric_calculus/_Index_of_Numeric calculus.md",
-    "Mathematics/Numeric_calculus/QR.md",
-    "Mathematics/Numeric_calculus/Polynomial interpolation.md",
-    "Mathematics/Numeric_calculus/Polynomial interpolation-methods.md",
-    "Mathematics/Numeric_calculus/Non-square Matrix Inversion.md",
     "Mathematics/Numeric_calculus/Non-linear integration",
     "Mathematics/Numeric_calculus/Non-linear approximations",
-    "Mathematics/Numeric_calculus",
-    "AI/XGBoost/nacimientos-anio-nacion.csv",
     "z_Attachments/decision_tree.png",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
