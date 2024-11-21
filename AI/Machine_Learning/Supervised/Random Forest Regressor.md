@@ -8,9 +8,11 @@ A random subset of features is chosen, so that the diversity of trees is increas
 	Computationally expensive.
 	Less interpretable. This is obvious because a single decision tree can be decomposed into a diagram. Imagine navigating conceptually a sea of hundreds of diagrams.
 
-Example of usage on a birth database of Argentina:
+Examples:
 
 - https://colab.research.google.com/drive/1wP661vU7jTGrXOxWbBdKcfsLfttTdd8l?usp=sharing
 - [[xgboost_random_forest.py]]
+- [[xgboost_random_forest1.py]]
+- [[Random_forest_regressor.py]]
 
 This is an example of a dataset that has labeled subgroups. Another approach can be made to this problem, taking into account that random forests do not correct for patterns in the [[residue]] of the previous computed tree. [[XGBoost]] is another popular library which has been used in many [[kaggle]] competitions. 

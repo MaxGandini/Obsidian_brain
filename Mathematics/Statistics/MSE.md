@@ -4,7 +4,6 @@ aliases: []
 tags: []
 ---
 
-
 MSE measures the average squared difference between predicted and actual values. It evaluates the quality of a split by minimizing the prediction error.
 
 The formula for MSE at a node is:

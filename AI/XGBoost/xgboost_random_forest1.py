@@ -78,14 +78,14 @@ groups = data_['remainder__provincia_nombre']
 
 # Original training parameters
 params_ = {
-    "max_depth": 11,
+    "max_depth": 14,
     "subsample": 1,    # Use 80% of rows per tree
     "enable_categorical": True,
-    "min_split_loss": 0.1,
+    "min_split_loss": 0.01,
     "objective": "reg:squarederror",
     "eta": 0.05,
-    "min_samples_split": 9,
-    "min_samples_leaf": 9
+    "min_samples_split": 98,
+    "min_samples_leaf": 98
 }
 
 # Pruning parameters
@@ -93,10 +93,10 @@ prune_params = {
     "process_type": "update",
     "updater": "prune",
     "enable_categorical": True,
-    "max_depth": 9,  # Reduced depth after pruning
-    "min_split_loss": 0.1,  # Minimum gain for splitting (gamma)
-    "objective": "reg:squarederror",
-    "eta": 0.7,
+    "max_depth": 39,  # Reduced depth after pruning
+    "min_split_loss": 0.01,  # Minimum gain for splitting (gamma)
+    "objective": "reg:squaredlogerror",
+    "eta": 0.05,
 }
 
 for i, (train_idx, test_idx) in enumerate(gkf.split(data_, y, groups)):
@@ -120,16 +120,16 @@ for i, (train_idx, test_idx) in enumerate(gkf.split(data_, y, groups)):
       model = xgb.train(
           params,
           dtrain,
-          num_boost_round=5000,
+          num_boost_round=55000,
           evals=evals,
-          early_stopping_rounds=600
+          early_stopping_rounds=400
       )
 
       # Prune the model after training
       prune_model = xgb.train(
                 {**params, **prune_params},  # Combine original and pruning parameters
                 dtrain,
-                num_boost_round=600,  # Use the number of iterations from the previous model
+                num_boost_round=1500,  # Use the number of iterations from the previous model
                 evals=evals,
                 xgb_model=model
             )

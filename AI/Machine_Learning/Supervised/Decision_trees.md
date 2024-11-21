@@ -1,13 +1,7 @@
----
-id: Decision trees
-aliases: []
-tags: []
----
-
 
 ![[decision_tree.png]]
 
-It works by splitting the data into subsets based on features values yo make predictions in a tree like structure.
+It works by splitting the data into subsets based on features values to make predictions in a tree like structure.
 
 It has a root node, which would be the top of the tree, and it represents the initial state of the input dataset.
 
@@ -28,7 +22,7 @@ Typical splitting criteria are:
 
 - [[Classification]] : 
 	gini impurity
-	Entropy
+	[[Entropy]]
 - [[Regression]] : 
 	[[MSE]]
 	Variance Reduction
