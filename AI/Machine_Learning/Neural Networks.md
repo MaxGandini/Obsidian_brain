@@ -10,3 +10,5 @@ Each node has a set of *edges* which represent the synapses between the neurons.
 
 Neural networks typically come in the form of a set of layered neurons. 
 Each set can be represented with [[Tensors]], which can be transformed when fed to a layer through a non-linear function called [[Activation function]] 
+
+The process is iterated many times like in all [[Machine Learning]] models. This deeply connects with the mathematical problem of [[Gradient descent]] ..

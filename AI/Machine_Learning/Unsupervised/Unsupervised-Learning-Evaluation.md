@@ -8,5 +8,5 @@ Principle component analysis (PCA) is the best *linear* technique (a basis-chang
 
 ![[PCA_visual.png]]
 
-It consists of analyzing the covariance of many variables and defining new dimensions as linear combinations of previous features:
+It consists of analyzing the [[Covariance]] of many variables and defining new dimensions as linear combinations of previous features:
 $$ cov(x,y)=\sum_{n}{( x_{n}-x_{mean}) \left( y_{n}-y_{mean} \right)}$$

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/ARIMA-X.md",
+                "file": "Mathematics/Statistics/Covariance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARIMA-X"
+              "title": "Covariance"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Supervised/ARIMA-X.md"
+                "file": "Mathematics/Statistics/Covariance.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ARIMA-X"
+              "title": "Outline of Covariance"
             }
           },
           {
@@ -229,43 +229,44 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
+    "Mathematics/Statistics/Covariance.md",
+    "AI/Generative_AI/_Index_of_Generative_AI.md",
+    "AI/Generative_AI/Generative AI.md",
+    "AI/Generative_AI/gen_ai.py",
+    "AI/Generative_AI/Intensive gen AI course.md",
+    "AI/Machine_Learning/Model Validation/Model Validation.md",
+    "AI/Machine_Learning/Supervised/ARMA.md",
+    "Mathematics/Statistics/MSE.md",
+    "Mathematics/Statistics/Bias-Variance.md",
+    "Mathematics/Statistics/Entropy.md",
+    "Mathematics/logistic function.md",
+    "AI/Machine_Learning/Perceptron.md",
+    "AI/Machine_Learning/Neural Networks.md",
+    "AI/Machine_Learning/Machine Learning.md",
+    "AI/Machine_Learning/Gradient descent.md",
+    "AI/Machine_Learning/Activation function.md",
+    "AI/Machine_Learning/Unsupervised/K-Means clustering.md",
+    "AI/Machine_Learning/Unsupervised/k-means-example.md",
+    "AI/Machine_Learning/Unsupervised/_Index_of_Unsupervised.md",
+    "AI/Machine_Learning/Unsupervised/k-means1.py",
+    "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
+    "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
+    "AI/Machine_Learning/Supervised/Linear Regression.md",
+    "AI/Machine_Learning/Supervised/linear_regression.py",
+    "AI/Machine_Learning/Supervised/GBM.md",
+    "AI/Machine_Learning/Supervised/Evaluation methods.md",
+    "AI/Machine_Learning/Supervised/Classification.md",
+    "AI/Machine_Learning/Model Validation/model_validation.py",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
+    "AI/Machine_Learning/Supervised/arima_toy.py~",
+    "AI/Machine_Learning/Supervised/4913",
+    "AI/Machine_Learning/Supervised/arima_toy.py",
+    "AI/Machine_Learning/Supervised/arima",
     "z_Attachments/ARIMA-8-1269249993.png",
     "z_Attachments/ARIMA-8-1269249993.png.download",
-    "Mathematics/Statistics/Time Series.md",
-    "AI/Machine_Learning/Supervised/ARIMA-X.md",
-    "_Index_of_Computer_science.md",
-    "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
     "Untitled.canvas",
-    "AI/XGBoost/XGBoost.md",
-    "AI/XGBoost/Feature Interaction.md",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "AI/Machine_Learning/Model Validation/Hyper-parameter optimization.md",
-    "AI/Machine_Learning/Model Validation/GridSearchCV.md",
-    "AI/Machine_Learning/Supervised/Logistic Regression.md",
-    "AI/Machine_Learning/Supervised/Random_forest_regressor.py",
-    "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
-    "Mathematics/Statistics/MSE.md",
-    "AI/XGBoost/xgboost_random_forest1.py~",
-    "AI/Machine_Learning/Supervised/Decision_trees.md",
-    "AI/XGBoost/4913",
-    "Mathematics/Statistics/_Index_of_Statistics.md",
-    "Mathematics/Statistics/Entropy.md",
-    "AI/XGBoost/Pruning.md",
-    "AI/XGBoost/xgboost_random_forest1.py",
-    "AI/XGBoost/xgboost optimization.md",
-    "AI/Machine_Learning/Supervised/Evaluation methods.md",
-    "AI/Machine_Learning/Supervised/GBM.md",
-    "Decision trees.md",
-    "Neovim-Lua/_Index_of_Neovim-Lua.md",
-    "Mathematics/Statistics/MSE.md~",
-    "AI/Machine_Learning/Supervised/Decision trees.md",
-    "AI/Sci-Kit Learn/_Index_of_Sci-Kit Learn.md",
-    "AI/Sci-Kit Learn/pipeline.py",
-    "AI/Machine_Learning/Supervised/logistic_regression.py",
-    "AI/Sci-Kit Learn/Preprocessors/Ordinal Encoder.md",
-    "AI/Sci-Kit Learn/Preprocessors/Preprocessor.md",
-    "Mathematics/Numeric_calculus/4913",
-    "Mathematics/Numeric_calculus/polinomial_interpolation.py~",
     "z_Attachments/decision_tree.png",
     "z_Attachments/neural_gradient.png",
     "z_Attachments/gradient.png",
@@ -274,7 +275,6 @@
     "z_Attachments/gridsearch.png",
     "z_Attachments/bias-variance-target.png",
     "z_Attachments/bias-var.png",
-    "z_Attachments/sql_struct.png",
-    "z_Attachments/sql.png"
+    "z_Attachments/sql_struct.png"
   ]
 }
