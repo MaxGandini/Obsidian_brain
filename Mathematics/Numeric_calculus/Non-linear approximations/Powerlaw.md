@@ -10,6 +10,7 @@ Also available at arXiv:1305.0215 [physics.data-an] <http://arxiv.org/abs/1305.0
 Basic Usage:
 
 For the simplest, typical use cases, this tells you everything you need to know:
+
 ```python
 import powerlaw
 data = array([1.7, 3.2 ...]) # data can be list or numpy array
@@ -18,5 +19,6 @@ print(results.power_law.alpha)
 print(results.power_law.xmin)
 R, p = results.distribution_compare('power_law', 'lognormal')
 
-For more explanation, understanding, and figures, see the paper, which illustrates all of powerlaw's features. For details of the math, see Clauset et al. 2007, which developed these methods.
+For more explanation, understanding, and figures, see the paper, which illustrates all of powerlaw's features:
+http://arxiv.org/abs/1305.0215
 ```

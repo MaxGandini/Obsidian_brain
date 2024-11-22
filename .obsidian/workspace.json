@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Powerlaw"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Powerlaw"
+              "title": "Outline"
             }
           },
           {
