@@ -6,6 +6,8 @@ Stationary series is a series which does not change it's expected value over tim
 
 Toy example:
 [[arima_toy.py]] 
+Better example using statsmodels WIP: 
+[[arima_function.py]]
 
 ![[ARIMA-8-1269249993.png]]
 
