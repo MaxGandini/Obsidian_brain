@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Statistics/ARMA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ARMA"
+              "title": "New tab"
             }
           }
         ]
@@ -229,6 +225,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/ARMA.md",
     "Mathematics/Statistics/ARIMA-X.md",
     "_Index_of_Computer_science.md",
     "kaggle_comp/Jane_street_time_series.py",
@@ -236,7 +233,6 @@
     "AI/Machine_Learning/Supervised/ARMA.md",
     "Mathematics/Statistics/arima_toy.py",
     "Mathematics/Statistics/Classification.md",
-    "Mathematics/Statistics/ARMA.md",
     "Mathematics/Statistics/Covariance.md",
     "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
     "AI/Generative_AI/_Index_of_Generative_AI.md",
