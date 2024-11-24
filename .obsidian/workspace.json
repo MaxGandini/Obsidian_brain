@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure data factory course.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Azure data factory course"
             }
           }
         ]
@@ -225,6 +229,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
     "Azure/Azure data factory course.md",
     "Mathematics/Statistics/ARIMA-X.md",
     "Mathematics/Statistics/4913",
@@ -233,7 +238,6 @@
     "Mathematics/Numeric_calculus/Non-linear approximations/Newton-Raphson.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
     "Azure/_Index_of_Azure.md",
-    "_Index_of_Computer_science.md",
     "Azure",
     "kaggle_comp/Jane_street_time_series.py",
     "kaggle_comp",
