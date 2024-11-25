@@ -17,10 +17,8 @@ def arima_model(data, order=(1, 1, 1), train_size=0.8):
         predictions: Predictions on the test set.
         residuals: Residuals from the model.
     """
-    # Ensure data is a pandas Series
     data = pd.Series(data)
     
-    # Split the data into training and testing sets
     train_len = int(len(data) * train_size)
     train, test = data[:train_len], data[train_len:]
     
@@ -31,22 +29,23 @@ def arima_model(data, order=(1, 1, 1), train_size=0.8):
     # Forecasting on test data
     predictions = model_fit.forecast(steps=len(test))
     
-    # Calculate residuals
     residuals = test - predictions[:len(test)]
     
     return model_fit, predictions, residuals
 
-# Example usage
 if __name__ == "__main__":
-    # Create a synthetic time series
     np.random.seed(42)
-    time_series_data = np.cumsum(np.random.randn(1000))  # Random walk
     
-    # Process with ARIMA model
-    fitted_model, preds, resids = arima_model(time_series_data, order=(49, 9, 9))
+    n = 4000
+    trend = np.linspace(1, 8, n)  # Linear trend
+    seasonality = 2 * np.sin(np.linspace(0, 4 * np.pi, n))  # Seasonal component
+    noise = np.random.normal(0, 0.1, n)  # Random noise
+    time_series = trend + seasonality + noise
+
+    fitted_model, preds, resids = arima_model(time_series, order=(1, 1, 2))
     
-    plt.plot(range(200),preds)
-    plt.plot(range(len(time_series_data)),time_series_data)
+    plt.plot(range(len(preds)),preds)
+    plt.plot(range(len(time_series)),time_series)
     plt.show()
     print("Model Summary:")
     print(fitted_model.summary())
