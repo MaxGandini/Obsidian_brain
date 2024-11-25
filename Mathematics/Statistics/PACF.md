@@ -1,3 +1,7 @@
+The PACF method directly measures the correlation in a time series with a specific lag. 
+It helps determine the true lag of a model. 
+
 ```python
-statsmodels.tsa.stattools.acf(x, adjusted=False, nlags=None, qstat=False, fft=True, alpha=None, bartlett_confint=True, missing='none')
+statsmodels.tsa.stattools.pacf(x, nlags=None, method='ywadjusted', alpha=None)
 ```
+

@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Statistics/PACF.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PACF"
             }
           }
         ]
@@ -225,15 +229,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/arima_function.py~",
+    "Mathematics/Statistics/ACF.md",
+    "Mathematics/Statistics/ARMA.md",
     "Mathematics/Statistics/PACF.md",
+    "Mathematics/Statistics/PACF.md~",
+    "Mathematics/Statistics/Correlation.md",
+    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Time series validation.md",
     "Mathematics/Statistics/ARIMA-X.md",
     "Mathematics/Statistics/4913",
-    "_Index_of_Computer_science.md",
     "01-Linux/Bash/Bash.md",
     "Azure/Azure data factory course.md",
     "Mathematics/Statistics/arima_function.py",
-    "Mathematics/Statistics/ARMA.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Newton-Raphson.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
     "Azure/_Index_of_Azure.md",
@@ -255,12 +263,8 @@
     "Mathematics/Statistics/Entropy.md",
     "Mathematics/logistic function.md",
     "AI/Machine_Learning/Perceptron.md",
-    "AI/Machine_Learning/Neural Networks.md",
-    "AI/Machine_Learning/Machine Learning.md",
-    "AI/Machine_Learning/Gradient descent.md",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
     "AI/Machine_Learning/Supervised/linear_regression.py",
-    "AI/Machine_Learning/Model Validation/model_validation.py",
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
     "z_Attachments/decision_tree.png",

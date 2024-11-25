@@ -31,7 +31,7 @@ def arima_model(data, order=(1, 1, 1), train_size=0.8):
     
     residuals = test - predictions[:len(test)]
     
-    return model_fit, predictions, residuals
+    return model_fit, predictions, residuals,test
 
 if __name__ == "__main__":
     np.random.seed(42)
@@ -42,7 +42,7 @@ if __name__ == "__main__":
     noise = np.random.normal(0, 0.1, n)  # Random noise
     time_series = trend + seasonality + noise
 
-    fitted_model, preds, resids = arima_model(time_series, order=(1, 1, 2))
+    fitted_model, preds, resids, test = arima_model(time_series, order=(1, 1, 2))
     
     plt.plot(range(len(preds)),preds)
     plt.plot(range(len(time_series)),time_series)
