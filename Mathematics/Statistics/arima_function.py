@@ -43,8 +43,8 @@ if __name__ == "__main__":
     time_series = trend + seasonality + noise
 
     fitted_model, preds, resids, test = arima_model(time_series, order=(1, 1, 2))
-    
-    plt.plot(range(len(preds)),preds)
+    x_test = test[:len(test):-1]
+    plt.plot(x_test,preds)
     plt.plot(range(len(time_series)),time_series)
     plt.show()
     print("Model Summary:")

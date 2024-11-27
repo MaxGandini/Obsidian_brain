@@ -5,3 +5,4 @@ It helps determine the true lag of a model.
 statsmodels.tsa.stattools.pacf(x, nlags=None, method='ywadjusted', alpha=None)
 ```
 
+
