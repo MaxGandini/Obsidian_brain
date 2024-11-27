@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure Computations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Azure Computations"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/PACF.md"
+                "file": "Azure/Azure Computations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PACF"
+              "title": "Outline of Azure Computations"
             }
           },
           {
@@ -225,13 +229,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "z_Attachments/azure_computin.png",
+    "Azure/Data Assets.md",
+    "Azure/Azure Computations.md",
+    "Azure/Azure Machine Learning.md",
+    "Programs/Pipeline.md",
+    "z_Attachments/azure_ml.png",
+    "z_Attachments/gradient.png",
+    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/PACF.md",
     "Mathematics/Statistics/arima_function.py~",
     "Mathematics/Statistics/ACF.md",
     "Mathematics/Statistics/ARMA.md",
     "Mathematics/Statistics/PACF.md~",
     "Mathematics/Statistics/Correlation.md",
-    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Time series validation.md",
     "Mathematics/Statistics/ARIMA-X.md",
     "Mathematics/Statistics/4913",
@@ -255,21 +266,15 @@
     "AI/Generative_AI/Intensive gen AI course.md",
     "AI/Machine_Learning/Model Validation/Model Validation.md",
     "Mathematics/Statistics/MSE.md",
-    "Mathematics/Statistics/Bias-Variance.md",
-    "Mathematics/Statistics/Entropy.md",
-    "Mathematics/logistic function.md",
-    "AI/Machine_Learning/Perceptron.md",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
     "z_Attachments/decision_tree.png",
     "z_Attachments/neural_gradient.png",
-    "z_Attachments/gradient.png",
     "z_Attachments/perceptron.png",
     "z_Attachments/unsupervised.png",
     "z_Attachments/gridsearch.png",
     "z_Attachments/bias-variance-target.png",
-    "z_Attachments/bias-var.png",
-    "z_Attachments/sql_struct.png"
+    "z_Attachments/bias-var.png"
   ]
 }
