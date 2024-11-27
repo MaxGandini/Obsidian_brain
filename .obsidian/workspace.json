@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure Computations.md",
+                "file": "Azure/Azure Computations_ex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azure Computations"
+              "title": "Azure Computations_ex"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Computations.md"
+                "file": "Azure/Azure Computations_ex.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Azure Computations"
+              "title": "Outline of Azure Computations_ex"
             }
           },
           {
@@ -229,10 +229,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "z_Attachments/azure_computin.png",
-    "Azure/Data Assets.md",
+    "Azure/Azure data factory course.md",
+    "Azure/Kubernetes.md",
+    "z_Attachments/kuber.png",
     "Azure/Azure Computations.md",
+    "Azure/Azure Computations_ex.md",
+    "Azure/_Index_of_Azure.md",
     "Azure/Azure Machine Learning.md",
+    "Azure/Data Assets.md",
+    "z_Attachments/azure_computin.png",
     "Programs/Pipeline.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/gradient.png",
@@ -247,11 +252,9 @@
     "Mathematics/Statistics/ARIMA-X.md",
     "Mathematics/Statistics/4913",
     "01-Linux/Bash/Bash.md",
-    "Azure/Azure data factory course.md",
     "Mathematics/Statistics/arima_function.py",
     "Mathematics/Numeric_calculus/Non-linear approximations/Newton-Raphson.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
-    "Azure/_Index_of_Azure.md",
     "Azure",
     "kaggle_comp/Jane_street_time_series.py",
     "kaggle_comp",
@@ -264,8 +267,6 @@
     "AI/Generative_AI/Generative AI.md",
     "AI/Generative_AI/gen_ai.py",
     "AI/Generative_AI/Intensive gen AI course.md",
-    "AI/Machine_Learning/Model Validation/Model Validation.md",
-    "Mathematics/Statistics/MSE.md",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
@@ -273,8 +274,6 @@
     "z_Attachments/neural_gradient.png",
     "z_Attachments/perceptron.png",
     "z_Attachments/unsupervised.png",
-    "z_Attachments/gridsearch.png",
-    "z_Attachments/bias-variance-target.png",
-    "z_Attachments/bias-var.png"
+    "z_Attachments/gridsearch.png"
   ]
 }
