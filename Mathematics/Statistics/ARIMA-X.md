@@ -4,6 +4,18 @@ It models non stationary series and periodic variation respectively. All these m
 
 Stationary series is a series which does not change it's expected value over time. There are also generalizations like SARIMA which take into account seasonal variations. 
 
+The model has 3 hyperparameters to tune and their significance can be understood  mnemotechnically:
+
+- ${\displaystyle {\text{ARIMA}}(1,0,0)}$⁠ is $AR(1)$ this autoregressive component means that the evolving variable of interest is regressed on it's previous values.
+- $⁠{\displaystyle {\text{ARIMA}}(0,0,1)}⁠$ is $MA(1).$ This part indicates that the Moving average is formed by a regression error that is a linear combination of error terms whose values ocurred contemporaneously in the past.
+- $⁠{\displaystyle {\text{ARIMA}}(0,1,0)}⁠$ is $I(1).$ The integrated part means that the values have been replaced with the difference between each value and the previous one.
+
+The notation is: 
+$$ARIMA(p,d,q)$$
+- $p$ refers to the number of time lags.
+- d is the degree of differencing. which is the amount of times the data had past values substracted.
+- q is the order of the moving average model.
+
 Toy example:
 [[arima_toy.py]] 
 Better example using statsmodels WIP: 

@@ -3,4 +3,7 @@ In mathematics a time series is a series of data points indexed in time order. I
 Some conventional examples used in machine learning for time series:
 
 - [[ARIMA-X]]
+- [[ARMA]]
 - [[Holt-Winters]] 
+
+The typical understanding of "time series" applications in [[Machine Learning]] is that this series of data points indexed in time order, has a [[Correlation]] . The extent of that correlation can be limited to the previous step, or 

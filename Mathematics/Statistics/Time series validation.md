@@ -1,4 +1,4 @@
-There are many methods in the `statsmodels.tsa` module for time series validation. An example of usage in this library can be found at :
+There are many methods in the `statsmodels.tsa` module for time series models validation. An example of usage in this library can be found at :
 
 - [[arima_function.py]]
 

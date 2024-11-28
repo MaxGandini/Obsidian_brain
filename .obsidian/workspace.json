@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Statistics/ARIMA-X.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ARIMA-X"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Computations.md"
+                "file": "Mathematics/Statistics/ARIMA-X.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Azure Computations"
+              "title": "Outline of ARIMA-X"
             }
           },
           {
@@ -225,6 +229,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/ARMA.md",
+    "Mathematics/Statistics/ARIMA-X.md",
+    "Mathematics/Statistics/arima_toy.py",
+    "Mathematics/Statistics/Classification.md",
+    "Mathematics/Statistics/Correlation.md",
+    "Mathematics/Statistics/Covariance.md",
+    "Mathematics/Statistics/Time series validation.md",
+    "Mathematics/Statistics/Time Series.md",
+    "Mathematics/Statistics/ACF.md",
+    "_Index_of_Computer_science.md",
     "Azure/Azure Computations.md",
     "Azure/Azure Computations_ex.md",
     "Azure/Azure data factory course.md",
@@ -237,15 +251,9 @@
     "Programs/Pipeline.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/gradient.png",
-    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/PACF.md",
     "Mathematics/Statistics/arima_function.py~",
-    "Mathematics/Statistics/ACF.md",
-    "Mathematics/Statistics/ARMA.md",
     "Mathematics/Statistics/PACF.md~",
-    "Mathematics/Statistics/Correlation.md",
-    "Mathematics/Statistics/Time series validation.md",
-    "Mathematics/Statistics/ARIMA-X.md",
     "Mathematics/Statistics/4913",
     "01-Linux/Bash/Bash.md",
     "Mathematics/Statistics/arima_function.py",
@@ -255,14 +263,10 @@
     "kaggle_comp/Jane_street_time_series.py",
     "kaggle_comp",
     "AI/Machine_Learning/Supervised/ARMA.md",
-    "Mathematics/Statistics/arima_toy.py",
-    "Mathematics/Statistics/Classification.md",
-    "Mathematics/Statistics/Covariance.md",
     "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
     "AI/Generative_AI/_Index_of_Generative_AI.md",
     "AI/Generative_AI/Generative AI.md",
     "AI/Generative_AI/gen_ai.py",
-    "AI/Generative_AI/Intensive gen AI course.md",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
