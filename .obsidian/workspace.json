@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Architecting solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecting solutions"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Azure/Architecting solutions.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Architecting solutions"
             }
           },
           {
@@ -223,6 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "z_Attachments/data_azure.svg",
+    "z_Attachments/data_azure.svg.download",
+    "z_Attachments/data_azure.png",
+    "z_Attachments/data_azure.png.download",
+    "z_Attachments/architecture.png",
+    "Azure/Architecting solutions.md",
+    "Mathematics/Statistics/ARIMA-differencing.md",
     "Mathematics/Statistics/Likelihood.md",
     "Mathematics/Statistics/Time_series/BIC.md",
     "Mathematics/Statistics/Time_series/Time series validation.md",
@@ -249,26 +262,19 @@
     "Azure/Kubernetes.md",
     "z_Attachments/kuber.png",
     "Azure/_Index_of_Azure.md",
-    "Azure/Data Assets.md",
     "z_Attachments/azure_computin.png",
-    "Programs/Pipeline.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/gradient.png",
     "Mathematics/Statistics/arima_function.py~",
     "Mathematics/Statistics/PACF.md~",
     "Mathematics/Statistics/4913",
-    "01-Linux/Bash/Bash.md",
     "Mathematics/Statistics/Time_series/arima_function.py",
     "Azure",
     "kaggle_comp/Jane_street_time_series.py",
-    "kaggle_comp",
-    "AI/Generative_AI/gen_ai.py",
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
     "z_Attachments/decision_tree.png",
     "z_Attachments/neural_gradient.png",
-    "z_Attachments/perceptron.png",
-    "z_Attachments/unsupervised.png",
-    "z_Attachments/gridsearch.png"
+    "z_Attachments/perceptron.png"
   ]
 }
