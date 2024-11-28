@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure Computations_ex.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Azure Computations_ex"
+              "title": "New tab"
             }
           }
         ]
@@ -149,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Computations_ex.md"
+                "file": "Azure/Azure Computations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Azure Computations_ex"
+              "title": "Outline of Azure Computations"
             }
           },
           {
@@ -229,11 +225,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Azure/Azure Computations.md",
+    "Azure/Azure Computations_ex.md",
     "Azure/Azure data factory course.md",
     "Azure/Kubernetes.md",
     "z_Attachments/kuber.png",
-    "Azure/Azure Computations.md",
-    "Azure/Azure Computations_ex.md",
     "Azure/_Index_of_Azure.md",
     "Azure/Azure Machine Learning.md",
     "Azure/Data Assets.md",
