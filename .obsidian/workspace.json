@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Architecting solutions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Architecting solutions"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Azure/Architecting solutions.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Architecting solutions"
+              "title": "Outline"
             }
           },
           {
@@ -229,12 +223,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Azure/Architecting solutions.md",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.svg.download",
     "z_Attachments/data_azure.png",
     "z_Attachments/data_azure.png.download",
     "z_Attachments/architecture.png",
-    "Azure/Architecting solutions.md",
     "Mathematics/Statistics/ARIMA-differencing.md",
     "Mathematics/Statistics/Likelihood.md",
     "Mathematics/Statistics/Time_series/BIC.md",
@@ -274,7 +268,6 @@
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
     "z_Attachments/decision_tree.png",
-    "z_Attachments/neural_gradient.png",
-    "z_Attachments/perceptron.png"
+    "z_Attachments/neural_gradient.png"
   ]
 }
