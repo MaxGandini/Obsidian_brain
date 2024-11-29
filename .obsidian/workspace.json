@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git-basic-comm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git-basic-comm"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Git/Git-basic-comm.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Git-basic-comm"
             }
           },
           {
@@ -223,6 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Git/_Index_of_Git.md",
+    "Git/Git.md",
+    "Git/Git-basic-comm.md",
+    "Azure/Azure data factory course.md",
+    "Azure/Azure Machine Learning.md",
+    "Azure/Azure Computations_ex.md",
+    "Azure/Azure Computations.md",
     "Azure/Architecting solutions.md",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.svg.download",
@@ -243,19 +256,13 @@
     "Mathematics/Statistics/Time_series/ARIMA-differencing.md",
     "Mathematics/Statistics/Bias.md",
     "Mathematics/Statistics/Time_series/ARMA.md",
-    "Azure/Azure Machine Learning.md",
-    "Azure/Azure Computations.md",
     "Mathematics/Statistics/Time_series/arima_toy.py",
     "Mathematics/Statistics/Classification.md",
     "Mathematics/Statistics/Correlation.md",
     "Mathematics/Statistics/Covariance.md",
     "Mathematics/Statistics/Time_series/Time Series.md",
     "_Index_of_Computer_science.md",
-    "Azure/Azure Computations_ex.md",
-    "Azure/Azure data factory course.md",
-    "Azure/Kubernetes.md",
     "z_Attachments/kuber.png",
-    "Azure/_Index_of_Azure.md",
     "z_Attachments/azure_computin.png",
     "z_Attachments/azure_ml.png",
     "z_Attachments/gradient.png",
