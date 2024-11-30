@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure_ML/Assets.md",
+                "file": "Azure/Azure_ML/Author a training pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assets"
+              "title": "Author a training pipeline"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure_ML/Assets.md"
+                "file": "Azure/Azure_ML/Author a training pipeline.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Assets"
+              "title": "Outline of Author a training pipeline"
             }
           },
           {
@@ -229,8 +229,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Azure/Azure_ML/Datastores.md",
     "Azure/Azure_ML/Assets.md",
+    "Azure/Azure_ML/Author a training pipeline.md",
+    "Azure/Azure_ML/Datastores.md",
     "Azure/Azure_ML/Workspace.md",
     "Azure/Azure_ML/_Index_of_Azure_ML.md",
     "Azure/Agile_Planning/Azure Lab.md",
@@ -262,7 +263,6 @@
     "Mathematics/Statistics/Time_series",
     "Mathematics/Statistics/Time_series/ACF.md",
     "Mathematics/Statistics/Time_series/ARIMA-X.md",
-    "Mathematics/Statistics/Time_series/ARIMA-differencing.md",
     "Mathematics/Statistics/Time_series/arima_toy.py",
     "z_Attachments/kuber.png",
     "z_Attachments/azure_computin.png",
