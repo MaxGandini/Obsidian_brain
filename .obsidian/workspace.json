@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Python_SDK/Python sdk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python sdk"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Azure/Python_SDK/Python sdk.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Python sdk"
             }
           },
           {
@@ -223,15 +229,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Azure/Python_SDK/_Index_of_Python_SDK.md",
+    "Azure/Azure_ML/Workspace.md",
+    "Azure/Python_SDK/Python sdk.md",
+    "Azure/Python_SDK",
+    "Azure/Untitled.md",
+    "Azure/Python_SDK/azure_SDK_setup.py",
+    "Azure/Azure_ML/Author a training pipeline.md",
     "_Index_of_Computer_science.md",
     "Azure/Azure_ML/azure_SDK_setup.py~",
-    "Azure/Azure_ML/azure_SDK_setup.py",
     "Azure/Azure_ML/4913",
     "Azure/Azure_ML/azure_SDK.py",
-    "Azure/Azure_ML/Author a training pipeline.md",
     "Azure/Azure_ML/Assets.md",
     "Azure/Azure_ML/Datastores.md",
-    "Azure/Azure_ML/Workspace.md",
     "Azure/Azure_ML/_Index_of_Azure_ML.md",
     "Azure/Agile_Planning/Azure Lab.md",
     "Azure/Azure_ML",
@@ -257,10 +267,7 @@
     "Mathematics/Statistics/Time_series/AIC.md",
     "Mathematics/Statistics/Time_series/PACF.md",
     "Mathematics/Statistics/MSE.md",
-    "Mathematics/Statistics/Time_series/_Index_of_Time_series.md",
     "Mathematics/Statistics/Time_series",
-    "Mathematics/Statistics/Time_series/ACF.md",
-    "Mathematics/Statistics/Time_series/arima_toy.py",
     "z_Attachments/kuber.png",
     "z_Attachments/azure_computin.png",
     "z_Attachments/azure_ml.png",
