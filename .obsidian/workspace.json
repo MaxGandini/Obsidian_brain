@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Linux/Bash/Videos_codealong/More shell tricks.md",
+                "file": "01-Linux/Bash/Videos_codealong/More shell magic tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More shell tricks"
+              "title": "More shell magic tricks"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/Videos_codealong/More shell tricks.md"
+                "file": "01-Linux/Bash/Videos_codealong/More shell magic tricks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of More shell tricks"
+              "title": "Outline of More shell magic tricks"
             }
           },
           {
@@ -230,7 +230,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "01-Linux/Bash/obsidian_runner.sh",
-    "01-Linux/Bash/Videos_codealong/More shell tricks.md",
+    "01-Linux/Bash/Videos_codealong/More shell magic tricks.md",
     "01-Linux/Bash/Videos_codealong/Shell magic tricks.md",
     "01-Linux/Bash/Videos_codealong/_Index_of_Videos_codealong.md",
     "01-Linux/Bash/Bash 01 syntax_follow_along.md",
