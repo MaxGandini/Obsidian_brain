@@ -227,8 +227,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "852f116b8ddd3de5",
   "lastOpenFiles": [
+    "SQL/SQL_database_1.py",
     "SQL/SQL.md",
     "SQL/TRANSACTIONS.md",
     "SQL/UPDATE.md",
@@ -263,7 +264,6 @@
     "Azure/Azure_ML/4913",
     "Azure/Azure_ML/azure_SDK.py",
     "Azure/Azure_ML/Assets.md",
-    "Azure/Azure_ML/Datastores.md",
     "Azure/Azure_ML",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
