@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/DELETE.md",
+                "file": "SQL/TRANSACTIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DELETE"
+              "title": "TRANSACTIONS"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/DELETE.md"
+                "file": "SQL/TRANSACTIONS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DELETE"
+              "title": "Outline of TRANSACTIONS"
             }
           },
           {
@@ -229,11 +229,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "SQL/UPDATE.md",
     "SQL/SQL.md",
+    "SQL/TRANSACTIONS.md",
+    "SQL/UPDATE.md",
+    "SQL/AGGREGATE.md",
+    "SQL/PostgreSQL.md",
+    "SQL/JOIN.md",
+    "SQL/DROP.md",
+    "SQL/DELETE.md",
     "SQL/SELECT.md",
     "SQL/Postgresql managing.md",
-    "SQL/PostgreSQL.md",
     "SQL/BigQuery.md",
     "SQL/SQL_first.py",
     "SQL/SQL_database.py",
@@ -259,12 +264,7 @@
     "Azure/Azure_ML/azure_SDK.py",
     "Azure/Azure_ML/Assets.md",
     "Azure/Azure_ML/Datastores.md",
-    "Azure/Azure_ML/_Index_of_Azure_ML.md",
-    "Azure/Agile_Planning/Azure Lab.md",
     "Azure/Azure_ML",
-    "Azure/Agile_Planning/_Index_of_Agile_Planning.md",
-    "Git/Git-basic-comm.md",
-    "Git/_Index_of_Git.md",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
     "z_Attachments/architecture.png",

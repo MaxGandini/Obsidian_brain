@@ -16,6 +16,13 @@ CREATE TABLE employees (
 );
 ```
 
+```SQL
+CREATE TABLE departments(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+);
+```
+
 Which is an example for creating a table of employees.
 
 - [[SELECT]]
@@ -24,6 +31,9 @@ Which is an example for creating a table of employees.
 - [[DELETE]]
 - [[CREATE]]
 - [[DROP]]
+- [[JOIN]]
+- [[AGGREGATE]]
+- [[TRANSACTIONS]]
 
 In many cases, SQL is embedded within or used alongside a general-purpose programming language like [[Python]]. This is achieved with libraries like [[BigQuery]] or [[SQLITE]] for local databases.
 
