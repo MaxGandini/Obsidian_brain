@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Computer_science.md",
+                "file": "SQL/DELETE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "DELETE"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Computer_science.md"
+                "file": "SQL/DELETE.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
+              "title": "Outline of DELETE"
             }
           },
           {
@@ -229,6 +229,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SQL/UPDATE.md",
+    "SQL/SQL.md",
+    "SQL/SELECT.md",
+    "SQL/Postgresql managing.md",
+    "SQL/PostgreSQL.md",
+    "SQL/BigQuery.md",
+    "SQL/SQL_first.py",
+    "SQL/SQL_database.py",
+    "SQL/CREATE.md",
+    "_Index_of_Computer_science.md",
     "01-Linux/Bash/Videos_codealong/More shell magic tricks.md",
     "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/Videos_codealong/Shell magic tricks.md",
@@ -237,7 +247,6 @@
     "01-Linux/Bash/Bash commands for the interview..md",
     "01-Linux/Bash/Bash.md",
     "01-Linux/Bash/Videos_codealong",
-    "_Index_of_Computer_science.md",
     "Azure/Python_SDK/Python sdk.md",
     "Azure/Python_SDK/_Index_of_Python_SDK.md",
     "Azure/Azure_ML/Workspace.md",
@@ -254,17 +263,9 @@
     "Azure/Agile_Planning/Azure Lab.md",
     "Azure/Azure_ML",
     "Azure/Agile_Planning/_Index_of_Agile_Planning.md",
-    "Azure/Agile_Planning",
     "Git/Git-basic-comm.md",
     "Git/_Index_of_Git.md",
-    "Git/Git.md",
-    "Azure/Azure data factory course.md",
-    "Azure/Azure Machine Learning.md",
-    "Azure/Azure Computations_ex.md",
-    "Azure/Azure Computations.md",
-    "Azure/Architecting solutions.md",
     "z_Attachments/data_azure.svg",
-    "z_Attachments/data_azure.svg.download",
     "z_Attachments/data_azure.png",
     "z_Attachments/architecture.png",
     "z_Attachments/kuber.png",

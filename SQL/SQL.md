@@ -5,6 +5,19 @@ It is used to create, read, update and delete data in a database.
 
 Key operations:
 
+Some examples of these operations will be made considering :
+```SQL
+CREATE TABLE employees (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    department VARCHAR(50),
+    salary NUMERIC(10, 2),
+    hire_date DATE
+);
+```
+
+Which is an example for creating a table of employees.
+
 - [[SELECT]]
 - [[INSERT]]
 - [[UPDATE]]
