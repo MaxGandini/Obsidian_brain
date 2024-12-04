@@ -4,6 +4,7 @@
  [[Azure/Azure Computations_ex|Azure Computations_ex]]
  [[Azure/Azure Computations|Azure Computations]]
  [[Azure/Azure data factory course|Azure data factory course]]
+ [[Azure/Azure Databricks|Azure Databricks]]
  [[Azure/Azure Machine Learning|Azure Machine Learning]]
  [[Azure/Azure_ML/_Index_of_Azure_ML|_Index_of_Azure_ML]]
  [[Azure/Data Assets|Data Assets]]

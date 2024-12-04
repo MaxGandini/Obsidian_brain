@@ -4,6 +4,7 @@
  [[01-Organization and motivation|01-Organization and motivation]]
  [[AI/_Index_of_AI|_Index_of_AI]]
  [[Azure/_Index_of_Azure|_Index_of_Azure]]
+ [[Cloud/_Index_of_Cloud|_Index_of_Cloud]]
  [[Git/_Index_of_Git|_Index_of_Git]]
  [[home/_Index_of_home|_Index_of_home]]
  [[kaggle_comp/_Index_of_kaggle_comp|_Index_of_kaggle_comp]]
