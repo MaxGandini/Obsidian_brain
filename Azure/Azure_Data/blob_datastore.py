@@ -2,13 +2,14 @@ import os
 from azure.ai.ml import MLClient
 from azureml.core import Datastore
 from azure.storage.blob import BlobServiceClient, ContainerClient, BlobClient
-from azureml.data.azure_storage_datastore import AzureBlobDatastore, AccountKeyConfiguration
+from azureml.data.azure_storage_datastore import AzureBlobDatastore 
+from azure.ai.ml.entities import AccountKeyConfiguration
+
 id = os.getenv("azure_key")
 
 # Define the datastore configuration
 blob_datastore = AzureBlobDatastore(
     name="blob_example",
-    description="Datastore pointing to a blob container",
     account_name="mytestblobstore",
     container_name="data-container",
     credentials=AccountKeyConfiguration(

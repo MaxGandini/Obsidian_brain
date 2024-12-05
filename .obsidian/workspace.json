@@ -144,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Azure/Azure_Data/URIs.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of URIs"
+              "title": "Outline"
             }
           },
           {
@@ -225,6 +223,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
     "Azure/Azure_Data/URIs.md",
     "Azure/Azure_Data/blob_datastore.py~",
     "Azure/Azure_Data/blob_datastore.py",
