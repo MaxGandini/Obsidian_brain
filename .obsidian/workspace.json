@@ -229,11 +229,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "AI/Generative_AI/Intensive gen AI course.md",
+    "AI/Generative_AI/Generative AI.md",
     "z_Attachments/transformer.png",
     "z_Attachments/transformer.png.download",
     "AI/Generative_AI/LLM/_Index_of_LLM.md",
     "AI/Untitled.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
     "AI/Generative_AI/LLM",
     "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Correlation.md",
@@ -259,8 +262,6 @@
     "z_Attachments/uri.png",
     "Cloud/Cloud.md",
     "Azure/Azure Computations.md",
-    "Cloud/_Index_of_Cloud.md",
-    "SQL/TRANSACTIONS.md",
     "Untitled",
     "Cloud",
     "SQL/SQL_database_1.py",
@@ -274,7 +275,6 @@
     "z_Attachments/azure_ml.png",
     "z_Attachments/gradient.png",
     "z_Attachments/ARIMA-8-1269249993.png",
-    "Untitled.canvas",
-    "z_Attachments/decision_tree.png"
+    "Untitled.canvas"
   ]
 }
