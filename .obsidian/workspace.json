@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Generative_AI/LLM/Large Language Models.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Large Language Models"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "AI/Generative_AI/LLM/Large Language Models.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Large Language Models"
             }
           },
           {
@@ -223,6 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "z_Attachments/transformer.png",
+    "z_Attachments/transformer.png.download",
+    "AI/Generative_AI/LLM/_Index_of_LLM.md",
+    "AI/Untitled.md",
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "AI/Generative_AI/LLM",
+    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Correlation.md",
     "Mathematics/Statistics/Bias-Variance.md",
     "Mathematics/Statistics/Classification.md",
@@ -230,7 +243,6 @@
     "SQL/_Index_of_SQL.md",
     "SQL/PostgreSQL.md",
     "AI/Machine_Learning/Supervised/Classification.md",
-    "_Index_of_Computer_science.md",
     "Azure/Azure_Data/URIs.md",
     "Azure/Azure_Data/blob_datastore.py~",
     "Azure/Azure_Data/blob_datastore.py",
@@ -252,14 +264,8 @@
     "Untitled",
     "Cloud",
     "SQL/SQL_database_1.py",
-    "SQL/SQL.md",
-    "SQL/UPDATE.md",
-    "SQL/AGGREGATE.md",
-    "SQL/JOIN.md",
     "SQL/SQL_first.py",
     "SQL/SQL_database.py",
-    "01-Linux/Bash/obsidian_runner.sh",
-    "01-Linux/Bash/Videos_codealong",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
     "z_Attachments/architecture.png",
