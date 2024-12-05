@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Cloud.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cloud"
+              "title": "New tab"
             }
           }
         ]
@@ -149,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Cloud.md"
+                "file": "Azure/Azure_Data/URIs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud"
+              "title": "Outline of URIs"
             }
           },
           {
@@ -229,9 +225,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Azure/Azure Databricks.md",
-    "Azure/Azure Computations.md",
+    "Azure/Azure_Data/URIs.md",
+    "Azure/Azure_Data/blob_datastore.py~",
+    "Azure/Azure_Data/blob_datastore.py",
+    "Azure/Azure_Data/Untitled.md",
+    "Azure/Azure_Data/Datastores.md",
+    "Azure/Azure_Data/Data Assets.md",
+    "Azure/Azure_Data/Azure Databricks.md",
+    "Azure/Architecting solutions.md",
+    "Azure/Azure_ML/Author a training pipeline.md",
+    "Azure/Azure data factory course.md",
+    "Azure/Azure_Data/_Index_of_Azure_Data.md",
+    "Azure/Azure_ML/Workspace.md",
+    "Azure/Azure_Data",
+    "z_Attachments/uri.png",
     "Cloud/Cloud.md",
+    "Azure/Azure Computations.md",
     "Cloud/_Index_of_Cloud.md",
     "SQL/TRANSACTIONS.md",
     "Untitled",
@@ -250,21 +259,8 @@
     "SQL/SQL_first.py",
     "SQL/SQL_database.py",
     "SQL/CREATE.md",
-    "_Index_of_Computer_science.md",
-    "01-Linux/Bash/Videos_codealong/More shell magic tricks.md",
     "01-Linux/Bash/obsidian_runner.sh",
-    "01-Linux/Bash/Videos_codealong/Shell magic tricks.md",
-    "01-Linux/Bash/Videos_codealong/_Index_of_Videos_codealong.md",
-    "01-Linux/Bash/Bash 01 syntax_follow_along.md",
-    "01-Linux/Bash/Bash commands for the interview..md",
-    "01-Linux/Bash/Bash.md",
     "01-Linux/Bash/Videos_codealong",
-    "Azure/Python_SDK/Python sdk.md",
-    "Azure/Python_SDK/_Index_of_Python_SDK.md",
-    "Azure/Azure_ML/Workspace.md",
-    "Azure/Python_SDK",
-    "Azure/Python_SDK/azure_SDK_setup.py",
-    "Azure/Azure_ML/azure_SDK_setup.py~",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
     "z_Attachments/architecture.png",
@@ -274,7 +270,6 @@
     "z_Attachments/gradient.png",
     "z_Attachments/ARIMA-8-1269249993.png",
     "Untitled.canvas",
-    "z_Attachments/decision_tree.png",
-    "z_Attachments/neural_gradient.png"
+    "z_Attachments/decision_tree.png"
   ]
 }

@@ -1,4 +1,4 @@
-In an azure workspace, you can administrate various groups and roles for using [[Azure Computations]] and [[Azure databricks]] . 
+In an azure workspace, you can administrate various groups and roles for using [[Azure Computations]] and [[Azure Databricks]] . 
 Some typical built in roles include: 
 
 - Owner

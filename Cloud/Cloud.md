@@ -38,7 +38,7 @@ Types of services:
  key providers include:
 
 - [[Azure Computations]]
-- [[Azure databricks]] 
+- [[Azure Databricks]] 
 - [[AWS]]
 - [[Google Cloud]]
 
