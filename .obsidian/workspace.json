@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Postgresql managing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Postgresql managing"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/Large Language Models.md"
+                "file": "SQL/Postgresql managing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Large Language Models"
+              "title": "Outline of Postgresql managing"
             }
           },
           {
@@ -206,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +229,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Projects_AI/4913",
+    "Projects_AI/Supply Chain Optimization.md",
+    "SQL/4913",
+    "Projects_AI/supply_chain_analysis.py",
+    "Projects_AI/_Index_of_Projects_AI.md",
+    "SQL/PostgreSQL.md",
+    "Projects_AI",
+    "SQL/Postgresql managing.md",
+    "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "AI/Generative_AI/LLM/NLP.md",
     "AI/Generative_AI/Intensive gen AI course.md",
@@ -234,13 +247,10 @@
     "AI/Generative_AI/LLM/_Index_of_LLM.md",
     "AI/Untitled.md",
     "AI/Generative_AI/LLM",
-    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Correlation.md",
     "Mathematics/Statistics/Bias-Variance.md",
     "Mathematics/Statistics/Classification.md",
-    "SQL/Postgresql managing.md",
     "SQL/_Index_of_SQL.md",
-    "SQL/PostgreSQL.md",
     "AI/Machine_Learning/Supervised/Classification.md",
     "Azure/Azure_Data/URIs.md",
     "Azure/Azure_Data/blob_datastore.py~",
@@ -253,16 +263,9 @@
     "Azure/Azure_ML/Author a training pipeline.md",
     "Azure/Azure data factory course.md",
     "Azure/Azure_Data/_Index_of_Azure_Data.md",
-    "Azure/Azure_ML/Workspace.md",
     "Azure/Azure_Data",
     "z_Attachments/uri.png",
-    "Cloud/Cloud.md",
-    "Azure/Azure Computations.md",
-    "Untitled",
     "Cloud",
-    "SQL/SQL_database_1.py",
-    "SQL/SQL_first.py",
-    "SQL/SQL_database.py",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
     "z_Attachments/architecture.png",

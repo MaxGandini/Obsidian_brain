@@ -23,6 +23,8 @@ csv_files = list(data_dir.glob("*.csv"))
 
 # Print out each CSV file name
 for csv_file in csv_files:
+    import pandas as pd
+
     print(csv_file.name)  # This will print just the file name, not the full path
     names.append(csv_file.name.split('.')[0])
 
