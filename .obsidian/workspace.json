@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Postgresql managing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Postgresql managing"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "SQL/Postgresql managing.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Postgresql managing"
             }
           },
           {
@@ -223,6 +229,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Projects_AI/supply_chain_analysis.py~",
     "_Index_of_Computer_science.md",
     "SQL/Postgresql managing.md",
     "Projects_AI/4913",
