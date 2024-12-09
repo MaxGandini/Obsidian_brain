@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Postgresql managing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Postgresql managing"
+              "title": "New tab"
             }
           }
         ]
@@ -229,9 +225,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SQL/Postgresql managing.md",
     "Projects_AI/supply_chain_analysis.py~",
     "_Index_of_Computer_science.md",
-    "SQL/Postgresql managing.md",
     "Projects_AI/4913",
     "Projects_AI/Supply Chain Optimization.md",
     "SQL/4913",
@@ -266,7 +262,6 @@
     "Azure/Azure_Data/_Index_of_Azure_Data.md",
     "Azure/Azure_Data",
     "z_Attachments/uri.png",
-    "Cloud",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
     "z_Attachments/architecture.png",
