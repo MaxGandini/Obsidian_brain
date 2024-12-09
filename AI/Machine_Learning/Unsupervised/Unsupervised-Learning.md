@@ -5,7 +5,7 @@ Unsupervised learning is a great approach to soft problems. It goes beyond the d
 ### Models:
 - [[K-Means clustering]] is a good approach for spherical clusters. In advance, one cannot know how the cluster will be, so it's trial-error.
 - For **non-spherical clusters**, [[DBSCAN]] and [[GMM]] are often the go-to methods.
-  - **DBSCAN** excels when you have noise and varying densities.
+  - [[DBSCAN]] excels when you have noise and varying densities.
   - **GMM** is great for capturing elliptical shapes.
 - **Agglomerative Hierarchical Clustering** and **Mean Shift** (pending)
 - [[Spectral Clustering]] is useful for complex, connected clusters that are not linearly separable.

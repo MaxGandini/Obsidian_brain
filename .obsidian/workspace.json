@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine_Learning/Unsupervised/DBSCAN.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DBSCAN"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Postgresql managing.md"
+                "file": "AI/Machine_Learning/Unsupervised/DBSCAN.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Postgresql managing"
+              "title": "Outline of DBSCAN"
             }
           },
           {
@@ -225,9 +229,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning.md",
+    "AI/Machine_Learning/Unsupervised/DBSCAN.md",
+    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
+    "_Index_of_Computer_science.md",
     "SQL/Postgresql managing.md",
     "Projects_AI/supply_chain_analysis.py~",
-    "_Index_of_Computer_science.md",
     "Projects_AI/4913",
     "Projects_AI/Supply Chain Optimization.md",
     "SQL/4913",
@@ -258,8 +265,6 @@
     "Azure/Azure_Data/Azure Databricks.md",
     "Azure/Architecting solutions.md",
     "Azure/Azure_ML/Author a training pipeline.md",
-    "Azure/Azure data factory course.md",
-    "Azure/Azure_Data/_Index_of_Azure_Data.md",
     "Azure/Azure_Data",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
