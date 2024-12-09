@@ -1,8 +1,10 @@
-import psycopg2
 import os
 import csv
+import pandas as pd
+import psycopg2
 from pathlib import Path
 
+# Get the grandparent directory
 grandparent_dir = Path(__file__).parents[2]
 
 # Define the path to the directory containing the dataset (not the file itself)
@@ -10,12 +12,12 @@ data_dir = grandparent_dir / "datasets"  # This should be the directory containi
 
 tables = []
 names = []
+
 # Check if the directory exists and then list its contents
 if data_dir.exists() and data_dir.is_dir():
     for archive in data_dir.iterdir():
         print(archive)
         tables.append(archive)
-
 else:
     print(f"{data_dir} is not a valid directory.")
 
@@ -23,8 +25,6 @@ csv_files = list(data_dir.glob("*.csv"))
 
 # Print out each CSV file name
 for csv_file in csv_files:
-    import pandas as pd
-
     print(csv_file.name)  # This will print just the file name, not the full path
     names.append(csv_file.name.split('.')[0])
 
@@ -47,23 +47,37 @@ conn = psycopg2.connect(
 # Create a cursor to execute SQL commands
 cur = conn.cursor()
 
-# Define the SQL COPY command with the file path
+# Function to map pandas data types to PostgreSQL types
+def map_dtype_to_sql(dtype):
+    if pd.api.types.is_integer_dtype(dtype):
+        return 'INTEGER'
+    elif pd.api.types.is_float_dtype(dtype):
+        return 'FLOAT'
+    elif pd.api.types.is_datetime64_any_dtype(dtype):
+        return 'TIMESTAMP'
+    elif pd.api.types.is_bool_dtype(dtype):
+        return 'BOOLEAN'
+    else:
+        return 'TEXT'
 
+# Define the SQL COPY command with the file path
 for csv_file_path, table_name in zip(csv_files, names):
     # Ensure the file exists before attempting to load it
     if csv_file_path.exists():
         try:
-            with open(csv_file_path, 'r') as f:
-                reader = csv.reader(f)
-                headers = next(reader)
+            # Read the CSV file with pandas to infer types
+            df = pd.read_csv(csv_file_path)
             
-            # Define the table structure with inferred column names and types
-            columns = ', '.join([f"{col} TEXT" for col in headers])
+            # Generate column definitions for table creation
+            columns = []
+            for col, dtype in df.dtypes.items():
+                col_type = map_dtype_to_sql(dtype)
+                columns.append(f"{col} {col_type}")
             
             # Create the table with inferred columns
             create_table_sql = f"""
                 CREATE TABLE IF NOT EXISTS {table_name} (
-                    {columns}
+                    {', '.join(columns)}
                 )
             """
             cur.execute(create_table_sql)
@@ -85,6 +99,6 @@ for csv_file_path, table_name in zip(csv_files, names):
     else:
         print(f"File {csv_file_path} does not exist!")
 
-# Don't forget to close the connection when done
+# Close the cursor and connection
 cur.close()
 conn.close()

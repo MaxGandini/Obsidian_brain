@@ -11,10 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -144,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/Postgresql managing.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Postgresql managing"
+              "title": "Outline"
             }
           },
           {
@@ -225,6 +223,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
     "SQL/Postgresql managing.md",
     "Projects_AI/4913",
     "Projects_AI/Supply Chain Optimization.md",
@@ -233,7 +232,6 @@
     "Projects_AI/_Index_of_Projects_AI.md",
     "SQL/PostgreSQL.md",
     "Projects_AI",
-    "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "AI/Generative_AI/LLM/NLP.md",
     "AI/Generative_AI/Intensive gen AI course.md",
