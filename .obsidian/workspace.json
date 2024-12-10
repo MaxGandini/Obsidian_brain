@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Unsupervised/DBSCAN.md",
+                "file": "Programming_general/OOP/Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBSCAN"
+              "title": "Class"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Unsupervised/DBSCAN.md"
+                "file": "Programming_general/OOP/Class.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DBSCAN"
+              "title": "Outline of Class"
             }
           },
           {
@@ -229,10 +229,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning.md",
-    "AI/Machine_Learning/Unsupervised/DBSCAN.md",
-    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
+    "Programming_general/OOP/DRY.md",
+    "Programming_general/OOP/Class.md",
+    "Programming_general/OOP/_Index_of_OOP.md",
+    "Programming_general/_Index_of_Programming_general.md",
+    "Programming_general/OOP",
     "_Index_of_Computer_science.md",
+    "Programming_general",
+    "AI/Machine_Learning/Unsupervised/DBSCAN.md",
+    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning.md",
+    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
     "SQL/Postgresql managing.md",
     "Projects_AI/supply_chain_analysis.py~",
     "Projects_AI/4913",
@@ -258,14 +264,8 @@
     "AI/Machine_Learning/Supervised/Classification.md",
     "Azure/Azure_Data/URIs.md",
     "Azure/Azure_Data/blob_datastore.py~",
-    "Azure/Azure_Data/blob_datastore.py",
     "Azure/Azure_Data/Untitled.md",
     "Azure/Azure_Data/Datastores.md",
-    "Azure/Azure_Data/Data Assets.md",
-    "Azure/Azure_Data/Azure Databricks.md",
-    "Azure/Architecting solutions.md",
-    "Azure/Azure_ML/Author a training pipeline.md",
-    "Azure/Azure_Data",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
