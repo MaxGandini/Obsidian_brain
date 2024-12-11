@@ -1,5 +1,4 @@
 import os
-import csv
 import pandas as pd
 import psycopg2
 from pathlib import Path
@@ -8,25 +7,10 @@ from pathlib import Path
 grandparent_dir = Path(__file__).parents[2]
 
 # Define the path to the directory containing the dataset (not the file itself)
-data_dir = grandparent_dir / "datasets"  # This should be the directory containing Housing.csv
-
-tables = []
-names = []
-
-# Check if the directory exists and then list its contents
-if data_dir.exists() and data_dir.is_dir():
-    for archive in data_dir.iterdir():
-        print(archive)
-        tables.append(archive)
-else:
-    print(f"{data_dir} is not a valid directory.")
+data_dir = grandparent_dir / "datasets"
 
 csv_files = list(data_dir.glob("*.csv"))
-
-# Print out each CSV file name
-for csv_file in csv_files:
-    print(csv_file.name)  # This will print just the file name, not the full path
-    names.append(csv_file.name.split('.')[0])
+names = [csv_file.name.split('.')[0] for csv_file in csv_files]
 
 # Access environment variables
 dbname = os.getenv("DB_NAME")
@@ -60,41 +44,53 @@ def map_dtype_to_sql(dtype):
     else:
         return 'TEXT'
 
-# Define the SQL COPY command with the file path
+# Function to clean up a table
+def clean_table(table_name):
+    try:
+        cur.execute(f"DROP TABLE IF EXISTS {table_name} CASCADE;")
+        print(f"Table {table_name} dropped.")
+    except Exception as e:
+        print(f"Error dropping table {table_name}: {e}")
+        conn.rollback()
+
+# Process each CSV file
 for csv_file_path, table_name in zip(csv_files, names):
-    # Ensure the file exists before attempting to load it
     if csv_file_path.exists():
         try:
             # Read the CSV file with pandas to infer types
             df = pd.read_csv(csv_file_path)
-            
+
+            # Clean up the table if it exists
+            clean_table(table_name)
+
             # Generate column definitions for table creation
             columns = []
             for col, dtype in df.dtypes.items():
                 col_type = map_dtype_to_sql(dtype)
                 columns.append(f"{col} {col_type}")
-            
+
             # Create the table with inferred columns
             create_table_sql = f"""
-                CREATE TABLE IF NOT EXISTS {table_name} (
+                CREATE TABLE {table_name} (
                     {', '.join(columns)}
-                )
+                );
             """
             cur.execute(create_table_sql)
-            print(f"Table {table_name} created or already exists.")
+            print(f"Table {table_name} created.")
 
             # Define the COPY SQL command
             copy_sql = f"""
                 COPY {table_name}
-                FROM STDIN WITH CSV HEADER DELIMITER ',' QUOTE '\"'
+                FROM STDIN WITH CSV HEADER DELIMITER ',' QUOTE '"'
             """
             with open(csv_file_path, 'r') as f:
                 cur.copy_expert(sql=copy_sql, file=f)
-            
+
             conn.commit()
             print(f"Data from {csv_file_path} successfully loaded into {table_name}.")
+
         except Exception as e:
-            print(f"Error loading data from {csv_file_path} into {table_name}: {e}")
+            print(f"Error processing {csv_file_path}: {e}")
             conn.rollback()
     else:
         print(f"File {csv_file_path} does not exist!")
@@ -102,3 +98,4 @@ for csv_file_path, table_name in zip(csv_files, names):
 # Close the cursor and connection
 cur.close()
 conn.close()
+

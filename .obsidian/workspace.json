@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_general/OOP/Class.md",
+                "file": "Projects_AI/supply_chain_analysis.py",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class"
+              "title": "supply_chain_analysis"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_general/OOP/Class.md"
+                "file": "Projects_AI/supply_chain_analysis.py"
               },
               "icon": "lucide-list",
-              "title": "Outline of Class"
+              "title": "Outline of supply_chain_analysis"
             }
           },
           {
@@ -229,43 +229,43 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Programming_general/OOP/DRY.md",
+    "SQL/4913",
+    "SQL/SQL_database_1.py~",
+    "Projects_AI/Supply Chain Optimization.md",
+    "Programs/API KEYS.md",
+    "Programs/Checksums.md",
+    "Mathematics/Statistics/Time_series/ACF.md",
+    "Mathematics/Numeric_calculus/Least Squares.md",
+    "Cloud/Cloud.md",
+    "Mathematics/Statistics/Time_series/arima_function.py",
+    "Mathematics/Statistics/Time_series/arima_toy.py",
+    "Mathematics/Statistics/Time_series/AIC.md",
+    "Azure/Azure Computations.md",
+    "Azure/Architecting solutions.md",
+    "Azure/Python_SDK/azure_cloud_compute.py",
+    "Azure/Azure_ML/Assets.md",
+    "Azure/Azure_ML/Workspace.md",
+    "Azure/Azure_ML/Author a training pipeline.md",
+    "Azure/Python_SDK/Python sdk.md",
+    "Programs/API.md",
+    "Azure/Azure_ML/_Index_of_Azure_ML.md",
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "_Index_of_Computer_science.md",
     "Programming_general/OOP/Class.md",
+    "Programming_general/OOP/DRY.md",
     "Programming_general/OOP/_Index_of_OOP.md",
     "Programming_general/_Index_of_Programming_general.md",
     "Programming_general/OOP",
-    "_Index_of_Computer_science.md",
     "Programming_general",
     "AI/Machine_Learning/Unsupervised/DBSCAN.md",
     "AI/Machine_Learning/Unsupervised/Unsupervised-Learning.md",
     "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
-    "SQL/Postgresql managing.md",
     "Projects_AI/supply_chain_analysis.py~",
     "Projects_AI/4913",
-    "Projects_AI/Supply Chain Optimization.md",
-    "SQL/4913",
     "Projects_AI/supply_chain_analysis.py",
-    "Projects_AI/_Index_of_Projects_AI.md",
-    "SQL/PostgreSQL.md",
     "Projects_AI",
-    "AI/Generative_AI/LLM/Large Language Models.md",
-    "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/Intensive gen AI course.md",
-    "AI/Generative_AI/Generative AI.md",
     "z_Attachments/transformer.png",
-    "z_Attachments/transformer.png.download",
-    "AI/Generative_AI/LLM/_Index_of_LLM.md",
-    "AI/Untitled.md",
-    "AI/Generative_AI/LLM",
-    "Mathematics/Statistics/Correlation.md",
-    "Mathematics/Statistics/Bias-Variance.md",
-    "Mathematics/Statistics/Classification.md",
-    "SQL/_Index_of_SQL.md",
-    "AI/Machine_Learning/Supervised/Classification.md",
-    "Azure/Azure_Data/URIs.md",
-    "Azure/Azure_Data/blob_datastore.py~",
-    "Azure/Azure_Data/Untitled.md",
-    "Azure/Azure_Data/Datastores.md",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
     "z_Attachments/data_azure.png",
