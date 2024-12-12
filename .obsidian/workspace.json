@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects_AI/supply_chain_analysis.py",
+                "file": "SQL/Relational_Algebra_SQL/SELECT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supply_chain_analysis"
+              "title": "SELECT"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects_AI/supply_chain_analysis.py"
+                "file": "SQL/Relational_Algebra_SQL/SELECT.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of supply_chain_analysis"
+              "title": "Outline of SELECT"
             }
           },
           {
@@ -229,6 +229,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SQL/Relational_Algebra_SQL/Untitled.md",
+    "SQL/Relational_Algebra_SQL/SELECT.md",
+    "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
+    "SQL/Relational_Algebra_SQL/PROJECT.md",
+    "SQL/Relational_Algebra_SQL/_Index_of_Relational_Algebra_SQL.md",
+    "SQL/Relational_Algebra_SQL",
+    "AI/XGBoost/XGBoost.md",
+    "_Index_of_Computer_science.md",
+    "Projects_AI/supply_chain_analysis.py",
     "SQL/4913",
     "SQL/SQL_database_1.py~",
     "Projects_AI/Supply Chain Optimization.md",
@@ -251,20 +260,11 @@
     "Azure/Azure_ML/_Index_of_Azure_ML.md",
     "AI/Generative_AI/LLM/NLP.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
-    "_Index_of_Computer_science.md",
     "Programming_general/OOP/Class.md",
     "Programming_general/OOP/DRY.md",
-    "Programming_general/OOP/_Index_of_OOP.md",
-    "Programming_general/_Index_of_Programming_general.md",
     "Programming_general/OOP",
     "Programming_general",
-    "AI/Machine_Learning/Unsupervised/DBSCAN.md",
-    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning.md",
-    "AI/Machine_Learning/Unsupervised/Unsupervised-Learning-Evaluation.md",
     "Projects_AI/supply_chain_analysis.py~",
-    "Projects_AI/4913",
-    "Projects_AI/supply_chain_analysis.py",
-    "Projects_AI",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
