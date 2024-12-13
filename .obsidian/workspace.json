@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Generative_AI/LLM/NLP.md",
+                "file": "01-Linux/Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP"
+              "title": "Shell"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/NLP.md"
+                "file": "01-Linux/Shell.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NLP"
+              "title": "Outline of Shell"
             }
           },
           {
@@ -229,7 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Generative_AI/Generative AI.md",
+    "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
+    "AI/Machine_Learning/Model Validation/model_validation_overfit.py",
     "AI/Generative_AI/LLM/Large Language Models.md",
+    "AI/Generative_AI/Intensive gen AI course.md",
+    "AI/Machine_Learning/Gradient descent.md",
+    "AI/Generative_AI/LLM/NLP.md",
     "_Index_of_Computer_science.md",
     "SQL/Relational_Algebra_SQL/SELECT.md",
     "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
@@ -257,14 +263,8 @@
     "Azure/Azure_ML/Assets.md",
     "Azure/Azure_ML/Workspace.md",
     "Azure/Azure_ML/Author a training pipeline.md",
-    "Azure/Python_SDK/Python sdk.md",
-    "Programs/API.md",
-    "Azure/Azure_ML/_Index_of_Azure_ML.md",
-    "AI/Generative_AI/LLM/NLP.md",
-    "Programming_general/OOP/Class.md",
     "Programming_general/OOP",
     "Programming_general",
-    "Projects_AI/supply_chain_analysis.py~",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
