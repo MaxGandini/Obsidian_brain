@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Generative_AI/LLM/NLP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NLP"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SQL",
+                "query": "LLM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Relational_Algebra_SQL/SELECT.md"
+                "file": "AI/Generative_AI/LLM/NLP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SELECT"
+              "title": "Outline of NLP"
             }
           },
           {
@@ -225,6 +229,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "_Index_of_Computer_science.md",
     "SQL/Relational_Algebra_SQL/SELECT.md",
     "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
     "SQL/JOIN.md",
@@ -233,7 +239,6 @@
     "SQL/Relational_Algebra_SQL/_Index_of_Relational_Algebra_SQL.md",
     "SQL/Relational_Algebra_SQL",
     "AI/XGBoost/XGBoost.md",
-    "_Index_of_Computer_science.md",
     "Projects_AI/supply_chain_analysis.py",
     "SQL/4913",
     "SQL/SQL_database_1.py~",
@@ -256,7 +261,6 @@
     "Programs/API.md",
     "Azure/Azure_ML/_Index_of_Azure_ML.md",
     "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
     "Programming_general/OOP/Class.md",
     "Programming_general/OOP",
     "Programming_general",
