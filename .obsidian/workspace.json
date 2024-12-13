@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Day 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Day 1.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Day 1"
+              "title": "Outline"
             }
           },
           {
@@ -229,10 +223,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
+    "AI/Generative_AI/LLM/LLM_course/Day 1.md",
+    "AI/Generative_AI/gen_ai.py",
     "AI/Generative_AI/LLM/LLM_course/day1.ipynb",
     "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
-    "AI/Generative_AI/LLM/LLM_course/Day 1.md",
     "AI/Generative_AI/LLM/LLM_course",
     "01-Linux/Shell.md",
     "AI/Generative_AI/Generative AI.md",
@@ -241,7 +237,6 @@
     "AI/Generative_AI/Intensive gen AI course.md",
     "AI/Machine_Learning/Gradient descent.md",
     "AI/Generative_AI/LLM/NLP.md",
-    "_Index_of_Computer_science.md",
     "SQL/Relational_Algebra_SQL/SELECT.md",
     "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
     "SQL/JOIN.md",
@@ -263,8 +258,6 @@
     "Mathematics/Statistics/Time_series/arima_toy.py",
     "Mathematics/Statistics/Time_series/AIC.md",
     "Azure/Azure Computations.md",
-    "Azure/Python_SDK/azure_cloud_compute.py",
-    "Programming_general/OOP",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
