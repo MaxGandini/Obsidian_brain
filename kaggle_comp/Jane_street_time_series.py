@@ -22,7 +22,7 @@ try:
     cursor = conn.cursor()
     
     # Write your query
-    query = "SELECT * FROM supply_chain_data"
+    query = "SELECT * FROM "
     
     # Execute the query
     cursor.execute(query)
