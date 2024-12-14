@@ -10,7 +10,13 @@ grandparent_dir = Path(__file__).parents[2]
 data_dir = grandparent_dir / "datasets"
 
 csv_files = list(data_dir.glob("*.csv"))
-names = [csv_file.name.split('.')[0] for csv_file in csv_files]
+parquet_files = list(data_dir.glob("*.parquet"))
+
+# Combine the lists of files
+all_files = csv_files + parquet_files
+
+# Extract the names without extensions
+names = [file.name.split('.')[0] for file in all_files]
 
 # Access environment variables
 dbname = os.getenv("DB_NAME")
@@ -54,11 +60,14 @@ def clean_table(table_name):
         conn.rollback()
 
 # Process each CSV file
-for csv_file_path, table_name in zip(csv_files, names):
-    if csv_file_path.exists():
+for file_path, table_name in zip(all_files, names):
+    if file_path.exists():
         try:
             # Read the CSV file with pandas to infer types
-            df = pd.read_csv(csv_file_path)
+            if file_path.suffix == '.csv':
+                df = pd.read_csv(file_path)
+            else:
+                df = pd.read_parquet(file_path)
 
             # Clean up the table if it exists
             clean_table(table_name)
@@ -79,21 +88,28 @@ for csv_file_path, table_name in zip(csv_files, names):
             print(f"Table {table_name} created.")
 
             # Define the COPY SQL command
-            copy_sql = f"""
-                COPY {table_name}
-                FROM STDIN WITH CSV HEADER DELIMITER ',' QUOTE '"'
-            """
-            with open(csv_file_path, 'r') as f:
+            if file_path.suffix == '.csv':
+                copy_sql = f"""
+                    COPY {table_name}
+                    FROM STDIN WITH CSV HEADER DELIMITER ',' QUOTE '"'
+                """
+            else:
+                copy_sql = f"""
+                    COPY {table_name}
+                    FROM STDIN WITH PARQUET HEADER DELIMITER ',' QUOTE '"'
+                """
+
+            with open(file_path, 'r') as f:
                 cur.copy_expert(sql=copy_sql, file=f)
 
             conn.commit()
-            print(f"Data from {csv_file_path} successfully loaded into {table_name}.")
+            print(f"Data from {file_path} successfully loaded into {table_name}.")
 
         except Exception as e:
-            print(f"Error processing {csv_file_path}: {e}")
+            print(f"Error processing {file_path}: {e}")
             conn.rollback()
     else:
-        print(f"File {csv_file_path} does not exist!")
+        print(f"File {file_path} does not exist!")
 
 # Close the cursor and connection
 cur.close()
