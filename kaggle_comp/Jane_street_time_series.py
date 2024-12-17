@@ -4,6 +4,7 @@ import os
 from pathlib import Path
 import pandas as pd
 from sklearn.utils import shuffle
+import seaborn as sns
 
 # Safely determine the grandparent directory
 try:
@@ -43,9 +44,19 @@ plt.show()
 
 subset_data_ = data.iloc[start_index:end_index]
 subset_data = subset_data_.groupby('time_id', as_index=False).sum()
-feature='feature_64'
+feature='feature_61'
 
+plt.figure(figsize=(8, 6))  # Set the figure size
+correlation_matrix = subset_data_.corr()
+plt.matshow(correlation_matrix, cmap='coolwarm', fignum=1)  # fignum=1 to use the plt.figure
+plt.colorbar()  # Add colorbar for scale
 
+# Add labels for clarity
+plt.xticks(range(len(correlation_matrix.columns)), correlation_matrix.columns, rotation=45, ha='left')
+plt.yticks(range(len(correlation_matrix.columns)), correlation_matrix.columns)
+
+plt.title("Correlation Matrix", pad=20)  # Add a title
+plt.show()
 # Plot the sampled data
 if 'time_id' in subset_data.columns and feature in subset_data.columns:
     subset_data.plot(x='time_id', y=feature, kind='scatter')
@@ -58,7 +69,7 @@ else:
 
 
 if 'time_id' in subset_data.columns and feature in subset_data.columns:
-    subset_data.plot(x='time_id', y='responder_0', kind='scatter')
+    subset_data.plot(x='time_id', y='responder_6', kind='scatter')
     plt.title('responder_0')
     plt.xlabel("Time ID")
     plt.ylabel(feature)
