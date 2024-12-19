@@ -2,4 +2,7 @@ An LLM is a type of computational model designed for natural language processing
 
 LLMs are based on the transformer model architecture. It's a pretty daunting concept, so it's inner workings will be explained through various notes and examples.
 
+Check out [[Transformers]].
+
 ![[transformer.png]]
+
