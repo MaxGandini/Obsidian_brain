@@ -12,3 +12,8 @@ Neural networks typically come in the form of a set of layered neurons.
 Each set can be represented with [[Tensors]], which can be transformed when fed to a layer through a non-linear function called [[Activation function]] 
 
 The process is iterated many times like in all [[Machine Learning]] models. This deeply connects with the mathematical problem of [[Gradient descent]].
+
+Common instances of neural networks to keep in mind:
+
+- [[RNN]] (Recurrent neural networks)
+- [[FFNN]] (Feed forward neural networks)
