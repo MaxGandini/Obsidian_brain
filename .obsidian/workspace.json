@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine_Learning/Encoders-Decoders.md",
+                "file": "AI/Generative_AI/LLM/Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encoders-Decoders"
+              "title": "Transformers"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine_Learning/Encoders-Decoders.md"
+                "file": "AI/Generative_AI/LLM/Transformers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Encoders-Decoders"
+              "title": "Outline of Transformers"
             }
           },
           {
@@ -229,17 +229,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Generative_AI/LLM/Attention is all you need.md",
+    "AI/Generative_AI/LLM/Transformers.md",
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Machine_Learning/Neural Networks.md",
     "AI/Machine_Learning/RNN.md",
     "AI/Machine_Learning/Encoders-Decoders.md",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png.download",
-    "AI/Machine_Learning/Neural Networks.md",
     "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Gradient descent.md",
-    "AI/Generative_AI/LLM/Transformers.md",
-    "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
-    "AI/Generative_AI/LLM/Attention is all you need.md",
     "AI/Generative_AI/LLM/LLM_course/Day 1.md",
     "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "01-Linux/Terminals.md",

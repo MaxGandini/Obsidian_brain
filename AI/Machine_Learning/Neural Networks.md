@@ -17,3 +17,4 @@ Common instances of neural networks to keep in mind:
 
 - [[RNN]] (Recurrent neural networks)
 - [[FFNN]] (Feed forward neural networks)
+- [[CNN]] (Convolutional neural networks)
