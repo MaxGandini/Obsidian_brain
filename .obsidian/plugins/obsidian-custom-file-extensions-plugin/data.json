@@ -18,28 +18,12 @@
       "html",
       "py",
       "sh",
-      "rs"
+      "rs",
+      "ipynb"
     ]
   },
   "configIsValid": true,
-  "errors": {
-    "": "Could not register extension: '' to view type: markdown.  is already registered to markdown.",
-    "txt": "Could not register extension: 'txt' to view type: markdown. txt is already registered to markdown.",
-    "js": "Could not register extension: 'js' to view type: markdown. js is already registered to markdown.",
-    "css": "Could not register extension: 'css' to view type: markdown. css is already registered to markdown.",
-    "ts": "Could not register extension: 'ts' to view type: markdown. ts is already registered to markdown.",
-    "jsx": "Could not register extension: 'jsx' to view type: markdown. jsx is already registered to markdown.",
-    "tsx": "Could not register extension: 'tsx' to view type: markdown. tsx is already registered to markdown.",
-    "yaml": "Could not register extension: 'yaml' to view type: markdown. yaml is already registered to markdown.",
-    "yml": "Could not register extension: 'yml' to view type: markdown. yml is already registered to markdown.",
-    "sass": "Could not register extension: 'sass' to view type: markdown. sass is already registered to markdown.",
-    "scss": "Could not register extension: 'scss' to view type: markdown. scss is already registered to markdown.",
-    "tex": "Could not register extension: 'tex' to view type: markdown. tex is already registered to markdown.",
-    "json": "Could not register extension: 'json' to view type: markdown. json is already registered to markdown.",
-    "html": "Could not register extension: 'html' to view type: markdown. html is already registered to markdown.",
-    "py": "Could not register extension: 'py' to view type: markdown. py is already registered to markdown.",
-    "sh": "Could not register extension: 'sh' to view type: markdown. sh is already registered to markdown."
-  },
+  "errors": {},
   "allowMdOverride": false,
   "mobileSettings": {
     "enabled": false,
