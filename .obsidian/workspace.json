@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
+                "file": "Python/Iterable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes week 1"
+              "title": "Iterable"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md"
+                "file": "Python/Iterable.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes week 1"
+              "title": "Outline of Iterable"
             }
           },
           {
@@ -229,13 +229,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Python/Generator.md",
+    "Python/Iterable.md",
+    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/NLP.md",
     "AI/Machine_Learning/Encoders-Decoders.md",
     "AI/Generative_AI/LLM/Transformers.md",
     "AI/Machine_Learning/RNN.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "_Index_of_Computer_science.md",
-    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/day1.ipynb",
     "AI/Generative_AI/LLM/Attention is all you need.md",
     "AI/Machine_Learning/Neural Networks.md",
@@ -264,7 +266,6 @@
     "SQL/Relational_Algebra_SQL/SELECT.md",
     "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
     "SQL/JOIN.md",
-    "SQL/Relational_Algebra_SQL/Untitled.md",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",

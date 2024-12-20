@@ -1,0 +1,1 @@
+An iterable is an object that has an __ iter __ method which returns an iterator, or which defines a __ getitem__ method that can take sequential indexes starting from zero (and raises an IndexError when the indexes are no longer valid). So an iterable is an object that you can get an iterator from.
