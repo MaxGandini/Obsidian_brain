@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Generative_AI/LLM/NLP.md",
+                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP"
+              "title": "Notes week 1"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/NLP.md"
+                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NLP"
+              "title": "Outline of Notes week 1"
             }
           },
           {
@@ -229,16 +229,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Generative_AI/LLM/Transformers.md",
     "AI/Generative_AI/LLM/NLP.md",
+    "AI/Machine_Learning/Encoders-Decoders.md",
+    "AI/Generative_AI/LLM/Transformers.md",
+    "AI/Machine_Learning/RNN.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "_Index_of_Computer_science.md",
-    "AI/Generative_AI/LLM/LLM_course/Day 1.md",
+    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/day1.ipynb",
     "AI/Generative_AI/LLM/Attention is all you need.md",
     "AI/Machine_Learning/Neural Networks.md",
-    "AI/Machine_Learning/RNN.md",
-    "AI/Machine_Learning/Encoders-Decoders.md",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png.download",
     "AI/Machine_Learning/Machine Learning.md",
