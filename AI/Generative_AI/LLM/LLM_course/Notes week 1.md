@@ -21,3 +21,11 @@ What techniques there are for applications:
 - Fine-tuning
 - Agentization
 
+### Paradigms for running LLMs:
+
+- Chat interfaces (Like OpenAI chat gpt)
+- Cloud APIs like in day 1, you interface with a model running on the cloud through an API
+- Direct inference: 
+	Huggingface's Transformers library.
+	Ollama's local host.
+

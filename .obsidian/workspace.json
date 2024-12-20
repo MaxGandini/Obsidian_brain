@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Iterable.md",
+                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterable"
+              "title": "Notes week 1"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Iterable.md"
+                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Iterable"
+              "title": "Outline of Notes week 1"
             }
           },
           {
@@ -229,12 +229,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Python/Generator.md",
-    "Python/Iterable.md",
+    "AI/Generative_AI/LLM/LLM_course/Frontier models.md",
     "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/NLP.md",
-    "AI/Machine_Learning/Encoders-Decoders.md",
     "AI/Generative_AI/LLM/Transformers.md",
+    "Mathematics/Statistics/Time_series/Time Series.md",
+    "AI/Untitled.md",
+    "Mathematics/Statistics/Time_series/AIC.md",
+    "Mathematics/Statistics/Time_series/ACF.md",
+    "Python/Iterable.md",
+    "Python/Generator.md",
+    "AI/Machine_Learning/Encoders-Decoders.md",
     "AI/Machine_Learning/RNN.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "_Index_of_Computer_science.md",
@@ -261,11 +266,6 @@
     "AI/Generative_AI/gen_ai.py",
     "AI/Generative_AI/LLM/LLM_course",
     "AI/Generative_AI/Generative AI.md",
-    "AI/Machine_Learning/Model Validation/ShuffleSplit.md",
-    "AI/Generative_AI/Intensive gen AI course.md",
-    "SQL/Relational_Algebra_SQL/SELECT.md",
-    "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
-    "SQL/JOIN.md",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
