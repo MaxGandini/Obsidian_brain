@@ -1,1 +1,3 @@
-It's a subfield of [[AI]] . It's main concern is giving computers the capability of processing information encoded in natural languages.
+Natural language processing is a subfield of [[AI]] . It's main concern is giving computers the capability of processing information encoded in natural languages (decoding) and also encoding vast amounts of data in human readable language. So the discipline is concerned both with [[Encoders-Decoders]] .
+
+In the context of large language models, we have the architecture of the [[Transformers]] . Capable of doing both. 

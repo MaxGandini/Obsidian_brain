@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Generative_AI/LLM/NLP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NLP"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Day 1.md"
+                "file": "AI/Generative_AI/LLM/NLP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 1"
+              "title": "Outline of NLP"
             }
           },
           {
@@ -225,12 +229,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Generative_AI/LLM/Transformers.md",
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/LLM_course/Day 1.md",
     "AI/Generative_AI/LLM/LLM_course/day1.ipynb",
-    "AI/Generative_AI/LLM/Transformers.md",
     "AI/Generative_AI/LLM/Attention is all you need.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
-    "AI/Generative_AI/LLM/NLP.md",
     "AI/Machine_Learning/Neural Networks.md",
     "AI/Machine_Learning/RNN.md",
     "AI/Machine_Learning/Encoders-Decoders.md",
@@ -245,7 +250,6 @@
     "01-Linux/Shell.md",
     "01-Linux/Kernel.md",
     "01-Linux/GNU.md",
-    "_Index_of_Computer_science.md",
     "kaggle_comp/Jane_street_time_series.py~",
     "kaggle_comp/Feature_clustering.py",
     "kaggle_comp/analysis.py",
