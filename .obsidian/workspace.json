@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes week 1"
+              "title": "New tab"
             }
           }
         ]
@@ -148,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/Notes week 1.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Notes week 1"
+              "title": "Outline"
             }
           },
           {
@@ -229,8 +223,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Generative_AI/LLM/LLM_course/Frontier models.md",
+    "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
+    "AI/Generative_AI/LLM/LLM_course/Frontier models.md",
     "AI/Generative_AI/LLM/NLP.md",
     "AI/Generative_AI/LLM/Transformers.md",
     "Mathematics/Statistics/Time_series/Time Series.md",
@@ -250,7 +245,6 @@
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png.download",
     "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Gradient descent.md",
-    "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "01-Linux/Terminals.md",
     "01-Linux/Tmux.md",
     "01-Linux/Linux.md",
