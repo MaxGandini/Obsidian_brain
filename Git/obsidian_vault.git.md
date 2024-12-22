@@ -9,5 +9,6 @@ git remote add .
 git commit -m "commitname"
 git push -u origin master
 ```
+
 There was a huge barrage of codes involving SSHing into github from the computer and generating the keys for the secure connection. Also, github requires that you set the configuration for your email and username.
  
