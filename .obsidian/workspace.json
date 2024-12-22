@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
+                "file": "AI/Generative_AI/LLM/Attention is all you need.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM_course"
+              "title": "Attention is all you need"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/LLM_course.md"
+                "file": "AI/Generative_AI/LLM/Attention is all you need.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM_course"
+              "title": "Outline of Attention is all you need"
             }
           },
           {
@@ -249,8 +249,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
+    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/day2.md",
     "AI/Generative_AI/LLM/Attention is all you need.md",
     "AI/Generative_AI/LLM/NLP.md",
