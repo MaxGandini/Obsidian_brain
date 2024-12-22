@@ -27,9 +27,11 @@ The provided text discusses the attention mechanism in deep learning models, spe
 **Visualizations:**
 
 * Figure 3 demonstrates attention heads capturing distant dependencies in the encoder self-attention.
+![[fig3.png]]
 * Figure 4 highlights attention heads involved in anaphora resolution.
+![[fig4.png]]
 * Figure 5 shows attention heads performing different tasks related to sentence structure.
-
+![[fig5.png]]
 **Significance:**
 
 The attention mechanism is a crucial tool in deep learning models, allowing them to capture complex relationships between words and phrases. Its ability to handle long-distance dependencies and perform various tasks has significantly improved the performance of models in various natural language processing applications.
