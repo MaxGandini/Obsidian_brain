@@ -29,3 +29,4 @@ What techniques there are for applications:
 	Huggingface's Transformers library.
 	Ollama's local host.
 
+[[day2]] 
