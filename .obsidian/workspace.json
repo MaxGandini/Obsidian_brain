@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git/obsidian_vault.git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "obsidian_vault.git"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Git/obsidian_vault.git.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of obsidian_vault.git"
             }
           },
           {
@@ -223,6 +229,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Git/Git-basic-comm.md",
+    "Git/Git.md",
+    "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/Frontier models.md",
@@ -237,7 +246,6 @@
     "AI/Machine_Learning/Encoders-Decoders.md",
     "AI/Machine_Learning/RNN.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
-    "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/LLM_course/day1.ipynb",
     "AI/Generative_AI/LLM/Attention is all you need.md",
     "AI/Machine_Learning/Neural Networks.md",
@@ -250,7 +258,6 @@
     "01-Linux/Linux.md",
     "01-Linux/Shell.md",
     "01-Linux/Kernel.md",
-    "01-Linux/GNU.md",
     "kaggle_comp/Jane_street_time_series.py~",
     "kaggle_comp/Feature_clustering.py",
     "kaggle_comp/analysis.py",
@@ -259,7 +266,6 @@
     "SQL/SQL_database_1.py~",
     "AI/Generative_AI/gen_ai.py",
     "AI/Generative_AI/LLM/LLM_course",
-    "AI/Generative_AI/Generative AI.md",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
