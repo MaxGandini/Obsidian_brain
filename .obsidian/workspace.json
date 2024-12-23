@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/obsidian_vault.git.md",
+                "file": "AI/Generative_AI/LLM/Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian_vault.git"
+              "title": "Transformers"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/obsidian_vault.git.md"
+                "file": "AI/Generative_AI/LLM/Transformers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian_vault.git"
+              "title": "Outline of Transformers"
             }
           },
           {
@@ -161,8 +161,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -181,8 +181,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -191,8 +191,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -204,6 +204,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9494e0672ac43f22",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "d79a19ae86a6bd4c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ],
         "currentTab": 9
@@ -214,14 +234,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "homepage:Open homepage": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -229,14 +249,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
+    "AI/Sci-Kit Learn/pipeline.py~",
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Generative_AI/LLM/Transformers.md",
+    "AI/Generative_AI/_Index_of_Generative_AI.md",
+    "AI/Generative_AI/gen_ai.py",
+    "AI/Generative_AI/Intensive gen AI course.md",
+    "AI/Generative_AI/Generative AI.md",
+    "Git/obsidian_vault.git.md",
     "Git/Git-basic-comm.md",
     "Git/Git.md",
     "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/Frontier models.md",
-    "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/LLM/Transformers.md",
     "Mathematics/Statistics/Time_series/Time Series.md",
     "AI/Untitled.md",
     "Mathematics/Statistics/Time_series/AIC.md",
@@ -253,19 +280,12 @@
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png.download",
     "AI/Machine_Learning/Machine Learning.md",
     "AI/Machine_Learning/Gradient descent.md",
-    "01-Linux/Terminals.md",
-    "01-Linux/Tmux.md",
-    "01-Linux/Linux.md",
-    "01-Linux/Shell.md",
-    "01-Linux/Kernel.md",
     "kaggle_comp/Jane_street_time_series.py~",
     "kaggle_comp/Feature_clustering.py",
     "kaggle_comp/analysis.py",
     "kaggle_comp/4913",
     "SQL/4913",
     "SQL/SQL_database_1.py~",
-    "AI/Generative_AI/gen_ai.py",
-    "AI/Generative_AI/LLM/LLM_course",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
     "z_Attachments/data_azure.svg",
