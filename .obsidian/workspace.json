@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
+                "file": "AI/Generative_AI/LLM/Conversations/Gpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM_course"
+              "title": "Gpt"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/LLM_course/LLM_course.md"
+                "file": "AI/Generative_AI/LLM/Conversations/Gpt.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM_course"
+              "title": "Outline of Gpt"
             }
           },
           {
@@ -249,22 +249,37 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
-    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
-    "AI/Generative_AI/LLM/LLM_course/day2.md",
+    "AI/Generative_AI/LLM/Conversations/Conversations.md",
+    "AI/Generative_AI/LLM/Conversations/Claude.md",
+    "AI/Generative_AI/LLM/Conversations/Gpt.md",
+    "AI/Generative_AI/LLM/Conversations/_Index_of_Conversations.md",
+    "AI/Generative_AI/LLM/Conversations/Meta.md",
+    "Git/obsidian_vault.git.md",
+    "AI/Generative_AI/LLM/Untitled.md",
+    "AI/Generative_AI/LLM/Conversations",
+    "Git/Git-basic-comm.md",
+    "Git/Git.md",
     "AI/Generative_AI/LLM/Attention is all you need.md",
+    "z_Attachments/fig5.png",
+    "z_Attachments/Scfig6.png",
+    "z_Attachments/fig4.png",
+    "z_Attachments/fig3.png",
+    "z_Attachments/Screefig3.png",
+    "z_Attachments/Screenshot 2024-12-22 at 22-34-39 1706.03762v7.pdf.png",
+    "z_Attachments/Screenshot 2024-12-22 at 22-33-39 1706.03762v7.pdf.png",
+    "z_Attachments/Screenshot 2024-12-22 at 22-35-03 1706.03762v7.pdf.png",
+    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
+    "AI/Generative_AI/LLM/LLM_course/Notes week 1.md",
+    "AI/Generative_AI/LLM/LLM_course/day2.md",
     "AI/Generative_AI/LLM/NLP.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "AI/Generative_AI/LLM/Transformers.md",
-    "Git/obsidian_vault.git.md",
-    "Git/Git.md",
     "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
     "AI/Sci-Kit Learn/pipeline.py~",
     "AI/Generative_AI/_Index_of_Generative_AI.md",
     "AI/Generative_AI/gen_ai.py",
     "AI/Generative_AI/Intensive gen AI course.md",
     "AI/Generative_AI/Generative AI.md",
-    "Git/Git-basic-comm.md",
     "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/LLM_course/_Index_of_LLM_course.md",
     "AI/Generative_AI/LLM/LLM_course/Frontier models.md",
@@ -272,29 +287,14 @@
     "AI/Untitled.md",
     "Mathematics/Statistics/Time_series/AIC.md",
     "Mathematics/Statistics/Time_series/ACF.md",
-    "Python/Iterable.md",
-    "Python/Generator.md",
-    "AI/Machine_Learning/Encoders-Decoders.md",
-    "AI/Machine_Learning/RNN.md",
     "AI/Generative_AI/LLM/LLM_course/day1.ipynb",
-    "AI/Machine_Learning/Neural Networks.md",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png.download",
-    "AI/Machine_Learning/Machine Learning.md",
     "kaggle_comp/Jane_street_time_series.py~",
     "kaggle_comp/Feature_clustering.py",
     "kaggle_comp/analysis.py",
     "kaggle_comp/4913",
-    "SQL/4913",
     "z_Attachments/transformer.png",
-    "z_Attachments/uri.png",
-    "z_Attachments/data_azure.svg",
-    "z_Attachments/data_azure.png",
-    "z_Attachments/architecture.png",
-    "z_Attachments/kuber.png",
-    "z_Attachments/azure_computin.png",
-    "z_Attachments/azure_ml.png",
-    "z_Attachments/gradient.png",
     "Untitled.canvas"
   ]
 }
