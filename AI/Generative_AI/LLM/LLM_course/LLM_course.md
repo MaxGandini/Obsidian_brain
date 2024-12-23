@@ -1,0 +1,1 @@
+AKA `LLM Engineering: Master AI & Large Language Models (LLMs)` is a course by Ed Donner which covers many projects and applications of the modern ecosystem of LLMs. There's a quite comprehensive description in [[Notes week 1]] .
