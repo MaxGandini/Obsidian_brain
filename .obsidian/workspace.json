@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Generative_AI/LLM/Conversations/Gpt.md",
+                "file": "Git/obsidian_vault.git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gpt"
+              "title": "obsidian_vault.git"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Generative_AI/LLM/Conversations/Gpt.md"
+                "file": "Git/obsidian_vault.git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gpt"
+              "title": "Outline of obsidian_vault.git"
             }
           },
           {
@@ -249,16 +249,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Git/Git-basic-comm.md",
+    "Git/Git.md",
     "AI/Generative_AI/LLM/Conversations/Conversations.md",
-    "AI/Generative_AI/LLM/Conversations/Claude.md",
-    "AI/Generative_AI/LLM/Conversations/Gpt.md",
-    "AI/Generative_AI/LLM/Conversations/_Index_of_Conversations.md",
     "AI/Generative_AI/LLM/Conversations/Meta.md",
+    "AI/Generative_AI/LLM/Conversations/Gpt.md",
+    "AI/Generative_AI/LLM/Conversations/Claude.md",
+    "AI/Generative_AI/LLM/Conversations/_Index_of_Conversations.md",
     "Git/obsidian_vault.git.md",
     "AI/Generative_AI/LLM/Untitled.md",
     "AI/Generative_AI/LLM/Conversations",
-    "Git/Git-basic-comm.md",
-    "Git/Git.md",
     "AI/Generative_AI/LLM/Attention is all you need.md",
     "z_Attachments/fig5.png",
     "z_Attachments/Scfig6.png",
