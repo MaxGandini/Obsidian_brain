@@ -7,6 +7,7 @@
  [[Mathematics/Statistics/Time_series/ARIMA-X|ARIMA-X]]
  [[Mathematics/Statistics/Time_series/ARMA|ARMA]]
  [[Mathematics/Statistics/Time_series/BIC|BIC]]
+ [[Mathematics/Statistics/Time_series/Granger-Causality|Granger-Causality]]
  [[Mathematics/Statistics/Time_series/PACF|PACF]]
  [[Mathematics/Statistics/Time_series/Time series validation|Time series validation]]
  [[Mathematics/Statistics/Time_series/Time Series|Time Series]]
