@@ -250,6 +250,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "kaggle_comp/transformer.py~",
+    "kaggle_comp/transformer.py",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
     "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
     "_Index_of_Computer_science.md",
@@ -287,7 +289,6 @@
     "z_Attachments/token.png",
     "AI/Generative_AI/LLM/LLM_course/Week1/day2 EXERCISE.ipynb",
     "AI/Generative_AI/LLM/LLM_course/Week1/day3.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/_Index_of_Week1.md",
     "AI/Generative_AI/LLM/LLM_course/Week1",
     "AI/Generative_AI/LLM/Conversations",
     "z_Attachments/fig5.png",
@@ -295,7 +296,6 @@
     "z_Attachments/fig4.png",
     "z_Attachments/fig3.png",
     "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
-    "AI/Sci-Kit Learn/pipeline.py~",
     "Untitled.canvas"
   ]
 }
