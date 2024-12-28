@@ -8,6 +8,7 @@
  [[Mathematics/Statistics/Time_series/ARMA|ARMA]]
  [[Mathematics/Statistics/Time_series/BIC|BIC]]
  [[Mathematics/Statistics/Time_series/Granger-Causality|Granger-Causality]]
+ [[Mathematics/Statistics/Time_series/LLM_Time_Series|LLM_Time_Series]]
  [[Mathematics/Statistics/Time_series/PACF|PACF]]
  [[Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries|_Index_of_Python_libraries]]
  [[Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series|_Index_of_Stats_time_series]]
