@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Transfer entropy"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 331.5
   },
   "right": {
     "id": "fa22f7cbe315a6a1",
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/LLM_Time_Series.md"
+                "file": "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM_Time_Series"
+              "title": "Outline of Transfer entropy"
             }
           },
           {
@@ -226,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,47 +249,48 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
-    "kaggle_comp/transformer.py~",
-    "kaggle_comp/transformer.py",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
+    "Mathematics/Numeric_calculus/QR.md",
+    "AI/XGBoost/xgboost_random_forest.py",
     "_Index_of_Computer_science.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/Untitled.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Notes week 1.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 note.md",
-    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
-    "Mathematics/Statistics/Time_series/PACF.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/arima_toy.py",
     "Mathematics/Statistics/Time_series/arima_function.py",
-    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
-    "Mathematics/Statistics/Time_series/Python_libraries",
-    "Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series",
+    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
+    "Mathematics/Statistics/Time_series/ARMA.md",
+    "Mathematics/Statistics/Time_series/ARIMA-differencing.md",
+    "Mathematics/Statistics/Time_series/ARIMA-X.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
+    "Mathematics/Statistics/Time_series/time_series_models/ARMA.md",
+    "Mathematics/Statistics/Time_series/PACF.md",
     "Mathematics/Statistics/Time_series/Time series validation.md",
     "Mathematics/Statistics/Time_series/Time Series.md",
+    "Mathematics/Statistics/ARIMA-differencing.md",
+    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
+    "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
+    "AI/Generative_AI/LLM/Hugging Face Transformers.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
+    "Mathematics/Statistics/Time_series/BIC.md",
+    "Mathematics/Statistics/Time_series/Granger-Causality.md",
+    "Mathematics/Statistics/Time_series/time_series_models/ARIMA-differencing.md",
+    "Mathematics/Statistics/Time_series/time_series_models/_Index_of_time_series_models.md",
+    "Mathematics/Statistics/Time_series/time_series_models",
+    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
+    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
+    "AI/Generative_AI/Generative AI.md",
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Generative_AI/LLM/Large Language Models.md",
+    "kaggle_comp/transformer.py~",
+    "kaggle_comp/transformer.py",
+    "Mathematics/Statistics/Time_series/time_series_models/arima_toy.py",
+    "Mathematics/Statistics/Time_series/time_series_models/arima_function.py",
+    "Mathematics/Statistics/Time_series/Python_libraries",
+    "Mathematics/Statistics/Time_series/Stats_time_series",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network.png",
-    "kaggle_comp/analysis_entropy.py",
-    "Mathematics/Statistics/Covariance.md",
-    "Mathematics/Statistics/Time_series/Granger-Causality.md",
-    "Mathematics/Statistics/Time_series/ACF.md",
-    "Mathematics/Statistics/Correlation.md",
-    "Mathematics/Statistics/Time_series/BIC.md",
-    "Mathematics/Statistics/Time_series/AIC.md",
-    "z_Attachments/_Index_of_z_Attachments.md",
-    "AI/Generative_AI/LLM/Attention is all you need.md",
     "z_Attachments/token.png",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 EXERCISE.ipynb",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day3.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1",
-    "AI/Generative_AI/LLM/Conversations",
     "z_Attachments/fig5.png",
     "z_Attachments/Scfig6.png",
     "z_Attachments/fig4.png",
