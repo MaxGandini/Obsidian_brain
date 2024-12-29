@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LLM_Time_Series"
+              "title": "New tab"
             }
           }
         ]
@@ -250,10 +246,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
     "kaggle_comp/transformer.py~",
     "kaggle_comp/transformer.py",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
-    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
     "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Time_series/Python_libraries/Untitled.md",
     "AI/Generative_AI/LLM/LLM_course/Week1/Notes week 1.md",
@@ -295,7 +291,6 @@
     "z_Attachments/Scfig6.png",
     "z_Attachments/fig4.png",
     "z_Attachments/fig3.png",
-    "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
     "Untitled.canvas"
   ]
 }
