@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
+                "file": "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transfer entropy"
+              "title": "Patch Time Series Transformer"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md"
+                "file": "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Transfer entropy"
+              "title": "Outline of Patch Time Series Transformer"
             }
           },
           {
@@ -247,18 +247,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b4235ebf137547e6",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Time_series/time_series_models/patchtst.py",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/high_dim_scalabe_transformers.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
     "_Index_of_Computer_science.md",
-    "Mathematics/Statistics/Time_series/time_series_models/patchtst.py",
-    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
     "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md",
     "Mathematics/Statistics/Time_series/time_series_models/ARIMA-differencing.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
     "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/time_series_models/ARMA.md",
     "Mathematics/Statistics/Time_series/PACF.md",
     "Mathematics/Statistics/Time_series/Time series validation.md",
@@ -287,9 +289,7 @@
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network.png",
-    "kaggle_comp/analysis_entropy.py",
     "z_Attachments/token.png",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 EXERCISE.ipynb",
     "z_Attachments/fig5.png",
     "z_Attachments/Scfig6.png",
     "z_Attachments/fig4.png",
