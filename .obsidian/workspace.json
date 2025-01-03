@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Transformer_multivariate"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -147,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf"
+                "file": "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeXer_paper.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Transformer_multivariate"
+              "title": "Outline of TimeXer_paper"
             }
           },
           {
@@ -247,10 +245,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeXer_paper.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeMixer_Decomposable_Mul.pdf",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/ARM_LLMs_multiv.pdf",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/high_dim_scalabe_transformers.pdf",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf",
     "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
@@ -281,8 +281,6 @@
     "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
     "kaggle_comp/transformer.py~",
     "kaggle_comp/transformer.py",
-    "Mathematics/Statistics/Time_series/time_series_models/arima_toy.py",
-    "Mathematics/Statistics/Time_series/time_series_models/arima_function.py",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
