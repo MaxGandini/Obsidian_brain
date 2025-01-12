@@ -1,4 +1,4 @@
-This is a concept that's important to analyze non linear relationships between sets of variables. 
+This is a concept that's important to analyze non linear relationships between sets of time series. 
 This will be based on the link : 
 
 https://www.mdpi.com/1099-4300/21/11/1124#:~:text=Information%20flows%20can%20be%20measured,source%20time%20series%20to%20the

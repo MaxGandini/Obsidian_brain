@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md"
+                "file": "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Patch Time Series Transformer"
+              "title": "Outline of LLM_Time_Series"
             }
           },
           {
@@ -245,14 +245,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
+    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md",
     "Mathematics/Statistics/Time_series/time_series_models/patchtst.py",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/high_dim_scalabe_transformers.pdf",
-    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeMixer_Decomposable_Mul.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeXer_paper.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/ARM_LLMs_multiv.pdf",
     "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
-    "_Index_of_Computer_science.md",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/high_dim_scalabe_transformers.pdf",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate",
+    "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
+    "AI/Machine_Learning/Supervised/Regression.md",
+    "AI/Machine_Learning/Supervised/Supervised-Learning.md",
+    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
+    "Mathematics/Statistics/Time_series/time_series_models/ts_papers",
     "Mathematics/Statistics/Time_series/time_series_models/ARIMA-differencing.md",
     "AI/Generative_AI/LLM/Large Language Models.md",
     "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
@@ -270,16 +279,7 @@
     "Mathematics/Statistics/Time_series/time_series_models/_Index_of_time_series_models.md",
     "Mathematics/Statistics/Time_series/time_series_models",
     "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
-    "AI/Generative_AI/Generative AI.md",
-    "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/LLM/Transformers.md",
     "kaggle_comp/transformer.py~",
-    "kaggle_comp/transformer.py",
-    "Mathematics/Statistics/Time_series/time_series_models/arima_toy.py",
-    "Mathematics/Statistics/Time_series/time_series_models/arima_function.py",
-    "Mathematics/Statistics/Time_series/Python_libraries",
-    "Mathematics/Statistics/Time_series/Stats_time_series",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
