@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md"
+                "file": "AI/Generative_AI/LLM/LLM_course/Week1/day1.ipynb"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM_Time_Series"
+              "title": "Outline of day1"
             }
           },
           {
@@ -245,8 +245,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/day1.ipynb",
+    "01-Linux/Bash/Videos_codealong/Shell magic tricks.md",
     "_Index_of_Computer_science.md",
+    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
     "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md",
     "Mathematics/Statistics/Time_series/time_series_models/patchtst.py",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeMixer_Decomposable_Mul.pdf",
@@ -278,7 +280,6 @@
     "Mathematics/Statistics/Time_series/Granger-Causality.md",
     "Mathematics/Statistics/Time_series/time_series_models/_Index_of_time_series_models.md",
     "Mathematics/Statistics/Time_series/time_series_models",
-    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
     "kaggle_comp/transformer.py~",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
