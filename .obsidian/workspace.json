@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis/subgraph_mining.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "subgraph_mining"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -247,6 +245,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis/subgraph_mining.pdf",
     "Mathematics/Statistics/Time_series/Granger-Causality.md",
     "Mathematics/Statistics/Time_series/BIC.md",
     "Mathematics/Statistics/Time_series/PACF.md",
@@ -254,7 +253,6 @@
     "Mathematics/Statistics/Time_series/Time Series.md",
     "Mathematics/Statistics/Time_series/AIC.md",
     "Mathematics/Statistics/Time_series/ACF.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis/subgraph_mining.pdf",
     "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis",
     "_Index_of_Computer_science.md",
     "AI/Generative_AI/LLM/LLM_course/Week1/day1.ipynb",
@@ -282,7 +280,6 @@
     "Mathematics/Statistics/ARIMA-differencing.md",
     "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
     "AI/Generative_AI/LLM/Hugging Face Transformers.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",

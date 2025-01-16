@@ -200,9 +200,9 @@ for department in departments:
     color = department_colors[department]
 
     # Plot the actual values (target)
-    scatter = plt.scatter(
+    scatter = plt.scatter( 
         department_data['remainder__poblacion_total'],
-        department_data['target'],
+        department_data['target'], 
         label=f"{department} (2012-2022)",  # Add department and year-lapse to the label
         s=100,  # Size of the scatter points
         edgecolors='k',  # Black edge around points
