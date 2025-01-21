@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Polars/pl-SQL examples.md",
+                "file": "Databases/Polars/Time_series_pl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pl-SQL examples"
+              "title": "Time_series_pl"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Polars/pl-SQL examples.md"
+                "file": "Databases/Polars/Time_series_pl.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of pl-SQL examples"
+              "title": "Outline of Time_series_pl"
             }
           },
           {
@@ -219,8 +219,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Databases/Polars/Intro.md",
     "Databases/Polars/pl-SQL examples.md",
+    "Databases/Polars/Time_series_pl.md",
+    "Databases/Polars/Intro.md",
     "Databases/Polars/_Index_of_Polars.md",
     "_Index_of_Computer_science.md",
     "Databases/Polars",
@@ -254,7 +255,6 @@
     "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
-    "AI/Sci-Kit Learn/Sci-Kit Learn.md",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
