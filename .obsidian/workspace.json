@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Polars/pl-SQL examples.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pl-SQL examples"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LLM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,50 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md"
+                "file": "Databases/Polars/pl-SQL examples.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM_Time_Series"
-            }
-          },
-          {
-            "id": "d9bd8a52e14d9f7e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e76e1ad670ab6982",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "857db185761ccfd7",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "2b1d0cb61b857aff",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of pl-SQL examples"
             }
           },
           {
@@ -202,31 +166,41 @@
             }
           },
           {
-            "id": "9494e0672ac43f22",
+            "id": "813fc9498a8d2ed0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "02c2b084ffdc3ccb",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
-            "id": "d79a19ae86a6bd4c",
+            "id": "cdfe1e8347d2c6b8",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +219,30 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
+    "Databases/Polars/Intro.md",
+    "Databases/Polars/pl-SQL examples.md",
+    "Databases/Polars/_Index_of_Polars.md",
     "_Index_of_Computer_science.md",
+    "Databases/Polars",
+    "Databases/_Index_of_Databases.md",
+    "Databases",
+    "Git/obsidian_vault.git.md",
+    "Git/Git-basic-comm.md",
+    "Git/Git.md",
+    "Git/_Index_of_Git.md",
+    "01-Linux/Bash/Videos_codealong/_Index_of_Videos_codealong.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis/subgraph_mining.pdf",
+    "Mathematics/Statistics/Time_series/Granger-Causality.md",
+    "Mathematics/Statistics/Time_series/BIC.md",
+    "Mathematics/Statistics/Time_series/PACF.md",
+    "Mathematics/Statistics/Time_series/Time series validation.md",
+    "Mathematics/Statistics/Time_series/Time Series.md",
+    "Mathematics/Statistics/Time_series/AIC.md",
+    "Mathematics/Statistics/Time_series/ACF.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis",
+    "AI/Generative_AI/LLM/LLM_course/Week1/day1.ipynb",
+    "01-Linux/Bash/Videos_codealong/Shell magic tricks.md",
+    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
     "Mathematics/Statistics/Time_series/time_series_models/Patch Time Series Transformer.md",
     "Mathematics/Statistics/Time_series/time_series_models/patchtst.py",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/TimeMixer_Decomposable_Mul.pdf",
@@ -255,31 +251,10 @@
     "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/high_dim_scalabe_transformers.pdf",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate",
     "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers",
-    "Mathematics/Statistics/Time_series/time_series_models/ARIMA-differencing.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
-    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
-    "Mathematics/Statistics/Time_series/time_series_models/ARMA.md",
-    "Mathematics/Statistics/Time_series/PACF.md",
-    "Mathematics/Statistics/Time_series/Time series validation.md",
-    "Mathematics/Statistics/Time_series/Time Series.md",
-    "Mathematics/Statistics/ARIMA-differencing.md",
-    "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
-    "AI/Generative_AI/LLM/Hugging Face Transformers.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
-    "Mathematics/Statistics/Time_series/BIC.md",
-    "Mathematics/Statistics/Time_series/Granger-Causality.md",
-    "Mathematics/Statistics/Time_series/time_series_models/_Index_of_time_series_models.md",
-    "Mathematics/Statistics/Time_series/time_series_models",
-    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
-    "kaggle_comp/transformer.py~",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
