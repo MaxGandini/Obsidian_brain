@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Polars/pl-SQL examples.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pl-SQL examples"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/obsidian_vault.git.md"
+                "file": "Databases/Polars/pl-SQL examples.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian_vault.git"
+              "title": "Outline of pl-SQL examples"
             }
           },
           {
@@ -215,12 +219,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Databases/Polars/Intro.md",
+    "Databases/Polars/pl-SQL examples.md",
+    "Databases/Polars/_Index_of_Polars.md",
+    "_Index_of_Computer_science.md",
+    "Databases/Polars",
+    "Databases/_Index_of_Databases.md",
+    "Databases",
     "Git/obsidian_vault.git.md",
     "Git/Git-basic-comm.md",
     "Git/Git.md",
     "Git/_Index_of_Git.md",
     "01-Linux/Bash/Videos_codealong/_Index_of_Videos_codealong.md",
-    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Time_series/Stats_time_series/time_series_analysis/subgraph_mining.pdf",
     "Mathematics/Statistics/Time_series/Granger-Causality.md",
     "Mathematics/Statistics/Time_series/BIC.md",
@@ -241,16 +251,10 @@
     "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
     "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/Transformer_multivariate.pdf",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate/high_dim_scalabe_transformers.pdf",
-    "Mathematics/Statistics/Time_series/time_series_models/ts_papers/multivariate",
     "AI/Machine_Learning/Supervised/Random Forest Regressor.md",
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Supervised-Learning.md",
     "AI/Sci-Kit Learn/Sci-Kit Learn.md",
-    "Mathematics/Statistics/Time_series/time_series_models/ARIMA-differencing.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
-    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
