@@ -1,0 +1,2 @@
+,num_blocks,n_epochs,input_chunk_length,hidden_size,ff_size,output_chunk_length,use_reversible_instance_norm,random_state,pl_trainer_kwargs,rmse
+3,2,10,120,15,10,30,True,989,"{'accelerator': 'gpu', 'devices': [0]}",206.6769810592024

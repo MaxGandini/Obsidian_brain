@@ -8,6 +8,7 @@
  [[Databases/SQL/JOIN|JOIN]]
  [[Databases/SQL/Postgresql managing|Postgresql managing]]
  [[Databases/SQL/PostgreSQL|PostgreSQL]]
+ [[Databases/SQL/SELECT|SELECT]]
  [[Databases/SQL/SQL_database_1.py|SQL_database_1.py]]
  [[Databases/SQL/SQL_database.py|SQL_database.py]]
  [[Databases/SQL/SQL_first.py|SQL_first.py]]

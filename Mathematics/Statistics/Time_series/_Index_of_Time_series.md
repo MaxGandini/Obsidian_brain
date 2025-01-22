@@ -3,6 +3,7 @@
  [[Mathematics/Statistics/Time_series/AIC|AIC]]
  [[Mathematics/Statistics/Time_series/BIC|BIC]]
  [[Mathematics/Statistics/Time_series/Granger-Causality|Granger-Causality]]
+ [[Mathematics/Statistics/Time_series/Master_time_series_course/_Index_of_Master_time_series_course|_Index_of_Master_time_series_course]]
  [[Mathematics/Statistics/Time_series/PACF|PACF]]
  [[Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries|_Index_of_Python_libraries]]
  [[Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series|_Index_of_Stats_time_series]]

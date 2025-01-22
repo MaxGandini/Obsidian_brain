@@ -12,4 +12,4 @@ Polars is written in Rust which gives it C/C++ performance and allows it to full
 
 personal Note:
 
-The query structure is key for understanding polars's advantage over pandas. It allows for integration with [[SQL]] like commands and optimizes, the memory usage. 
+The query structure is key for understanding polars's advantage over pandas. It allows for integration with [[SQL]] like commands and optimizes, the memory usage. [[pl-SQL examples]]
