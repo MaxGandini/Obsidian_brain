@@ -1,0 +1,9 @@
+,13
+num_stacks,30.0
+num_layers,4.0
+num_blocks,2.0
+n_epochs,5.0
+layer_widths,256.0
+input_chunk_length,96.0
+batch_size,128.0
+rmse,24.293783189954407
