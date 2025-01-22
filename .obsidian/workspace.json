@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
+                "file": "_Index_of_Computer_science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transfer entropy"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LLM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,50 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Transfer entropy"
-            }
-          },
-          {
-            "id": "d9bd8a52e14d9f7e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e76e1ad670ab6982",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "857db185761ccfd7",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "2b1d0cb61b857aff",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -206,7 +166,17 @@
             }
           },
           {
-            "id": "9494e0672ac43f22",
+            "id": "813fc9498a8d2ed0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "02c2b084ffdc3ccb",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -216,7 +186,7 @@
             }
           },
           {
-            "id": "d79a19ae86a6bd4c",
+            "id": "cdfe1e8347d2c6b8",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -226,65 +196,65 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "homepage:Open homepage": false,
+      "juggl:Juggl global graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false,
-      "juggl:Juggl global graph": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Mathematics/Numeric_calculus/QR.md",
-    "AI/XGBoost/xgboost_random_forest.py",
-    "_Index_of_Computer_science.md",
+    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
     "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
+    "_Index_of_Computer_science.md",
+    "Databases/Polars/Time_series_pl.md",
+    "SQL/Relational_Algebra_SQL/_Index_of_Relational_Algebra_SQL.md",
+    "SQL/Relational_Algebra_SQL/Untitled.md",
+    "SQL/Relational_Algebra_SQL/SELECT.md",
+    "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
+    "SQL/_Index_of_SQL.md",
+    "SQL/UPDATE.md",
+    "SQL/TRANSACTIONS.md",
+    "SQL/SQL_first.py",
+    "SQL/SQL_database_1.py",
+    "SQL/SQL_database.py",
+    "SQL/SQL.md",
+    "SQL/Relational_Algebra_SQL",
+    "SQL/Postgresql managing.md",
+    "SQL/PostgreSQL.md",
+    "SQL/JOIN.md",
+    "SQL/INSERT.md",
+    "SQL/DROP.md",
+    "SQL/DELETE.md",
+    "SQL/CREATE.md",
+    "SQL/BigQuery.md",
+    "SQL/AGGREGATE.md",
+    "SQL",
     "Mathematics/Statistics/Time_series/arima_toy.py",
     "Mathematics/Statistics/Time_series/arima_function.py",
     "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
     "Mathematics/Statistics/Time_series/ARMA.md",
     "Mathematics/Statistics/Time_series/ARIMA-differencing.md",
     "Mathematics/Statistics/Time_series/ARIMA-X.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
-    "Mathematics/Statistics/Time_series/time_series_models/ARMA.md",
-    "Mathematics/Statistics/Time_series/PACF.md",
-    "Mathematics/Statistics/Time_series/Time series validation.md",
-    "Mathematics/Statistics/Time_series/Time Series.md",
-    "Mathematics/Statistics/ARIMA-differencing.md",
-    "Mathematics/Statistics/Time_series/time_series_models/LLM_Time_Series.md",
-    "Mathematics/Numeric_calculus/Non-linear approximations/Powerlaw.md",
-    "AI/Generative_AI/LLM/Hugging Face Transformers.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
-    "Mathematics/Statistics/Time_series/BIC.md",
-    "Mathematics/Statistics/Time_series/Granger-Causality.md",
-    "Mathematics/Statistics/Time_series/time_series_models/ARIMA-differencing.md",
-    "Mathematics/Statistics/Time_series/time_series_models/_Index_of_time_series_models.md",
-    "Mathematics/Statistics/Time_series/time_series_models",
-    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
-    "AI/Generative_AI/Generative AI.md",
-    "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/LLM/Large Language Models.md",
-    "kaggle_comp/transformer.py~",
-    "kaggle_comp/transformer.py",
-    "Mathematics/Statistics/Time_series/time_series_models/arima_toy.py",
-    "Mathematics/Statistics/Time_series/time_series_models/arima_function.py",
-    "Mathematics/Statistics/Time_series/Python_libraries",
-    "Mathematics/Statistics/Time_series/Stats_time_series",
+    "Databases/SQL/SQL_first.py",
+    "Databases/SQL/SQL_database_1.py",
+    "Databases/SQL/SQL_database.py",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
