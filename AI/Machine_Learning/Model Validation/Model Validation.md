@@ -14,7 +14,7 @@ Self-made examples:
 
 Where I use [[Scikit-Pipeline]] and [[Cross Validation]]
 
-We can divide the model validation again in [[Regression]] and [[Classification]] scores:
+We can divide the model validation again in [[Regression]] and [[AI/Machine_Learning/Classification]] scores:
 #### **[[Regression]] Metrics**
 
 1. **R² (R-squared)**
@@ -72,7 +72,7 @@ We can divide the model validation again in [[Regression]] and [[Classification]
 
 ---
 
-#### **[[Classification]] Metrics**
+#### **[[AI/Machine_Learning/Classification]] Metrics**
 
 Another way of thinking this can be found in [[Evaluation methods]] inside [[Supervised-Learning]]. As the confusion matrix cannot be used in unsupervised learning.
 

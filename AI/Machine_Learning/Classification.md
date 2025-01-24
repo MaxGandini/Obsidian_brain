@@ -5,3 +5,4 @@ In the context of machine learning, classification consists in a set of statisti
 - [[Support Vector Machine]] (SVM)
 - [[Decision Tree Classifier]] [[Random Forest]]
 - [[Naive Bayes]]
+

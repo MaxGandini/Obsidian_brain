@@ -5,5 +5,6 @@ Some conventional examples used in machine learning for time series:
 - [[ARIMA-X]]
 - [[ARMA]]
 - [[Holt-Winters]] 
+- [[RNN]] like LSTM.
 
-The typical understanding of "time series" applications in [[Machine Learning]] is that this series of data points indexed in time order, has a [[Correlation]] . The extent of that correlation can be limited to the previous step, or 
+The typical understanding of "time series" applications in [[Machine Learning]] is that this series of data points indexed in time order, has a [[Correlation]] . The extent of that correlation can be limited to the previous step, or it can reach up to many steps, introducing a typical variable called *lag*.
