@@ -1,1 +1,0 @@
-In database theory, relational algebra is a theory that uses relational algebra to model data and define queries with well defined structure.
