@@ -40,5 +40,7 @@ Types of services:
 - [[Azure Computations]]
 - [[Azure Databricks]] 
 - [[AWS]]
-- [[Google Cloud]]
+- [[Google Cloud]].
+
+
 
