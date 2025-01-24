@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time_series/Master_time_series_course/Bitcoin data as intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bitcoin data as intro"
+              "title": "New tab"
             }
           }
         ]
@@ -219,6 +215,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Time_series/Master_time_series_course/Bitcoin data as intro.md",
     "conflict-files-obsidian-git.md",
     "Mathematics/Statistics/Time_series/_Index_of_Time_series.md",
     "Mathematics/Statistics/Time_series/Master_time_series_course/data/Python - Time Series Forecasting/Advanced Content for Time Series /Amazon AutoGluon/AutogluonModels/ag-20241004_112643/models/RecursiveTabular/W0/tabular_predictor/utils/attr/NeuralNetTorch/y_pred_proba_val.pkl",
@@ -235,7 +232,6 @@
     "Mathematics/Statistics/Time_series/Master_time_series_course/Folder_ipynb.md",
     "Time_series/Master_time_series_course/data/_Index_of_data.md",
     "Time_series/Master_time_series_course/Drive_notebooks.md",
-    "Time_series/Master_time_series_course/Bitcoin data as intro.md",
     "Time_series/Master_time_series_course/_Index_of_Master_time_series_course.md",
     "Time_series/BIC.md",
     "Time_series/ARIMA-differencing.md",

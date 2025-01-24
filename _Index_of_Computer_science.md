@@ -5,10 +5,6 @@
  [[AI/_Index_of_AI|_Index_of_AI]]
  [[Azure/_Index_of_Azure|_Index_of_Azure]]
  [[Cloud/_Index_of_Cloud|_Index_of_Cloud]]
-<<<<<<< HEAD
- [[Databases/_Index_of_Databases|_Index_of_Databases]]
-=======
->>>>>>> origin/master
  [[datasets/_Index_of_datasets|_Index_of_datasets]]
  [[Git/_Index_of_Git|_Index_of_Git]]
  [[home/_Index_of_home|_Index_of_home]]
