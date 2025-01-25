@@ -1,5 +1,6 @@
 The optimization of a neural network is a gradient descent problem.
 
+(At the time of writing this I hadn't seen an amazing video by Artem Kisanov on backpropagation https://youtu.be/SmZmBKc7Lrs)
 We define the cost function as:
 
 $$C({W}) = \sum_{training} (f(X,W)-y_{data})^2$$
@@ -10,7 +11,7 @@ $$ \vec{W'}  = \vec{W} - \eta  \vec{\nabla } C$$
 ![[gradient.png]]
 
 
-Gradient Descent is an optimization algorithm used to minimize the cost function in neural networks by iteratively adjusting the weights to reduce error.
+Gradient Descent is an optimization algorithm used to minimize the cost or loss function in neural networks by iteratively adjusting the weights to reduce error.
 
 For a neural network with a cost function $C$, Gradient Descent updates the weights $w$ and biases $b$ to minimize $C$.
 
@@ -24,8 +25,9 @@ where:
 - $\alpha$ is the **learning rate** (a small positive constant),
 - $\frac{\partial C}{\partial w}$ is the **partial derivative** of the cost function with respect to weight $w$,
 - $\frac{\partial C}{\partial b}$ is the **partial derivative** of the cost function with respect to bias $b$.
-F
+
 ![[neural_gradient.png]]
+
 
 ### Cost Function and Gradient
 
@@ -58,11 +60,3 @@ In practice, **Mini-Batch Gradient Descent** is often used. Instead of computing
 If $B$ is a batch of examples, the gradient for the batch is:
 
 $$\nabla C = \frac{1}{|B|} \sum_{i \in B} \nabla C_i$$
-
-### Summary
-
-- **Gradient Descent** adjusts weights and biases in the opposite direction of the gradient to minimize $C$.
-- The **learning rate** $\alpha$ controls the step size.
-- **Mini-Batch Gradient Descent** further optimizes efficiency and stability by averaging gradients over a batch.
-
-This iterative update process is foundational for training neural networks effectively.

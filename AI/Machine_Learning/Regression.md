@@ -2,6 +2,7 @@ A regression analysis in the context of statistics is a method for investigating
 It's objective is to make predictions about the dependent variable based on a set of regressors.
 
 Within the regression category we have :
+
 - [[Linear Regression]]
 - [[Logistic Regression]]
 - [[Polynomial Regression]]

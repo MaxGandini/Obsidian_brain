@@ -15,12 +15,12 @@ Algorithm:
 	minimum number of samples in a node
 	node purity: it contains samples of only one class.
 - Prediction:
-	when the model is [[AI/Machine_Learning/Supervised/Classification]] , a sample follows the branches based on the features and eventually reaches a leaf.
+	when the model is [[Classification]] , a sample follows the branches based on the features and eventually reaches a leaf.
 	When doing [[Regression]] the predicted value is the average of the target variable in the leaf node.
 
 Typical splitting criteria are:
 
-- [[AI/Machine_Learning/Supervised/Classification]] : 
+- [[Classification]] : 
 	gini impurity
 	[[Entropy]]
 - [[Regression]] : 

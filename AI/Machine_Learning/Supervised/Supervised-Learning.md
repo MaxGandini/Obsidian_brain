@@ -7,6 +7,6 @@ This nomenclature of x and y gives the idea that you have a certain target chara
 
 After this, you have a fit, which returns the adjusted set of parameters you give to the algorithm, and a trained model which can be fed new data.
 
-Typical examples are [[Regression]] and [[AI/Machine_Learning/Supervised/Classification]] models. Although there are many classification examples of [[Unsupervised-Learning]] .
+Typical examples are [[Regression]] and [[Classification]] models. Although there are many classification examples of [[Unsupervised-Learning]] .
 Regression models seek to predict a continuous variable, whereas classification predicts discrete values (It can be a boolean value, up to a discretized continuous variable depending on the model).
 

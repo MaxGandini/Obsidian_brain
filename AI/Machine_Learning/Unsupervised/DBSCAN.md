@@ -1,3 +1,5 @@
+Imagine you have a 3D space with some clouds of points, and you sweep the space using a sphere of radius $\epsilon$, while writing down how many points were into the sphere for each step.
+
 DBSCAN groups points into clusters based on two key parameters: 
 
 - $\epsilon$ which is the maximum distance between two points to be considered neighbors.
