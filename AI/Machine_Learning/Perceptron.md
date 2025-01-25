@@ -21,4 +21,4 @@ AND gate:
 | 1   | 1     | 1<br> |
 By adjusting $b$ you can get an AND and an OR gate. But it was shown that and XOR gate can never be made with a unique line *z*. An example can be found in [[Perceptron.py]] .
 
-In the context of neural nets, the perceptron is an artificial neuron([[Nodes]]) using the heaviside step function as the activation function. The [[Universal approximation theorem]] can be use to show that using a [[logistic function]] as an approximation will also work.
+In the context of neural nets, the perceptron is an artificial neuron ([[Nodes]]) using the heaviside step function as the activation function. The [[Universal approximation theorem]] can be use to show that using a [[logistic function]] as an approximation will also work.

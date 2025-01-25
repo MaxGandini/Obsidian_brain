@@ -3,7 +3,6 @@
  [[01-Linux/_Index_of_01-Linux|_Index_of_01-Linux]]
  [[01-Organization and motivation|01-Organization and motivation]]
  [[AI/_Index_of_AI|_Index_of_AI]]
- [[Artem_Kisanov|Artem_Kisanov]]
  [[Azure/_Index_of_Azure|_Index_of_Azure]]
  [[Cloud/_Index_of_Cloud|_Index_of_Cloud]]
  [[datasets/_Index_of_datasets|_Index_of_datasets]]
