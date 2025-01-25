@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time_series/Time Series.md",
+                "file": "_Index_of_Computer_science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time Series"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time_series/Time Series.md"
+                "file": "Time_series/Master_time_series_course/Bitcoin data as intro.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Time Series"
+              "title": "Outline of Bitcoin data as intro"
             }
           },
           {
@@ -219,6 +219,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Time_series/Master_time_series_course/Bitcoin data as intro.md",
+    "Time_series/Time Series.md",
     "AI/Machine_Learning/RNN.md",
     "AI/Machine_Learning/Supervised-Unsupervised Learning.md",
     "AI/Machine_Learning/Perceptron.md",
@@ -230,7 +232,6 @@
     "AI/Machine_Learning/Classification.md",
     "AI/Machine_Learning/Regression.md",
     "_Index_of_Computer_science.md",
-    "Time_series/Master_time_series_course/Bitcoin data as intro.md",
     "conflict-files-obsidian-git.md",
     "Mathematics/Statistics/Time_series/_Index_of_Time_series.md",
     "Mathematics/Statistics/Time_series/Master_time_series_course/data/Python - Time Series Forecasting/Advanced Content for Time Series /Amazon AutoGluon/AutogluonModels/ag-20241004_112643/models/RecursiveTabular/W0/tabular_predictor/utils/attr/NeuralNetTorch/y_pred_proba_val.pkl",
@@ -254,7 +255,6 @@
     "Time_series/AIC.md",
     "Time_series/Time series validation.md",
     "Time_series/PACF.md",
-    "Databases/SQL/_Index_of_SQL.md",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
