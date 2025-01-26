@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python/core/Types.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Types"
             }
           }
         ]
@@ -145,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python.md"
+                "file": "Python/core/Types.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Python"
+              "title": "Outline of Types"
             }
           },
           {
@@ -215,6 +219,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Python/core/Types.md",
+    "_Index_of_Computer_science.md",
     "Python/Python.md",
     "Python/Type hinting system.md",
     "Python/Iterable.md",
@@ -240,8 +246,6 @@
     "AI/Machine_Learning/Supervised/Linear Regression.md",
     "AI/Machine_Learning/Supervised/GBM.md",
     "AI/Machine_Learning/Supervised/Evaluation methods.md",
-    "AI/Machine_Learning/Supervised/Decision_trees.md",
-    "AI/Machine_Learning/Supervised/Logistic Regression.md",
     "AI/Machine_Learning/Unsupervised/k-means.py",
     "AI/youtube/Artem_Kisanov",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
