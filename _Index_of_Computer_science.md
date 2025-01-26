@@ -11,7 +11,6 @@
  [[Mathematics/_Index_of_Mathematics|_Index_of_Mathematics]]
  [[Neovim-Lua/_Index_of_Neovim-Lua|_Index_of_Neovim-Lua]]
  [[notes/_Index_of_notes|_Index_of_notes]]
- [[Programming_general/_Index_of_Programming_general|_Index_of_Programming_general]]
  [[Programs/_Index_of_Programs|_Index_of_Programs]]
  [[Projects_AI/_Index_of_Projects_AI|_Index_of_Projects_AI]]
  [[Python/_Index_of_Python|_Index_of_Python]]
