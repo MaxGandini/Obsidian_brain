@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "datasets/checker.py",
+                "file": "_Index_of_Computer_science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "checker"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datasets/checker.py"
+                "file": "_Index_of_Computer_science.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of checker"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -217,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4235ebf137547e6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "datasets/checker.py",
     "kaggle/rohlik.py~",
     "kaggle/4913",
     "kaggle/rohlik.py",
@@ -254,7 +255,6 @@
     "AI/youtube/Artem_Kisanov",
     "AI/Machine_Learning/Unsupervised/k-means1.py",
     "AI/Machine_Learning/Supervised/Random_forest_regressor.py",
-    "AI/Machine_Learning/Supervised/logistic_regression.py",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
