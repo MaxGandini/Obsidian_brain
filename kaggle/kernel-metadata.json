@@ -1,0 +1,15 @@
+{
+  "id": "maximilianogandini/rohlik_kernel",
+  "title": "rohlik_kernel",
+  "code_file": "rohlik.py",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2"],
+  "kernel_sources": [],
+  "model_sources": []
+}
