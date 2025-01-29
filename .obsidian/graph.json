@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 262399
       }
+    },
+    {
+      "query": "path:Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 7264040
+      }
     }
   ],
   "collapse-display": true,
