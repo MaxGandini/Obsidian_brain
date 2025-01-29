@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python/Intrpreter/pyenv.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pyenv"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Python/Intrpreter/pyenv.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of pyenv"
             }
           },
           {
@@ -213,22 +219,28 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Python/virtual_environments/Poetry.md",
+    "Python/Intrpreter/pyenv.md",
+    "Python/Intrpreter/_Index_of_Intrpreter.md",
+    "Python/Intrpreter",
+    "Python/virtual_environments/venv.md",
+    "Python/virtual_environments/_Index_of_virtual_environments.md",
+    "Python/Untitled.md",
+    "Python/virtual_environments",
+    "_Index_of_Computer_science.md",
     "kaggle/rohlik/rohlik.py",
     "kaggle/rohlik/kernel-metadata.json",
     "kaggle/rohlik",
-    "_Index_of_Computer_science.md",
     "datasets/checker.py",
     "kaggle/rohlik.py~",
     "kaggle/4913",
     "kaggle/rohlik.py",
     "kaggle/kernel-metadata.json",
-    "kaggle",
     "Python/core/Types.md",
     "Python/Python.md",
     "Python/Type hinting system.md",
     "Python/Iterable.md",
     "Python/Generator.md",
-    "Projects_AI/supply_chain_analysis.py",
     "Projects_AI/Supply Chain Optimization.md",
     "Projects_AI/_Index_of_Projects_AI.md",
     "Programs/TCP.md",
@@ -243,12 +255,6 @@
     "Time_series/ACF.md",
     "Time_series/Master_time_series_course/_Index_of_Master_time_series_course.md",
     "Time_series/Master_time_series_course/Bitcoin data as intro.md",
-    "AI/Machine_Learning/Perceptron.md",
-    "AI/AI.md",
-    "AI/AI - Important.md",
-    "AI/Machine_Learning/Supervised/Linear Regression.md",
-    "AI/Machine_Learning/Supervised/GBM.md",
-    "AI/Machine_Learning/Unsupervised/k-means.py",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
