@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Computer_science.md",
+                "file": "Python/Intrpreter/pyenv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "pyenv"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Computer_science.md"
+                "file": "Python/Intrpreter/pyenv.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
+              "title": "Outline of pyenv"
             }
           },
           {
@@ -219,7 +219,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "z_Attachments/_Index_of_z_Attachments.md",
     "Python/Intrpreter/pyenv.md",
+    "z_Attachments/pyenv.png",
+    "_Index_of_Computer_science.md",
     "Python/virtual_environments/Poetry.md",
     "Python/Intrpreter/_Index_of_Intrpreter.md",
     "Python/Intrpreter",
@@ -227,7 +230,6 @@
     "Python/virtual_environments/_Index_of_virtual_environments.md",
     "Python/Untitled.md",
     "Python/virtual_environments",
-    "_Index_of_Computer_science.md",
     "kaggle/rohlik/rohlik.py",
     "kaggle/rohlik/kernel-metadata.json",
     "kaggle/rohlik",
@@ -254,7 +256,6 @@
     "Time_series/PACF.md",
     "Time_series/ACF.md",
     "Time_series/Master_time_series_course/_Index_of_Master_time_series_course.md",
-    "Time_series/Master_time_series_course/Bitcoin data as intro.md",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/multivariate_te_network_all.png",
     "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
@@ -264,7 +265,6 @@
     "z_Attachments/fig5.png",
     "z_Attachments/Scfig6.png",
     "z_Attachments/fig4.png",
-    "z_Attachments/fig3.png",
     "Untitled.canvas"
   ]
 }
