@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Index_of_Computer_science.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Index_of_Computer_science"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -149,10 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Computer_science.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
+              "title": "Outline"
             }
           },
           {
@@ -219,11 +218,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Python/virtual_environments/Jupyter kernels.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day5.py~",
     "AI/Generative_AI/LLM/LLM_course/Week1/day5.py",
-    "Python/_Index_of_Python.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/day5.py~",
     "_Index_of_Computer_science.md",
+    "Python/virtual_environments/Jupyter kernels.md",
+    "Python/_Index_of_Python.md",
     "Python/virtual_environments/Poetry.md",
     "Python/virtual_environments/venv.md",
     "Python/Intrpreter/pyenv.md",
