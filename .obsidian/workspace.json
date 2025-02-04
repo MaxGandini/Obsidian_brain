@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
+                "file": "AI/Generative_AI/LLM/Conversations/Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM_Time_Series"
+              "title": "Claude"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Statistics/Time_series/LLM_Time_Series.md"
+                "file": "AI/Generative_AI/LLM/Conversations/Claude.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM_Time_Series"
+              "title": "Outline of Claude"
             }
           },
           {
@@ -230,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,11 +249,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_Index_of_Computer_science.md",
+    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
     "kaggle_comp/transformer.py~",
     "kaggle_comp/transformer.py",
     "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
-    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
-    "_Index_of_Computer_science.md",
     "Mathematics/Statistics/Time_series/Python_libraries/Untitled.md",
     "AI/Generative_AI/LLM/LLM_course/Week1/Notes week 1.md",
     "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
@@ -295,7 +294,6 @@
     "z_Attachments/Scfig6.png",
     "z_Attachments/fig4.png",
     "z_Attachments/fig3.png",
-    "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
     "Untitled.canvas"
   ]
 }
