@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "_Index_of_Computer_science"
             }
-          },
-          {
-            "id": "e3fc5b5cd4fd4da0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 270.5
   },
   "right": {
     "id": "fa22f7cbe315a6a1",
@@ -163,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_Index_of_Computer_science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -246,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,54 +251,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3fc5b5cd4fd4da0",
+  "active": "852f116b8ddd3de5",
   "lastOpenFiles": [
-    "_Index_of_Computer_science.md",
-    "AI/Generative_AI/LLM/Conversations/Claude.md",
-    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
-    "kaggle_comp/transformer.py~",
-    "kaggle_comp/transformer.py",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/Untitled.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Notes week 1.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 note.md",
-    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
-    "Mathematics/Statistics/Time_series/PACF.md",
-    "Mathematics/Statistics/Time_series/arima_toy.py",
-    "Mathematics/Statistics/Time_series/arima_function.py",
-    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
-    "Mathematics/Statistics/Time_series/Python_libraries",
-    "Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series",
-    "Mathematics/Statistics/Time_series/Time series validation.md",
-    "Mathematics/Statistics/Time_series/Time Series.md",
-    "z_Attachments/multivariate_te_network.png",
-    "z_Attachments/multivariate_te_network_all.png",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
-    "Mathematics/Statistics/Time_series/multivariate_te_network_1.png",
-    "Mathematics/Statistics/Time_series/multivariate_te_network_all.png",
-    "Mathematics/Statistics/Time_series/multivariate_te_network.png",
-    "kaggle_comp/analysis_entropy.py",
-    "Mathematics/Statistics/Covariance.md",
-    "Mathematics/Statistics/Time_series/Granger-Causality.md",
-    "Mathematics/Statistics/Time_series/ACF.md",
-    "Mathematics/Statistics/Correlation.md",
-    "Mathematics/Statistics/Time_series/BIC.md",
-    "Mathematics/Statistics/Time_series/AIC.md",
-    "z_Attachments/_Index_of_z_Attachments.md",
-    "AI/Generative_AI/LLM/Attention is all you need.md",
     "z_Attachments/token.png",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 EXERCISE.ipynb",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day3.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1",
-    "AI/Generative_AI/LLM/Conversations",
+    "z_Attachments/multivariate_te_network_all.png",
+    "z_Attachments/multivariate_te_network.png",
     "z_Attachments/fig5.png",
-    "z_Attachments/Scfig6.png",
     "z_Attachments/fig4.png",
     "z_Attachments/fig3.png",
+    "kaggle_comp/transformer.py",
+    "kaggle_comp/analysis_entropy.py",
+    "Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series",
+    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
+    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
+    "Mathematics/Statistics/Time_series/Python_libraries",
+    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
+    "Mathematics/Statistics/Time_series/Granger-Causality.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/day2 note.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/day2 EXERCISE.ipynb",
+    "AI/Generative_AI/LLM/LLM_course/Week1/day1.ipynb",
+    "AI/Generative_AI/LLM/LLM_course/Week1/_Index_of_Week1.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/Notes week 1.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
+    "AI/Generative_AI/LLM/LLM_course/Week1",
+    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
+    "AI/Generative_AI/LLM/Conversations/_Index_of_Conversations.md",
+    "AI/Generative_AI/LLM/Conversations/Meta.md",
+    "AI/Generative_AI/LLM/Conversations/Gpt.md",
+    "AI/Generative_AI/LLM/Conversations/Conversations.md",
+    "AI/Generative_AI/LLM/Conversations/Claude.md",
+    "AI/Generative_AI/LLM/Conversations",
+    "AI/Generative_AI/LLM/Attention is all you need.md",
+    "AI/Generative_AI/LLM/Transformers.md",
+    "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
+    "AI/Sci-Kit Learn/pipeline.py~",
+    "AI/Generative_AI/LLM/NLP.md",
+    "AI/Generative_AI/_Index_of_Generative_AI.md",
+    "AI/Generative_AI/Intensive gen AI course.md",
+    "AI/Generative_AI/Generative AI.md",
+    "Git/obsidian_vault.git.md",
+    "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png",
+    "z_Attachments/transformer.png",
+    "z_Attachments/uri.png",
+    "z_Attachments/data_azure.svg",
+    "z_Attachments/data_azure.png",
     "Untitled.canvas"
   ]
 }
