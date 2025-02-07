@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bash 01 syntax_follow_along"
+              "title": "Backlinks"
             }
           },
           {
@@ -145,28 +144,13 @@
             }
           },
           {
-            "id": "43463223e29a4950",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_Index_of_Computer_science.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of _Index_of_Computer_science"
-            }
-          },
-          {
             "id": "d9bd8a52e14d9f7e",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -175,8 +159,22 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "43463223e29a4950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -251,7 +249,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "852f116b8ddd3de5",
   "lastOpenFiles": [
     "_Index_of_Computer_science.md",
     "kaggle_comp/analysis.py",
