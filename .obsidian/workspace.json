@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Linux/Bash/Bash 01 syntax_follow_along.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bash 01 syntax_follow_along"
+              "title": "Backlinks"
             }
           },
           {
@@ -145,6 +144,26 @@
             }
           },
           {
+            "id": "d9bd8a52e14d9f7e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e76e1ad670ab6982",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
             "id": "43463223e29a4950",
             "type": "leaf",
             "state": {
@@ -157,26 +176,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of _Index_of_Computer_science"
-            }
-          },
-          {
-            "id": "d9bd8a52e14d9f7e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e76e1ad670ab6982",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -251,54 +250,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "852f116b8ddd3de5",
   "lastOpenFiles": [
-    "_Index_of_Computer_science.md",
+    "_Index_of_Obsidian_brain.md",
+    "kaggle_comp/transformer.py",
+    "kaggle_comp/analysis_entropy.py",
+    "kaggle_comp/Jane_street_time_series.py",
+    "SQL/Relational_Algebra_SQL/_Index_of_Relational_Algebra_SQL.md",
+    "SQL/Relational_Algebra_SQL/Untitled.md",
+    "SQL/Relational_Algebra_SQL/SELECT.md",
+    "SQL/Relational_Algebra_SQL/Relational algebra - SQL.md",
+    "SQL/_Index_of_SQL.md",
+    "SQL/UPDATE.md",
+    "SQL/TRANSACTIONS.md",
+    "SQL/SQL_first.py",
+    "SQL/SQL_database_1.py",
+    "SQL/SQL_database.py",
+    "SQL/SQL.md",
+    "SQL/Relational_Algebra_SQL",
+    "SQL/Postgresql managing.md",
+    "SQL/PostgreSQL.md",
+    "SQL/JOIN.md",
+    "SQL/INSERT.md",
+    "SQL/DROP.md",
+    "SQL/DELETE.md",
+    "SQL/CREATE.md",
+    "SQL/BigQuery.md",
+    "SQL/AGGREGATE.md",
+    "SQL",
+    "Programming_general/_Index_of_Programming_general.md",
+    "Programming_general",
+    "Mathematics/Statistics/Time_series/arima_toy.py",
+    "Mathematics/Statistics/Time_series/Time series validation.md",
+    "Mathematics/Statistics/Time_series/Time Series.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
+    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
+    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
+    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
     "z_Attachments/token.png",
+    "z_Attachments/pyenv.png",
     "z_Attachments/multivariate_te_network_all.png",
     "z_Attachments/multivariate_te_network.png",
     "z_Attachments/fig5.png",
     "z_Attachments/fig4.png",
     "z_Attachments/fig3.png",
-    "kaggle_comp/transformer.py",
-    "kaggle_comp/analysis_entropy.py",
-    "Mathematics/Statistics/Time_series/Stats_time_series/_Index_of_Stats_time_series.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Transfer entropy.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series/Theoretical-Introduction.md",
-    "Mathematics/Statistics/Time_series/Stats_time_series",
-    "Mathematics/Statistics/Time_series/Python_libraries/_Index_of_Python_libraries.md",
-    "Mathematics/Statistics/Time_series/Python_libraries/IDTxl.md",
-    "Mathematics/Statistics/Time_series/Python_libraries",
-    "Mathematics/Statistics/Time_series/LLM_Time_Series.md",
-    "Mathematics/Statistics/Time_series/Granger-Causality.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 note.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day2 EXERCISE.ipynb",
-    "AI/Generative_AI/LLM/LLM_course/Week1/day1.ipynb",
-    "AI/Generative_AI/LLM/LLM_course/Week1/_Index_of_Week1.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Technical intro.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Notes week 1.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1/Frontier models.md",
-    "AI/Generative_AI/LLM/LLM_course/Week1",
-    "AI/Generative_AI/LLM/LLM_course/LLM_course.md",
-    "AI/Generative_AI/LLM/Conversations/_Index_of_Conversations.md",
-    "AI/Generative_AI/LLM/Conversations/Meta.md",
-    "AI/Generative_AI/LLM/Conversations/Gpt.md",
-    "AI/Generative_AI/LLM/Conversations/Conversations.md",
-    "AI/Generative_AI/LLM/Conversations/Claude.md",
-    "AI/Generative_AI/LLM/Conversations",
-    "AI/Generative_AI/LLM/Attention is all you need.md",
-    "AI/Generative_AI/LLM/Transformers.md",
-    "AI/Machine_Learning/Supervised/Random_forest_regressor.py~",
-    "AI/Sci-Kit Learn/pipeline.py~",
-    "AI/Generative_AI/LLM/NLP.md",
-    "AI/Generative_AI/_Index_of_Generative_AI.md",
-    "AI/Generative_AI/Intensive gen AI course.md",
-    "AI/Generative_AI/Generative AI.md",
-    "Git/obsidian_vault.git.md",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png",
     "z_Attachments/transformer.png",
     "z_Attachments/uri.png",
-    "z_Attachments/data_azure.svg",
     "Untitled.canvas"
   ]
 }
