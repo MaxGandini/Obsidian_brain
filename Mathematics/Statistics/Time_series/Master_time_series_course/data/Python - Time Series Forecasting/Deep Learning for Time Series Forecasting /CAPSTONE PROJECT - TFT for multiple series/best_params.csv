@@ -1,0 +1,2 @@
+,output_chunk_length,num_attention_heads,n_epochs,lstm_layers,input_chunk_length,hidden_size,dropout,batch_size,rmse
+6,24,6,20,4,96,16,0.3,32,16.51624392566315

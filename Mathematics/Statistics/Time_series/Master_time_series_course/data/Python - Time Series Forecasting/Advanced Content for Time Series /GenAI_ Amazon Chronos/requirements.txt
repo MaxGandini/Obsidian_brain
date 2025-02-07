@@ -1,0 +1,8 @@
+pandas==2.2.2
+matplotlib==3.8.0
+numpy==1.26.4
+statsmodels==0.14.4
+scikit-learn==1.6.0
+chronos-forecasting @ git+https://github.com/amazon-science/chronos-forecasting.git@28e7b3281f68d1493a6290b3aa32902128ad2157
+tsdb==0.6.2
+torch @ https://download.pytorch.org/whl/cu121_full/torch-2.5.1%2Bcu121-cp310-cp310-linux_x86_64.whl

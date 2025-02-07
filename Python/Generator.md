@@ -5,4 +5,4 @@ In python an generator is an object that when propped, returns a value from a pr
 for i in range(5):
 ```
 
-range(5) is an generator, which sums 1 each time it's propped externally.
+range(5) is a generator, which sums 1 each time it's propped externally.

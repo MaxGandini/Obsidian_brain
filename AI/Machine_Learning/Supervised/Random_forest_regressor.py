@@ -1,11 +1,11 @@
-# Download latest version
-# path = kagglehub.dataset_download("yasserh/housing-prices-dataset")
-# print("Path to dataset files:", path)
-
+import kagglehub
 import pandas as pd 
 from pathlib import Path
 
-grandparent_dir= Path(__file__).parents[4]
+#path = kagglehub.dataset_download("yasserh/housing-prices-dataset")
+#print("Path to dataset files:", path)
+
+grandparent_dir= Path(__file__).parents[3]
 
 data_path = grandparent_dir / "datasets" / "Housing.csv"
 

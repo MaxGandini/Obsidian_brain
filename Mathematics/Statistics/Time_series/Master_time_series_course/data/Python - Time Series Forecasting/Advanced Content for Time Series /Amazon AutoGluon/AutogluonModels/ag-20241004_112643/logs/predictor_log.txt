@@ -1,0 +1,114 @@
+Beginning AutoGluon training... Time limit = 600s
+AutoGluon will save models to 'AutogluonModels/ag-20241004_112643'
+=================== System Info ===================
+AutoGluon Version:  1.1.1
+Python Version:     3.10.12
+Operating System:   Linux
+Platform Machine:   x86_64
+Platform Version:   #1 SMP PREEMPT_DYNAMIC Thu Jun 27 21:05:47 UTC 2024
+CPU Count:          2
+GPU Count:          1
+Memory Avail:       11.13 GB / 12.67 GB (87.8%)
+Disk Space Avail:   180.44 GB / 235.68 GB (76.6%)
+===================================================
+Setting presets to: best_quality
+
+Fitting with arguments:
+{'enable_ensemble': True,
+ 'eval_metric': RMSE,
+ 'freq': 'h',
+ 'hyperparameters': 'default',
+ 'known_covariates_names': ['event_day', 'day_of_week'],
+ 'num_val_windows': 50,
+ 'prediction_length': 216,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 1502,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'y',
+ 'time_limit': 600,
+ 'val_step_size': 96,
+ 'verbosity': 2}
+
+Provided train_data has 2160 rows, 3 time series. Median time series length is 720 (min=720, max=720). 
+Time series in train_data are too short for chosen num_val_windows=50. Reducing num_val_windows to 3.
+
+Provided data contains following columns:
+	target: 'y'
+	known_covariates:
+		categorical:        []
+		continuous (float): ['event_day', 'day_of_week']
+	past_covariates:
+		categorical:        []
+		continuous (float): ['temperature', 'rainfall']
+
+To learn how to fix incorrectly inferred types, please see documentation for TimeSeriesPredictor.fit
+
+AutoGluon will gauge predictive performance using evaluation metric: 'RMSE'
+	This metric's sign has been flipped to adhere to being higher_is_better. The metric score can be multiplied by -1 to get the metric value.
+===================================================
+
+Starting training. Start time is 2024-10-04 11:26:49
+Models that will be trained: ['SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'CrostonSBA', 'NPTS', 'DynamicOptimizedTheta', 'AutoETS', 'AutoARIMA', 'Chronos[base]', 'TemporalFusionTransformer', 'DeepAR', 'PatchTST']
+Training timeseries model SeasonalNaive. Training for up to 45.8s of the 595.8s of remaining time.
+	-4.1552       = Validation score (-RMSE)
+	0.11    s     = Training runtime
+	0.02    s     = Validation (prediction) runtime
+Training timeseries model RecursiveTabular. Training for up to 49.6s of the 595.6s of remaining time.
+	Warning: Exception caused RecursiveTabular to fail during training... Skipping this model.
+	The number of features in data (32) is not the same as it was in training data (29).
+You can set ``predict_disable_shape_check=true`` to discard this error, but please be aware what you are doing.
+Training timeseries model DirectTabular. Training for up to 53.5s of the 588.4s of remaining time.
+	-4.1853       = Validation score (-RMSE)
+	3.20    s     = Training runtime
+	0.14    s     = Validation (prediction) runtime
+Training timeseries model CrostonSBA. Training for up to 58.5s of the 585.0s of remaining time.
+	-6.0675       = Validation score (-RMSE)
+	7.66    s     = Training runtime
+	0.02    s     = Validation (prediction) runtime
+Training timeseries model NPTS. Training for up to 64.1s of the 577.3s of remaining time.
+	-3.6508       = Validation score (-RMSE)
+	4.98    s     = Training runtime
+	2.84    s     = Validation (prediction) runtime
+Training timeseries model DynamicOptimizedTheta. Training for up to 71.2s of the 569.5s of remaining time.
+	-3.6296       = Validation score (-RMSE)
+	22.68   s     = Training runtime
+	0.54    s     = Validation (prediction) runtime
+Training timeseries model AutoETS. Training for up to 78.0s of the 546.2s of remaining time.
+	-6.2072       = Validation score (-RMSE)
+	18.75   s     = Training runtime
+	1.27    s     = Validation (prediction) runtime
+Training timeseries model AutoARIMA. Training for up to 87.7s of the 526.1s of remaining time.
+	-5.1470       = Validation score (-RMSE)
+	27.40   s     = Training runtime
+	13.18   s     = Validation (prediction) runtime
+Training timeseries model Chronos[base]. Training for up to 97.1s of the 485.5s of remaining time.
+	-4.1319       = Validation score (-RMSE)
+	47.88   s     = Training runtime
+	13.06   s     = Validation (prediction) runtime
+Training timeseries model TemporalFusionTransformer. Training for up to 106.1s of the 424.5s of remaining time.
+	Warning: Exception caused TemporalFusionTransformer to fail during training... Skipping this model.
+	/usr/local/lib/python3.10/dist-packages/torchaudio/lib/libtorchaudio.so: undefined symbol: _ZNK3c105Error4whatEv
+Training timeseries model DeepAR. Training for up to 141.3s of the 424.0s of remaining time.
+	Warning: Exception caused DeepAR to fail during training... Skipping this model.
+	/usr/local/lib/python3.10/dist-packages/torchaudio/lib/libtorchaudio.so: undefined symbol: _ZNK3c105Error4whatEv
+Training timeseries model PatchTST. Training for up to 212.0s of the 424.0s of remaining time.
+	Warning: Exception caused PatchTST to fail during training... Skipping this model.
+	/usr/local/lib/python3.10/dist-packages/torchaudio/lib/libtorchaudio.so: undefined symbol: _ZNK3c105Error4whatEv
+Fitting simple weighted ensemble.
+	Ensemble weights: {'AutoETS': 0.13, 'DirectTabular': 0.33, 'DynamicOptimizedTheta': 0.27, 'NPTS': 0.15, 'SeasonalNaive': 0.12}
+	-3.3238       = Validation score (-RMSE)
+	3.39    s     = Training runtime
+	4.82    s     = Validation (prediction) runtime
+Training complete. Models trained: ['SeasonalNaive', 'DirectTabular', 'CrostonSBA', 'NPTS', 'DynamicOptimizedTheta', 'AutoETS', 'AutoARIMA', 'Chronos[base]', 'WeightedEnsemble']
+Total runtime: 176.51 s
+Best model: WeightedEnsemble
+Best model score: -3.3238
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+Computing feature importance
+Subsample_size 100 is larger than the number of items in the data and will be ignored
+Computing feature importance
+Subsample_size 100 is larger than the number of items in the data and will be ignored
+Computing feature importance
+Subsample_size 50 is larger than the number of items in the data and will be ignored

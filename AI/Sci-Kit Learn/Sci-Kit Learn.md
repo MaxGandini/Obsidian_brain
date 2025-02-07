@@ -1,6 +1,6 @@
 **Scikit-learn** is a widely used open-source machine learning library for [[Python]]. 
 #### 1. [[Supervised-Learning]]
-- [[Classification]]: Algorithms for predicting discrete labels .
+- [[AI/Machine_Learning/Classification]]: Algorithms for predicting discrete labels .
 - [[Regression]]: Techniques for predicting continuous outcomes .
 #### 2. [[Unsupervised-Learning]]
 - **Clustering**: Methods for grouping similar instances.

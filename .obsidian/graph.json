@@ -1,65 +1,51 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Python  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:01-Linux/Bash  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"AI/Machine Learning\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14873843
-      }
-    },
-    {
-      "query": "path:01-Linux/SystemD  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Rust  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
       "query": "path:AI  ",
       "color": {
         "a": 1,
-        "rgb": 16449459
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Time_series  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Mathematics  ",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "path:Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 7264040
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 1.56744791666667,
-  "lineSizeMultiplier": 2.23098958333333,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.299479166666667,
-  "repelStrength": 16.5104166666667,
+  "centerStrength": 0.4296875,
+  "repelStrength": 13.28125,
   "linkStrength": 1,
-  "linkDistance": 347,
-  "scale": 0.05852766346593489,
+  "linkDistance": 250,
+  "scale": 0.10865405591342799,
   "close": true
 }

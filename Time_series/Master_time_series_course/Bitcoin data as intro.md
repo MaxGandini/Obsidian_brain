@@ -1,0 +1,1 @@
+Section3:Intro.ipynb serves as an intro to finance concepts and time series volatility. The series for bitcoin are rich of trends and features which we can analyze.
