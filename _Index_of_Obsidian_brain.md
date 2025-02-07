@@ -6,7 +6,6 @@
  [[AI/_Index_of_AI|_Index_of_AI]]
  [[Azure/_Index_of_Azure|_Index_of_Azure]]
  [[Cloud/_Index_of_Cloud|_Index_of_Cloud]]
- [[conflict-files-obsidian-git|conflict-files-obsidian-git]]
  [[Git/_Index_of_Git|_Index_of_Git]]
  [[kaggle_comp/_Index_of_kaggle_comp|_Index_of_kaggle_comp]]
  [[Mathematics/_Index_of_Mathematics|_Index_of_Mathematics]]
