@@ -169,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_Index_of_Computer_science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -249,7 +250,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "852f116b8ddd3de5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "_Index_of_Computer_science.md",
     "kaggle_comp/analysis.py",
