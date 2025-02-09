@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Linux/Bash/Environment_variables.md",
+                "file": "01-Linux/_Index_of_01-Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environment_variables"
+              "title": "_Index_of_01-Linux"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/Environment_variables.md",
+                "file": "01-Linux/_Index_of_01-Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Environment_variables"
+              "title": "Outline of _Index_of_01-Linux"
             }
           },
           {
@@ -252,8 +252,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01-Linux/Bash/obsidian_runner.sh",
+    "01-Linux/Permissions.md",
+    "z_Attachments/azure_ml.png",
+    "z_Attachments/_Index_of_z_Attachments.md",
+    "01-Linux/SystemD/_Index_of_SystemD.md",
     "01-Linux/Bash/Environment_variables.md",
+    "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/Conditions and loops.md",
     "01-Linux/Bash/Bash.md",
     "_Index_of_Computer_science.md",
@@ -266,7 +270,6 @@
     "Programs/API.md",
     "01-Organization and motivation.md",
     "01-Linux/Tmux.md",
-    "01-Linux/Permissions.md",
     "Python/Intrpreter/pyenv.md",
     "conflict-files-obsidian-git.md",
     "z_Attachments/pyenv.png",
@@ -286,8 +289,6 @@
     "Time_series/time_series_models/ARIMA-differencing.md",
     "Time_series/time_series_models/ARIMA-X.md",
     "Time_series/Python_libraries/_Index_of_Python_libraries.md",
-    "Time_series/Python_libraries/IDTxl.md",
-    "Time_series/Stats_time_series/_Index_of_Stats_time_series.md",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
     "z_Attachments/multivariate_te_network.png",
@@ -296,7 +297,6 @@
     "z_Attachments/fig3.png",
     "z_Attachments/1*5bjD7kmtaJI-n3qztBC2Ig-901413345.png",
     "z_Attachments/transformer.png",
-    "z_Attachments/uri.png",
     "Untitled.canvas"
   ]
 }
