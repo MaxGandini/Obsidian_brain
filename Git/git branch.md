@@ -1,0 +1,1 @@
+Git branches are like pointers to specific versions of the main or master branch. Instead of putting your hands on a well curated repository that is working, you [[fork it]] , work on the changed separately and then make a [[pull]] request. 
