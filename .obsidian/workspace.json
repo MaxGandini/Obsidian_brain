@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Linux/Bash/Environment_variables.md",
+                "file": "Git/obsidian_vault.git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environment_variables"
+              "title": "obsidian_vault.git"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Linux/Bash/Environment_variables.md",
+                "file": "Git/obsidian_vault.git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Environment_variables"
+              "title": "Outline of obsidian_vault.git"
             }
           },
           {
@@ -252,12 +252,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Git/Git-basic-comm.md",
+    "01-Linux/Bash/Environment_variables.md",
     "01-Linux/_Index_of_01-Linux.md",
     "01-Linux/Permissions.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/_Index_of_z_Attachments.md",
     "01-Linux/SystemD/_Index_of_SystemD.md",
-    "01-Linux/Bash/Environment_variables.md",
     "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/Conditions and loops.md",
     "01-Linux/Bash/Bash.md",
@@ -289,7 +290,6 @@
     "Time_series/time_series_models/ARMA.md",
     "Time_series/time_series_models/ARIMA-differencing.md",
     "Time_series/time_series_models/ARIMA-X.md",
-    "Time_series/Python_libraries/_Index_of_Python_libraries.md",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
     "z_Attachments/multivariate_te_network.png",
