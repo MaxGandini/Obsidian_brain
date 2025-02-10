@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git.md",
+                "file": "_Index_of_Computer_science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "_Index_of_Computer_science"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md",
+                "file": "_Index_of_Computer_science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git"
+              "title": "Outline of _Index_of_Computer_science"
             }
           },
           {
@@ -252,6 +252,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Git/Git.md",
     "Git/Branches.md",
     "Git/Git-basic-comm.md",
     "01-Linux/SystemD/_Index_of_SystemD.md",
@@ -287,7 +288,6 @@
     "Mathematics/Statistics/Classification.md",
     "Mathematics/Statistics/ARIMA-differencing.md",
     "AI/Machine_Learning/Supervised/Regression.md",
-    "AI/Machine_Learning/Supervised/Classification.md",
     "z_Attachments/e4S7M9u.png",
     "z_Attachments/azure_ml.png",
     "z_Attachments/pyenv.png",
