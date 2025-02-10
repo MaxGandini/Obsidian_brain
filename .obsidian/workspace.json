@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/obsidian_vault.git.md",
+                "file": "Git/git config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian_vault.git"
+              "title": "git config"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/obsidian_vault.git.md",
+                "file": "Git/git config.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian_vault.git"
+              "title": "Outline of git config"
             }
           },
           {
@@ -252,7 +252,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "z_Attachments/e4S7M9u.png",
     "Git/Git-basic-comm.md",
+    "Git/git config.md",
+    "_Index_of_Computer_science.md",
+    "Git/obsidian_vault.git.md",
     "01-Linux/Bash/Environment_variables.md",
     "01-Linux/_Index_of_01-Linux.md",
     "01-Linux/Permissions.md",
@@ -262,7 +266,6 @@
     "01-Linux/Bash/obsidian_runner.sh",
     "01-Linux/Bash/Conditions and loops.md",
     "01-Linux/Bash/Bash.md",
-    "_Index_of_Computer_science.md",
     "Programs/Requests and Responses.md",
     "Programs/Programs.md",
     "Programs/Interpreter.md",
@@ -287,9 +290,6 @@
     "Time_series/Master_time_series_course/data/_Index_of_data.md",
     "Time_series/time_series_models/_Index_of_time_series_models.md",
     "Time_series/time_series_models/LLM_Time_Series.md",
-    "Time_series/time_series_models/ARMA.md",
-    "Time_series/time_series_models/ARIMA-differencing.md",
-    "Time_series/time_series_models/ARIMA-X.md",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
     "z_Attachments/multivariate_te_network.png",
