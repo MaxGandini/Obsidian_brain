@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git-basic-comm.md",
+                "file": "Git/Branches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git-basic-comm"
+              "title": "Branches"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git-basic-comm.md",
+                "file": "Git/Branches.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git-basic-comm"
+              "title": "Outline of Branches"
             }
           },
           {
@@ -252,6 +252,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Git/Git-basic-comm.md",
+    "Git/Branches.md",
     "01-Linux/SystemD/_Index_of_SystemD.md",
     "Programming_general/_Index_of_Programming_general.md",
     "Programming_general",
@@ -287,8 +289,6 @@
     "AI/Machine_Learning/Supervised/Regression.md",
     "AI/Machine_Learning/Supervised/Classification.md",
     "z_Attachments/e4S7M9u.png",
-    "Git/Git-basic-comm.md",
-    "_Index_of_Computer_science.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/pyenv.png",
     "z_Attachments/token.png",
