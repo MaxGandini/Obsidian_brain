@@ -15,7 +15,8 @@ The output of this, is the local keys which are set for the project. But if you 
 
 ``` command
 git config --get <key>
-git config --add git config --add webflyx.ceo "Warren"
+git config --add 
+git config --add webflyx.ceo "Warren"
 ```
 
 The second command adds a key which makes no sense, but It's an useful template.
