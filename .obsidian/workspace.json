@@ -252,8 +252,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Index_of_Computer_science.md",
+    "Git/Git-basic-comm.md",
     "Git/git config.md",
+    "_Index_of_Computer_science.md",
     "Git/git branch.md",
     "Git/Git.md",
     "z_Attachments/pyenv.png",
@@ -289,7 +290,6 @@
     "Time_series/Granger-Causality.md",
     "Time_series/BIC.md",
     "Time_series/ARIMA-differencing.md",
-    "Time_series/AIC.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
