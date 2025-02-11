@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git config.md",
+                "file": "Git/Git-basic-comm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git config"
+              "title": "Git-basic-comm"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git config.md",
+                "file": "Git/Git-basic-comm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of git config"
+              "title": "Outline of Git-basic-comm"
             }
           },
           {
@@ -252,11 +252,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Git/Git-basic-comm.md",
-    "Git/git config.md",
-    "_Index_of_Computer_science.md",
-    "Git/git branch.md",
     "Git/Git.md",
+    "Git/Git-basic-comm.md",
+    "Git/git branch.md",
+    "Git/git config.md",
+    "Git/Rebase.md",
+    "_Index_of_Computer_science.md",
     "z_Attachments/pyenv.png",
     "z_Attachments/e4S7M9u.png",
     "kaggle/rohlik/rohlik.py",
@@ -289,7 +290,6 @@
     "Time_series/PACF.md",
     "Time_series/Granger-Causality.md",
     "Time_series/BIC.md",
-    "Time_series/ARIMA-differencing.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
