@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git remote.md",
+                "file": "Git/git fetch-pull-push.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git remote"
+              "title": "git fetch-pull-push"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git remote.md",
+                "file": "Git/git fetch-pull-push.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git remote"
+              "title": "Outline of git fetch-pull-push"
             }
           },
           {
@@ -252,11 +252,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Git/git fetch-pull.md",
-    "Git/Git remote.md",
     "Git/git branch.md",
     "Git/git config.md",
+    "Git/obsidian_vault.git.md",
+    "Git/Rebase.md",
     "Git/Git-basic-comm.md",
+    "Git/Git remote.md",
+    "Git/git fetch-pull-push.md",
     "z_Attachments/pyenv.png",
     "z_Attachments/e4S7M9u.png",
     "kaggle/rohlik/rohlik.py",
@@ -288,8 +290,6 @@
     "Time_series/Time Series.md",
     "Time_series/PACF.md",
     "Time_series/Granger-Causality.md",
-    "Time_series/BIC.md",
-    "Time_series/ARIMA-differencing.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
