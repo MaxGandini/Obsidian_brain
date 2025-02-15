@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Classes/Inheritance.md",
+                "file": "Python/Classes/Polymorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inheritance"
+              "title": "Polymorphism"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Classes/Inheritance.md",
+                "file": "Python/Classes/Polymorphism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inheritance"
+              "title": "Outline of Polymorphism"
             }
           },
           {
@@ -252,9 +252,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Python/Classes/_Index_of_Classes.md",
-    "_Index_of_Computer_science.md",
     "Python/Classes/Inheritance.md",
+    "Python/Classes/Polymorphism.md",
+    "_Index_of_Computer_science.md",
+    "Python/Classes/_Index_of_Classes.md",
     "Python/Classes",
     "Git/git fetch-pull-push.md",
     "Git/git branch.md",
@@ -289,7 +290,6 @@
     "Time_series/Master_time_series_course/Drive_notebooks.md",
     "Time_series/Master_time_series_course/Bitcoin data as intro.md",
     "Time_series/_Index_of_Time_series.md",
-    "Time_series/Time series validation.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
