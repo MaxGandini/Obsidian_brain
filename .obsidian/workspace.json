@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git fetch-pull-push.md",
+                "file": "Python/Classes/Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git fetch-pull-push"
+              "title": "Inheritance"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git fetch-pull-push.md",
+                "file": "Python/Classes/Inheritance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of git fetch-pull-push"
+              "title": "Outline of Inheritance"
             }
           },
           {
@@ -252,13 +252,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Python/Classes/_Index_of_Classes.md",
+    "_Index_of_Computer_science.md",
+    "Python/Classes/Inheritance.md",
+    "Python/Classes",
+    "Git/git fetch-pull-push.md",
     "Git/git branch.md",
     "Git/git config.md",
     "Git/obsidian_vault.git.md",
     "Git/Rebase.md",
     "Git/Git-basic-comm.md",
     "Git/Git remote.md",
-    "Git/git fetch-pull-push.md",
     "z_Attachments/pyenv.png",
     "z_Attachments/e4S7M9u.png",
     "kaggle/rohlik/rohlik.py",
@@ -270,7 +274,6 @@
     "Time_series/time_series_models/ts_papers/multivariate/TimeXer_paper.pdf",
     "Time_series/time_series_models/ts_papers/multivariate/TimeMixer_Decomposable_Mul.pdf",
     "Time_series/time_series_models/ts_papers/multivariate/ARM_LLMs_multiv.pdf",
-    "Time_series/time_series_models/ts_papers/multivariate",
     "Time_series/Master_time_series_course/data/_Index_of_data.md",
     "Time_series/time_series_models/_Index_of_time_series_models.md",
     "Time_series/time_series_models/LLM_Time_Series.md",
@@ -287,9 +290,6 @@
     "Time_series/Master_time_series_course/Bitcoin data as intro.md",
     "Time_series/_Index_of_Time_series.md",
     "Time_series/Time series validation.md",
-    "Time_series/Time Series.md",
-    "Time_series/PACF.md",
-    "Time_series/Granger-Causality.md",
     "z_Attachments/azure_ml.png",
     "z_Attachments/token.png",
     "z_Attachments/multivariate_te_network_all.png",
