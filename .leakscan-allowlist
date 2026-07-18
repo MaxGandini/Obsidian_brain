@@ -6,3 +6,11 @@
 # Generic placeholder emails already used throughout the vault as examples.
 john\.doe@(example|contoso)\.com
 proxyUsername:proxyPassword@proxy\.server\.com
+
+# Ed Donner's public course-instructor email, present in vendored LLM course
+# notebook boilerplate (AI/Generative_AI/LLM/LLM_course) — not vault-owner PII.
+ed@edwarddonner\.com
+
+# Public academic contact for the vendored Bike Sharing dataset README
+# (Fanaee-T & Gama, Prophet time-series course materials) — not vault-owner PII.
+hadi\.fanaee@fe\.up\.pt

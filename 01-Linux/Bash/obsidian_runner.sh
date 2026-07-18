@@ -6,7 +6,7 @@ cleaned_path=$(echo "$1" | sed 's/\\//g')
 cleaned_path=$(echo "$cleaned_path" | sed 's/\/\.$//')
 
 # Debugging line to verify the cleaned path
-echo "Cleaned path: $cleaned_path" >> /home/Xilian/obsidian_runner_log.txt
+echo "Cleaned path: $cleaned_path" >> "$HOME/obsidian_runner_log.txt"
 
 # Open the file in Neovim, forcing it to stay in the foreground
 nvim "$cleaned_path"
