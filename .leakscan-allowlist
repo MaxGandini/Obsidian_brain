@@ -1,0 +1,8 @@
+# Regex allowlist for scripts/scan_for_leaks.py
+# One regex per line, matched against the full line of text. Lines matching
+# any of these are skipped entirely. Add a comment above each entry
+# explaining why it's a false positive, not a real leak.
+
+# Generic placeholder emails already used throughout the vault as examples.
+john\.doe@(example|contoso)\.com
+proxyUsername:proxyPassword@proxy\.server\.com

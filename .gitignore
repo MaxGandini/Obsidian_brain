@@ -1,2 +1,7 @@
 .env
 datasets
+
+# Local-machine state: churns constantly and can leak local paths/usernames
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/data.json

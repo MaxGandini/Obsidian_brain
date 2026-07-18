@@ -1,0 +1,15 @@
+name: Leak scan
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan all tracked files for personal info and secrets
+        run: python3 scripts/scan_for_leaks.py --all

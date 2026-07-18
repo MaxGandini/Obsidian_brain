@@ -17,7 +17,7 @@ name = "llmenv"
 version = "0.1.0"
 description = "An environment for llm engineering"
 authors = [
-    {name = "MaxGandini",email = "maximiliano.gandini.27@gmail.com"}
+    {name = "MaxGandini",email = "your.name@example.com"}
 ]
 license = {text = "MIT"}
 readme = "README.md"
